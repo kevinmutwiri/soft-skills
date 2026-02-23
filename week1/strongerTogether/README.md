@@ -8,6 +8,9 @@
 - [Your Voice Amplified: The Power of ALX Hashtags](#your-voice-amplified-the-power-of-alx-hashtags)
 - [Commitment to Success](#commitment-to-success)
 - [City Hubs](#city-hubs)
+- [How to Get Support](#how-to-get-support)
+- [How to Not Miss a Live Event](#how-to-not-miss-a-live-event)
+- [Still Have a Question?](#still-have-a-question)
 
 ## The Importance of Community
 
@@ -140,3 +143,47 @@ You can find the City Hub locations and contact details [here](https://docs.goog
 
 > Your City Hub is your personal workspace, where you can be immersed in a holistic ALX learning and growth experience.
 
+## How to Get Support
+
+From the moment you join, you become part of a dynamic and supportive network of learners, community champions, and staff. And all of us share a common goal: **To learn, grow, and thrive**!
+
+We have 4 support channels.
+
+### LEA—Your AI Experience Assistant
+
+LEA is our 24/7 AI-powered assistant. You can find LEA at the bottom right corner of the eHub. Whether you’re seeking insights into weekly learning deliverables, upcoming activities, or even the path to graduation, LEA has you covered! And here’s the kicker: LEA isn’t confined to English! Challenge it in your mother tongue, and prepare to be amazed by its multilingual prowess!
+
+### FreshDesk —For the Resolution of Technical Issues
+
+If the support you received from LEA was not sufficient, or if you require further assistance, you can open a ticket using FreshDesk. Please provide as much detail as possible, including screenshots when necessary, to speed up the resolution process. This proactive approach ensures that our technical support team has all the information they need to address your challenges quickly.
+
+### Assignment Clinics
+
+Assignment Clinics are hosted by the Professional Foundations team, in collaboration with the Curriculum Experts. They are your golden ticket to mastering your weekly learning content and a dedicated session for focus work, Q & A, and team support. So make sure you take advantage of this invaluable opportunity to seek guidance directly from the source, and clarify any queries you have. Just one more way you are ensuring your success in the course.
+
+### Peer Support—Harnessing the Power of Community
+
+Connect with your peers in your squads, and pay attention to those who are always eager to offer help. Conversely, when you are the one with the answers, be generous with your support. It’s important to note that cheating or plagiarism is not allowed. The support you share with your peers should be constructive guidance only, where needed.
+
+## How to Not Miss a Live Event
+
+live in-person and virtual events (that is, events that happen online at a specific time when we’d like to have you present alongside your peers). These may be opportunities for you to make new connections or to practice alongside your peers
+
+office hours where you can ask questions about the course, sessions with experts, or to get feedback on your work.
+
+To ensure that you don’t miss, you need to do 2 things ASAP:
+
+1. **Make sure you have access to your cohort’s Google Calendar**. 
+2. **Check your email and eHub Community platform often**. Be on the lookout for these calendar invites in your Gmail inbox—and accept the invites as soon as possible
+
+There will be online program-wide events and, at times, in-person local events at city hubs. Be sure to note if the event is in-person or online.
+
+Our community team will share reminders of live events on the eHub, but remember to keep your calendar notifications on so that you can get reminders from your calendar on your phone or computer. That way, you can show up and be part of the magic every time.
+
+## Still Have a Question?
+
+The answers to any questions you have are likely to be found in the course material here on Savanna. But, if you’ve searched thoroughly and still haven’t found what you need to know, you can do the following:
+
+1. Check the Resources channel, where course-related FAQs are answered.
+2. Ask your peers using your squad channel on the eHub. You will likely get a faster response.
+3. If you can, ask a peer- or community ambassador via email. Take note! You should only ask a community ambassador after you have completed steps 1 and 2 above.
