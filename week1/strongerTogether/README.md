@@ -5,6 +5,7 @@
 - [The Importance of Community](#the-importance-of-community)
 - [Community Dos and Don'ts](#community-dos-and-donts)
 - [Community Channels on the eHub](#community-channels-on-the-ehub)
+- [Your Voice Amplified: The Power of ALX Hashtags](#your-voice-amplified-the-power-of-alx-hashtags)
 
 ## The Importance of Community
 
@@ -100,4 +101,17 @@ If you are feeling friendly here are some things you might want to include:
 - What you hope to achieve over the coming year.
 - A person, a song, a quote, or anything that keeps you going even when times are hard.
 - A photo that captures you or something interesting about you.
+
+## Your Voice Amplified: The Power of ALX Hashtags
+
+Throughout your ALX learning journey, you’ll encounter these hashtags:
+
+- `#ALXLearnLoud`: Share your learning moments, insights, projects, and challenges. This hashtag builds your personal brand, demonstrates your expertise, and inspires others.
+- `#LifeAtALX`: Capture your unique ALX experience, from everyday moments to major milestones. This hashtag connects you with the wider community, fosters a sense of belonging, and showcases the diverse paths to success within ALX.
+- `#ALX`: Use this hashtag to connect all your ALX-related posts and activities. This helps to build a unified online presence for the community and increases the visibility of your work.
+- `#DoHardThings`: Celebrate the challenges you overcome and inspire others to push their boundaries. This hashtag reflects the ALX spirit of resilience, determination, and growth.
+
+By using these hashtags, you’re not just sharing your journey, but you’re also actively shaping the ALX community and amplifying its impact. Your voice matters. Use it to connect, inspire, and contribute to a movement that’s transforming Africa through technology.
+
+> **Our moonshot vision**: May your engagement on the eHub cause it to explode and take over X and Insta
 
