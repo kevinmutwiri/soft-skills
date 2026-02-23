@@ -4,6 +4,8 @@
 
 Revolutionary course designed to unlock doors for you and _launch your future career_. Your gateway to success, _powered by a vibrant network and unparalleled resources_
 
+Read [Professional Foundations - Welcome Video Transcript](https://docs.google.com/document/d/1W-F2G3bgG49wluq0gChmC9uOpADZUFTa-AeRFY3SL0g/edit?usp=sharing)
+
 - [1. How the program is structured.](#1-how-the-program-is-structured)
 - [2. How to approach the content.](#2-how-to-approach-the-content)
 - [3. The 8 meta-skills covered in the program.](#3-the-8-meta-skills-covered-in-the-program)
