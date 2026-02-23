@@ -138,3 +138,5 @@ Your City Hub is a place to:
 
 You can find the City Hub locations and contact details [here](https://docs.google.com/spreadsheets/d/1DSBLAKI5DxZt6-q2ma1ow12Z69BDhOYI5yN9grv_1mg/edit?usp=sharing). If you’re in one of the eight city hub locations, we highly encourage you to take full advantage of the opportunity by engaging with your peers and taking part in events and activities. This is where you can connect with like-minded individuals who are on a similar path as you
 
+> Your City Hub is your personal workspace, where you can be immersed in a holistic ALX learning and growth experience.
+
