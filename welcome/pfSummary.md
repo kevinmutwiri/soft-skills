@@ -13,6 +13,11 @@
   - [Week 6](#week-6)
   - [Week 7](#week-7)
   - [Week 8](#week-8)
+- [Phase 3](#phase-3)
+  - [Week 9](#week-9)
+  - [Week 10](#week-10)
+  - [Week 11](#week-11)
+  - [Week 12](#week-12) 
 
 ## **Requirements to Maintain Good Standing during the Course**
 
@@ -395,7 +400,7 @@
 
 * Largest amount of time in this week will go into your project
 
-#### Week 8
+### Week 8
 
 #### Topics
 
@@ -453,3 +458,183 @@
 #### Time Distribution
 
 * Largest amount of time in this week will go to the modules, and creating a solid slide deck
+
+## Phase 3
+
+### Week 9
+
+#### Topics
+
+* Peer Coaching Recap
+* The GROW Model Recap
+* Intro to Opportunity Identification
+* Specialization deep dives
+* Ethical Considerations in Technology
+
+---
+
+#### Learning Objectives
+
+* I can plan, organize and prioritize my time so I submit my work and show up for meetings on time
+* I consistently participate in peer coaching sessions with my peers
+* I can apply different feedback model techniques to give specific and objective feedback to others
+* I can identify an opportunity based on a rigorous understanding of the problem, the target user, customer and market
+* I understand the key trends in tech in the 21st century
+* I have built a habit of asking peers and people I report to for feedback on specific elements of my development
+* I consistently participate in peer coaching sessions with my peers
+* I can state succinctly the value proposition of what is covered in different tech paths
+
+---
+
+#### Milestone
+
+* Revised inventory, local problem statement, and Hub Activities report
+
+---
+
+#### Key Messages
+
+* Coming up with solutions involves not only human-centered design, but also understanding the market landscape
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go to conducting user interviews
+
+### Week 10
+
+#### Topics
+
+* Specialization deep dives
+* Key Career Skills
+* How to Deal with Imposter Syndrome
+* Resume Writing
+
+---
+
+#### Learning Objectives
+
+* I can improve on my idea(s) by incorporating feedback from research and users. I can take active steps to improve, alter or pivot my solution using feedback
+* I can articulate the importance of PICS (Passions, Interests, Causes, Strengths) in my journey to self actualization
+* I can attain a deep understanding of a problem and the specific user that has that problem in order to identify an opportunity.
+* I can state succinctly the value proposition of what is covered in the different tech programs
+* I can craft a well structured email that observes industry best practice
+* I can design an aesthetically pleasing and effective presentation
+* I can craft a clear and concise CV
+* I can create a professional online persona
+* I understand how Artificial Intelligence has shaped the world of work in the 21st century
+* I understand the ethical implications of using AI in my work
+
+---
+
+#### Milestone
+
+* Two-month practice review, peer coaching insights, and track analysis
+* Your updated professional resume
+
+---
+
+#### Key Messages
+
+* Your personal brand is important for your career success today
+* Decision-making involves evaluation, stakeholder analysis, evidence-based arguments, and counter-response strategies
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go to learning about the different technology fields
+
+### Week 11
+
+#### Topics
+
+* Specialization deep dives
+* Personal Branding
+* What is a Portfolio?
+* Why is Building a Portfolio Important?
+* What Makes a Good Portfolio
+* Intro to Building Your Website
+* What to Include in a Website
+* Website Host, Website Builder and Domain Host
+* Which Website Hosts to Choose
+* Your Domain Name
+* What to Include in Your Website
+
+---
+
+#### Learning Objectives
+
+* I can state succinctly the value proposition of what is covered in the different tech programs
+* I understand the key roles present in a technical team and how they work together
+* I understand the technical recruiting process
+* I understand the career paths available in the tech industry
+* I can project manage my work using online tools
+* I can prioritize ideas and/or action steps using different and appropriate prioritization tools/techniques
+
+---
+
+#### Milestone
+
+* Tech track commitments, research, expert interactions, and personal reflections
+
+---
+
+#### Key Messages
+
+* Exploring the different tech tracks
+* Overcoming imposter syndrome improves personal growth and confidence
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go to learning about the different tech tracks
+
+### Week 12
+
+**Topics**
+
+* Track specific content
+* Your Elevator Pitch
+* Foundations Reflections
+* Your Website’s Second Iteration
+* How to review your website and portfolio
+* Career Readiness
+* Update Your Skills Map
+* Celebrating You!
+
+---
+
+**Learning Objectives**
+
+* I can articulate my strengths and weaknesses as a young professional
+* I can deliver effective presentations
+* I can create a professional technical portfolio
+* I can design an aesthetically pleasing and effective presentation
+* I can create a professional technical portfolio
+* I can structure a story effectively to create maximum impact on an audience
+* I can articulate my vision in a compelling way that utilizes data and evidence to convince others to buy into it
+* I can leverage team members’ strengths and addresses weaknesses by enabling learning and growing between team members.
+* I understand the importance of varying backgrounds and perspectives in creating good work. I can use my understanding about the customer and the market for my solutions to determine the key activities and cost structures.
+* I can craft a well structured email that observes industry best practice
+* I understand and am able to articulate the software development process including identifying key stages in the process
+
+---
+
+**Milestone**
+
+* Share your LinkedIn profile and personal website, peer feedback, journey insights, and skills map revision
+
+---
+
+**Key Messages**
+
+* Aim for the stars; the universe is your playground!
+
+---
+
+**Time Distribution**
+
+* Largest amount of time in this week will go into reviews and finalizing your online portfolio
