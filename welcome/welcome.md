@@ -17,3 +17,8 @@ _Africa is brimming with talent, ambition, and a thirst for innovation. Its youn
 ## Our Mission:
 
 _To transform Africa by developing 3 million ethical and entrepreneurial leaders by 2035._
+
+
+Not just about completing a program. Requires _a collective effort, a shared vision, and a commitment from each and every one of us_.
+
+About **sharing your story**, **inspiring others**, and **lifting each other up** as we _create a brighter future for Africa_. Together, we can **build a world where every young African has the chance to reach their full potential**!
