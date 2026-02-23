@@ -1,6 +1,6 @@
 # ALX Professional Foundations Summary
 
-> [home](./pfOverview.md)
+> [home](./README.md)
 
 - [Requirements to Maintain Good Standing during the Course](#requirements-to-maintain-good-standing-during-the-course)
 - [Phase 1](#phase-1)
