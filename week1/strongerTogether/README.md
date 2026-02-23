@@ -7,6 +7,7 @@
 - [Community Channels on the eHub](#community-channels-on-the-ehub)
 - [Your Voice Amplified: The Power of ALX Hashtags](#your-voice-amplified-the-power-of-alx-hashtags)
 - [Commitment to Success](#commitment-to-success)
+- [City Hubs](#city-hubs)
 
 ## The Importance of Community
 
@@ -123,3 +124,17 @@ Think about why you are here. What are your reasons for taking this course?
 Reflect: What excites you most about what you know so far about this course? What do you want access to that this course may give you? What is your big vision? Who will it empower? What are the benefits to you or others?
 
 Your why will keep you committed and pushing forward when the going gets bumpy or the road ahead looks too steep. Sharing your reasons with others will help you stay accountable and motivated to keep going.
+
+## City Hubs
+
+Your City Hub is a place to:
+
+- Meet your peers face-to-face.
+- Collaborate as teams.
+- Build a local network of like-minded people.
+- Participate in content-related events, workshops or streaming parties.
+- Get help, or be nudged in the right direction.
+- Get motivated when the journey gets tough.
+
+You can find the City Hub locations and contact details [here](https://docs.google.com/spreadsheets/d/1DSBLAKI5DxZt6-q2ma1ow12Z69BDhOYI5yN9grv_1mg/edit?usp=sharing). If you’re in one of the eight city hub locations, we highly encourage you to take full advantage of the opportunity by engaging with your peers and taking part in events and activities. This is where you can connect with like-minded individuals who are on a similar path as you
+
