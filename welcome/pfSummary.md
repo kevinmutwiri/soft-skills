@@ -8,6 +8,11 @@
   - [Week 2](#week-2)
   - [Week 3](#week-3)
   - [Week 4](#week-4)
+- [Phase 2](#phase-2)
+  - [Week 5](#week-5)
+  - [Week 6](#week-6)
+  - [Week 7](#week-7)
+  - [Week 8](#week-8)
 
 ## **Requirements to Maintain Good Standing during the Course**
 
@@ -230,3 +235,221 @@
 
 * You will spend most of your time this week on researching and creating a presentation on your GCGO
 
+## Phase 2
+
+### Week 5
+
+#### Topics
+
+* Team Assignments
+* Sprint planning meetings and retros
+* Stages of Working in a Team
+* Agile Technology Teams
+* Problem Definition Review
+* My Chosen GCGO
+* Working with peers
+* Size of the Opportunity
+* Trends in the industry
+* Intro to Research Gathering & Data
+* Data Preparation Techniques
+* Tracking Down a Relevant Dataset
+* Intro to Data Visualization
+
+---
+
+#### Learning Objectives
+
+* I can plan, organize and prioritize my time so I submit my work and show up for meetings on time.
+* I actively listen and engage in group discussions and help the team work toward building consensus by suggesting compromises, alternative approaches, etc
+* I can synthesize learnings and information from research
+* I can validate an identified problem by interviewing users and conducting a root cause analysis
+* I can express and define a validated problem in a concise problem statement supported by user insights
+* I can define specific customer segments and differentiate between the user and the customer for my solution including stating the market size for this problem (i.e. how many people have said problem)
+* I can identify an opportunity based on a rigorous understanding of the problem, the target user, customer, and market
+
+---
+
+#### Milestone
+
+* Personal Write up on first team meeting
+
+---
+
+#### Key Messages
+
+* Using an agile approach enhances team collaboration and output.
+* Data preparation and visualization are important to make informed decision-making
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go to the modules, and team meetings
+
+### Week 6
+
+#### Topics
+
+* Leadership & Followership
+* Leadership types
+* What Makes a Teammate Truly Outstanding?
+* What is a Prototype?
+* What is a wireframe?
+* Popular wireframe tools
+* Creative Innovation
+* Divergent vs Convergent thinking
+* The SCAMPER technique
+* Bad Idea brainstorming
+* Idea generation techniques
+* Evidence-based reasoning
+* Introduction to Logic
+* Preparing to Conduct User Interviews
+* Empathy for Problem Solving Review
+* Types of questions
+* Tips for successful user interview
+
+---
+
+#### Learning Objectives
+
+* I can define what leadership is and articulate the type of leader I want to be
+* I actively volunteer useful knowledge, opinions, skills to help the group learn and complete a given task.
+* I conceptually understand what a prototype is, what types of prototypes exist, and why it is important in creating solutions
+* I can create a prototype with key functions and features that allow me to test assumptions to further improve my understanding of the target user and problem.
+* I can create a user centered solution that directly addresses the problem identified describing how it works in a written form
+* I can apply strong qualitative reasoning behind recommendations
+* I can demonstrate empathizing with a user of a problem I want to solve for by observing interviewing and receiving feedback from them
+* I understand the value of empathy, its essence and constituent components
+* I can create an effective interview guide
+* I can formulate specific and solvable questions from a general problem or problem statement
+
+---
+
+#### Milestone
+
+* Compilation of problem statements, idea collections, and team reflections
+
+---
+
+#### Key Messages
+
+* Problem definition can take multiple approaches, and it’s important to know which approach to choose depending on context
+* When conducting research, it is crucial to ask the right questions and use the right sources
+
+---
+
+#### Time Distribution
+
+* You will spend most of your time this week on creating problem statements and idea generation
+
+### Week 7
+
+#### Topics
+
+* Conflict Management (approach, methods & tips)
+* Negotiation: BATNA x Rapport
+* Negotiation: Listening and Tradeoffs
+* Human Centered Design Recap
+* BUILD Framework Recap
+* Design Thinking Recap
+* User Personas Recap
+* Prototypes and Wireframes
+* Steps to Creating a 3D Prototype
+* Steps to Creating a Wireframe
+* Prioritizing Your Prototype Features
+* Types of User Interview Questions
+* Consent Form
+* User Interview Checklist - 3D Prototype & Wireframes
+
+---
+
+#### Learning Objectives
+
+* I am able to respond to conflict, make compromises during conflict, build on others' ideas, and synthesize team discussions to move the team towards a decision.
+* I can negotiate effectively in professional situations
+* I can synthesize learnings and information from research
+* I can consciously practice Empathy in my engagement with others and articulate this practice in written reflections
+* I conceptually understand what a prototype is, what types of prototypes exist, and why it is important in creating solutions
+* I can create an effective interview guide
+* I can demonstrate empathizing with a user of a problem I want to solve for by observing interviewing and receiving feedback from them
+* I can improve on my idea(s) by incorporating feedback from research and users. I can take active steps to improve, alter or pivot my solution using feedback
+* I can create an effective interview guide
+
+---
+
+#### Milestone
+
+* Your/your team's wireframes or 3D prototype
+* A report on your 2 user interviews, and a reflection on how things are going with your team
+
+---
+
+#### Key Messages
+
+* Conflict management and negotiations are important skills for team collaboration and user engagement
+* Prototyping and wireframing are important skills you need for effective user interactions
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go into your project
+
+#### Week 8
+
+#### Topics
+
+* User Journey Mapping
+* Finalizing Prototype Scope
+* Product Requirements Document (PRD)
+* Identifying Constraints
+* Key Performance Indicators (KPIs)
+* Design Handovers in Tech Teams
+* Best Practices When Conducting Design Hand-Overs
+* Audience Awareness Recap
+* Audience Expectations & Needs
+* Audience's Needs x Powerful Message
+* Powerful Message
+* Pitching to Tech Leadership
+* Powerful Presentations
+* A Presentation on Presentations
+* Powerful Slides
+* Powerful Speaking
+* Powerful Presentation Tools
+* Video Production Tools
+* Video Recording Considerations
+* Editing Your Video
+
+---
+
+#### Learning Objectives
+
+* I can improve on my idea(s) by incorporating feedback from research and users.
+* I can take active steps to improve, alter or pivot my solution using feedback
+* I can prioritize ideas and/or action steps using different and appropriate prioritization tools/techniques
+* I can use my understanding about the customer and the market for my solutions to determine the key activities and cost structures
+* I can articulate the value of understanding the interconnected factors that inform a problem/need in order to craft a sustainable solution
+* I can use my understanding of a specific audience to decide what content is most relevant to and effective for them
+* I can understand an audience's expectations and needs through research and tactics such as empathy mapping
+* I can write succinct but informative and engaging online content
+* I utilize industry best practices for video conferencing
+
+---
+
+#### Milestone
+
+* A slide deck with details of your GCGO, problem, data, and team solution
+* A showcase of your wireframes or 3D prototype
+
+---
+
+#### Key Messages
+
+* To create a successful project, you need to know how to recognize constraints and define KPIs
+* Effective design handovers ensure smooth transitions and collaborations within tech teams
+
+---
+
+#### Time Distribution
+
+* Largest amount of time in this week will go to the modules, and creating a solid slide deck
