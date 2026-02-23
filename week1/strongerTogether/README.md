@@ -6,6 +6,7 @@
 - [Community Dos and Don'ts](#community-dos-and-donts)
 - [Community Channels on the eHub](#community-channels-on-the-ehub)
 - [Your Voice Amplified: The Power of ALX Hashtags](#your-voice-amplified-the-power-of-alx-hashtags)
+- [Commitment to Success](#commitment-to-success)
 
 ## The Importance of Community
 
@@ -115,3 +116,10 @@ By using these hashtags, you’re not just sharing your journey, but you’re al
 
 > **Our moonshot vision**: May your engagement on the eHub cause it to explode and take over X and Insta
 
+## Commitment to Success
+
+Think about why you are here. What are your reasons for taking this course?
+
+Reflect: What excites you most about what you know so far about this course? What do you want access to that this course may give you? What is your big vision? Who will it empower? What are the benefits to you or others?
+
+Your why will keep you committed and pushing forward when the going gets bumpy or the road ahead looks too steep. Sharing your reasons with others will help you stay accountable and motivated to keep going.
