@@ -4,3 +4,4 @@
 
 - [Welcome to the Future of Africa](./welcome.md)
 - [Professional Foundations Overview](./pfOverview.md)
+- [ALX Professional Foundations Summary](./pfSummary.md)
