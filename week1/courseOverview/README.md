@@ -7,6 +7,7 @@
 - [Secret Sauce: The 8 Meta-Skills](#secret-sauce-the-8-meta-skills)
 - [Skills Inventory](#skills-inventory)
 - [Skills defined](#skills-defined)
+- [ehub](#ehub)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -391,3 +392,28 @@ Here are the explanations for each main competency and its corresponding subtopi
 * **Ethics in Tech:** Considering the moral implications of digital products and data use.
 * **Technical Literacy:** Having a general understanding of how technology functions.
 * **Knowledge of Tech Track Specializations:** Understanding specific career paths like cybersecurity or data science.
+
+## ehub
+
+This will enable you to join the **Community** and your **Squad** (_your immediate community of peers_).
+
+You are expected to:
+
+- Keep track of announcements and updates that will be shared ever so often by the learning team on the platform.
+- Participate in the activities/discussions within your Squad, or on the program-wide platforms.
+
+### Community Engagements
+
+With some of the weekly content, you will have the chance to take time out in which you can put our learnings into action. During these times, you will have the opportunity to:
+
+- Apply your skills and knowledge.
+- Connect and network with individuals and businesses in your community and on LinkedIn.
+
+> At ALX and in this course, **70% of our learning is through doing**.
+
+**Office hours** are scheduled to help you with content related to the week, as well as any questions that you might have.
+
+**When**: Usually on Fridays at 2 PM GMT
+
+**Where**: For details on how to join the office hours online, keep a lookout for communication from the learner experience team via email and through the `#Announcements` channel on eHub.
+
