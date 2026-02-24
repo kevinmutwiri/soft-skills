@@ -8,6 +8,7 @@
 - [Skills Inventory](#skills-inventory)
 - [Skills defined](#skills-defined)
 - [ehub](#ehub)
+- [Course Completion Requirements](#course-completion-requirements)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -417,3 +418,47 @@ With some of the weekly content, you will have the chance to take time out in wh
 
 **Where**: For details on how to join the office hours online, keep a lookout for communication from the learner experience team via email and through the `#Announcements` channel on eHub.
 
+The course is _partially asynchronous_. This means that:
+
+- Certain aspects of the course will happen at set times.
+- Other elements of the course can take place within flexible time windows, at a pace determined by you.
+
+Each week there is a:
+
+- Large amount of new content to review and study.
+- New Test and Milestone (these require an understanding and application of that week’s content).
+
+> Important: Weekly Tests and Milestones due dates are always the same: **Mondays at 11:59 PM GMT**.
+
+But, within a given week, you have the freedom and flexibility to decide when and how much you will review and study the content, when you will take the Test, and when you will work on and submit your Milestone (as long as it’s before the deadline). You can create your own schedule and work at your own pace.
+
+The course requires you to complete **approximately 40 hours of work every week**.
+
+You can expect to spend:
+
+- `45%` → 18 hours per week going through engaging online content here on Savanna.
+- `30%` → 12 hours per week working on activities, assessments, and reflections.
+- `15%` → 6 hours per week collaborating with peers on community platforms and at the City Hubs.
+- `10%` → 4 hours at least once weekly attending Live sessions and optional City events.
+
+Each week, new learning material is released early on Monday morning. Again, in any given week, you have the flexibility to determine how you will schedule your time to complete the required work. But because there is so much content, it is important to manage your time wisely.
+
+There will also be live and virtual events taking place over the duration of the course.
+
+- Virtual events (such as office hours and expert sessions) will always be recorded and can be viewed after.
+- Some of the optional live events will be hosted at the City Hubs.
+
+For this reason we encourage you to take the time to find your closest City Hub and ensure you stay up to date with your City Hub’s calendar and list of beneficial activities.
+
+In some weeks—particularly in Phase 2—group collaboration is required. You must coordinate with your assigned project teams to meet virtually (or in person if you all happen to live near one another).
+
+YOU drive your own learning and determine your success. You will need to be intentional about managing your time to successfully complete the various requirements of this course.
+
+To successfully complete this course, you must:
+- Pass all Weekly Test with 70% and above
+- Submit all Weekly Milestone on time
+- Complete and pass all End of Module Quizzes
+
+## Course Completion Requirements
+
+<img width="880" height="880" alt="image" src="https://github.com/user-attachments/assets/8e073c68-5639-4cbd-bcad-65b8015fe5a3" />
