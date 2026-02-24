@@ -10,6 +10,7 @@
 - [6. Company Discovery Africa](#6-company-discovery-africa)
 - [7. YouTube Channels](#7-youtube-channels)
 - [Video Conferencing Etiquette and Tools](#video-conferencing-etiquette-and-tools)
+- [Video Conferencing Tools—Zoom](#video-conferencing-toolszoom)
 
 As you start navigating your tech careers and finding your true north, know that the tech industry has grown in leaps and bounds for the past several decades. Today, there are TONS of resources, publications, YouTube and Twitter accounts, and communities among many other resources to help you along your journey.
 
@@ -116,3 +117,10 @@ Make sure your background is appropriate and professional.
 Avoid taking other calls during the meeting.
 
 Dress suitably.
+
+## Video Conferencing Tools—Zoom
+
+[This 6-minute video](https://www.youtube.com/watch?v=PQBehKw-NQM) is a great beginner’s tutorial. The video focuses on the technical basics of how to use the app to schedule, invite folks to, and lead, a meeting.
+
+If you are already a pro and know how to use Zoom, watch it anyway—it will reinforce your knowledge and we bet you’ll still learn a few more hacks.
+
