@@ -6,4 +6,4 @@
 
 In an ever-changing world of work, siloed academic learning is quickly losing relevance, unless it is coupled with a meaningful mission that enables you to meaningfully contribute towards the global narrative.
 
-Watch [this video by Fred Swaniker]() attentively, as he speaks on the importance of connecting your career to a meaningful mission (i.e. the so-called 7 Global (Grand) Challenges facing the world).
+Watch [this video by Fred Swaniker](https://www.youtube.com/watch?v=mAN_r1K02uw) attentively, as he speaks on the importance of connecting your career to a meaningful mission (i.e. the so-called 7 Global (Grand) Challenges facing the world).
