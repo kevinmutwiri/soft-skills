@@ -9,6 +9,7 @@
 - [Skills defined](#skills-defined)
 - [ehub](#ehub)
 - [Course Completion Requirements](#course-completion-requirements)
+- [Key Terms](#key-terms)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -462,3 +463,20 @@ To successfully complete this course, you must:
 ## Course Completion Requirements
 
 <img width="880" height="880" alt="image" src="https://github.com/user-attachments/assets/8e073c68-5639-4cbd-bcad-65b8015fe5a3" />
+
+## Key Terms
+
+Here is the text extracted from the final image provided:
+
+### **Key Terms**
+
+* **Module**: A module is a **collection of similar content** that is grouped and presented **together**. If this was a physical book, a module could be called a chapter. When you hear module, think of a chapter. In the **Professional Foundations Course**, each week's material typically has **several modules**.
+* **Check Your Understanding Quizzes**: These are **quizzes** available at the **end of certain modules**. They are **auto-graded** here on Savanna. To successfully complete a quiz, you must **answer all the questions correctly**. You can **retake** the quizzes **as many times as needed** until you get all the answers right.
+* **Test**: A Test is a **required, graded assessment** that you will take each week here on Savanna. Think of it as a checkpoint to assess your understanding and application of the content you would have learned that week. Our tests are not designed to "catch you out" so you can fail. Their purpose is to let us know that you have **understood the content** and are fully capable of **applying it in professional settings**.
+* **Milestone**: A Milestone is a **graded assignment** that you will submit each week on Savanna. Most of the time, you'll be required to **upload a .pdf document** containing your completed assignment. A milestone is a **mark of a significant stage** that you would have reached. It speaks to the distance you would have covered in your **development process** to becoming a renowned tech professional. Every time you see the word milestone just remember that you are about to take another notable step in your professional journey.
+* **Rubric**: A rubric is a **marking guide** or (grading guide) that you will use to complete your assignments to the standard that is expected of you. Each **Milestone** will come with a **rubric**. It will clearly show you **how to assign scores** for each part of the Milestone that you will be reviewing.
+* **Non-passing / Not Passing**: If you receive a non-passing score on your Milestone or Test, it means that you did **not perform well enough to receive credit for it**. We use the phrase non-passing because we don't believe in failure; just opportunities for growth! If you receive a non-passing score, you will be **required to re-submit it**. The **minimum required score to pass is 70%**, so any score below 70% will be referred to as non-passing. Any score of 70% and above will be referred to as passing. You either get a **"passing"** score or a **"non-passing"** score. If you **disagree** with a non-passing score, you have **4 days to dispute it**. Otherwise, you must submit the Milestone again during the extended deadline.
+* **Peer Coaching**: Peer coaching is a **relational form of learning and development** where **peers help one another** by talking through their challenges using a structured format. It is a great tool we hope you will learn and practice often!
+* **Squad**: A squad is an **assigned group of peers** who interact on the eHub. Think of your squad as your immediate family where you can **ask questions, discuss program content, or get help**. You should be automatically added to your squad when you join the Professional Foundations Program community on the eHub.
+* **Project Team**: Phase 2 focuses on a **project** that you will work on in **teams**. Your project team will be allocated to you and made up of people within the program, who may or may not form part of your squad on the eHub. Your project team will be **required to meet** (in person or virtually) to collaborate on the project.
+* **City Hub**: We have **physical locations** within specific cities across the continent, where you can **get help, work from, and attend events or meetings** at. The City Hub locations are equipped with **facilities and weekly activities** to support your progress in this program. Details of the City Hub locations will be shared with you **via email**.
