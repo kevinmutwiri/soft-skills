@@ -192,3 +192,4 @@ Please read through our official online and in-person guidelines below carefully
 
 • **Sign-up for an event in a Hub and not attend**: In-person, blended, and live-streaming events will foresee a close number of participants, for logistical reasons. For this reason, if you are unsure whether you will be able to attend, please refrain from subscribing to the event, thus avoiding the risk of denying other participants the opportunity. If, for any reason, you are no longer able to attend, you will be able to unsubscribe from the event via Circle.
 
+> Optional: If you are still curious to learn more, you are welcome to go and read further on the [eHub Terms and Conditions](https://www.alxafrica.com/terms-conditions-portal/).
