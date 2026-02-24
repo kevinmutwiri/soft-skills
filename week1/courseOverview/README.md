@@ -466,10 +466,6 @@ To successfully complete this course, you must:
 
 ## Key Terms
 
-Here is the text extracted from the final image provided:
-
-### **Key Terms**
-
 * **Module**: A module is a **collection of similar content** that is grouped and presented **together**. If this was a physical book, a module could be called a chapter. When you hear module, think of a chapter. In the **Professional Foundations Course**, each week's material typically has **several modules**.
 * **Check Your Understanding Quizzes**: These are **quizzes** available at the **end of certain modules**. They are **auto-graded** here on Savanna. To successfully complete a quiz, you must **answer all the questions correctly**. You can **retake** the quizzes **as many times as needed** until you get all the answers right.
 * **Test**: A Test is a **required, graded assessment** that you will take each week here on Savanna. Think of it as a checkpoint to assess your understanding and application of the content you would have learned that week. Our tests are not designed to "catch you out" so you can fail. Their purpose is to let us know that you have **understood the content** and are fully capable of **applying it in professional settings**.
