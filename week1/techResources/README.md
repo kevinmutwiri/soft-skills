@@ -9,6 +9,7 @@
 - [5. Company Discovery](#5-company-discovery)
 - [6. Company Discovery Africa](#6-company-discovery-africa)
 - [7. YouTube Channels](#7-youtube-channels)
+- [Video Conferencing Etiquette and Tools](#video-conferencing-etiquette-and-tools)
 
 As you start navigating your tech careers and finding your true north, know that the tech industry has grown in leaps and bounds for the past several decades. Today, there are TONS of resources, publications, YouTube and Twitter accounts, and communities among many other resources to help you along your journey.
 
@@ -83,3 +84,15 @@ These are just a few of the many great resources available for people breaking i
 
 Remember that ALX is in the business of nurturing future African leaders. Therefore, take this opportunity to participate in these communities. It’s always fun and a fantastic opportunity for networking that will ultimately give you access to partnerships, jobs and, who knows, you might meet your future co-founder in one of these spaces!
 
+## Video Conferencing Etiquette and Tools
+
+Participating in video calls via Zoom, Google Meet, Skype, Teams, and other video conferencing platforms means you will need to be on your professional “A” game.
+
+### Dont's
+
+1. Not having proper lighting
+2. Distructions while on call like talking to someone else / picking a call
+3. Noisy background
+4. Joining the meeting on a phone especially when you need to do presentations
+5. Distracting or unprofessional background
+6. 
