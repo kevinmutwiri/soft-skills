@@ -2,10 +2,14 @@
 
 > [home](../README.md)
 
+- [8 Meta skills](#8-meta-skills)
+- [What Makes The Professional Foundations Unique?](#what-makes-the-professional-foundations-unique)
+
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
 The meta skills and the skills that are part of that category are as follows:
 
+## 8 Meta skills
 
 ### **Critical Thinking**
 
@@ -96,3 +100,41 @@ The meta skills and the skills that are part of that category are as follows:
 * **Tech Tools:** Utilizing software and hardware effectively.
 * **Ethics in Tech:** Navigating moral issues in digital environments.
 * **Technical Literacy:** Fluency in understanding and using technology.
+
+## What Makes The Professional Foundations Unique?
+
+The Professional Foundations Course will equip you with **key tools**, and **critical soft and technical skills**. You will also invest your time in:
+
+- Discovering who you are.
+- Developing your character.
+- Forming healthy lifestyle habits.
+- Exploring rewarding ways to merge your professional aspirations and mission.
+
+We will empower you to skillfully navigate and confidently lead the different aspects of your day-to-day.
+
+This course will unlock your ability to build and practice additional critical real-world skills that are highly sought after by employers and clients.
+
+As a Professional Foundations graduate, you will be:
+- self-aware,
+- aligned with your values,
+- a great communicator and collaborator,
+- humble and empathetic, and
+- an analytical and creative thinker.
+
+You will be well-equipped for your job search, as you will hold insider secrets for successfully finding and creating work opportunities and standing out in job interviews.
+
+As part of this course, you will become a member of a community. Within that community, you will belong to a smaller group called a Squad, which consists of other peers who are also going through the course.
+
+As Squad members, you will:
+
+- Regularly communicate via eHub.
+- Offer peer coaching sessions to one another.
+- Support and motivate one another.
+
+Out of the Squads, smaller teams are formed that collaborate on group projects (in-person or virtually). Many past participants report that the connections they made in their Squads and teams were what enabled them to complete the course successfully. These connections are often carried forward and form the foundation of the learner’s professional networks.
+
+Unlike traditional courses, all learning content and assignments/milestones are designed to help you develop critical skills that you actually need for the real world of work.
+
+- Weekly Tests help you assess whether you have understood the content.
+- Milestones simulate projects done in the workplace, and provide you with actual work samples.
+
