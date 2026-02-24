@@ -5,3 +5,4 @@
 - [Stronger Together](./strongerTogether/README.md)
 - [Getting Started](./gettingStarted/README.md)
 - [Course Overview](./courseOverview/README.md)
+- [Global Challenges and Global Opportunities](./gcgo/README.md)
