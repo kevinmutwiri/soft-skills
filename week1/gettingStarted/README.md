@@ -4,7 +4,8 @@
 
 - [Welcome to PF](#welcome-to-pf)
 - [Why Complete the Professional Foundations Course?](#why-complete-the-professional-foundations-course)
-- [The 8 Meta-Skills](#the-8-meta-skills)
+- [The 8 Meta-Skills](./the8MetaSkills.md)
+- [Course Structure 1](#course-structure-1)
 
 ## Welcome to PF
 
@@ -142,4 +143,11 @@ To put it differently, completing this course successfully will:
 - Empower you in your career path by helping you connect with your personal mission.
 - Equip you to better manage yourself and work with others.
 - Enable you to set a high standard of professional excellence.
+
+## Course Structure 1
+
+### The Content Release Cycle
+
+The learning content for this course is divided into 12 weeks. The content is divided in such a way that it is sufficient for each week’s course load, so you should please pace yourself accordingly.
+The content will be released every weeks, with one week worth of content released each time. So, for example, right now you’ve received the onboarding and Week 1 content. Content for Weeks 2 will be released in next week, when you’re completing the Week 1 content (the content you are busy with now).
 
