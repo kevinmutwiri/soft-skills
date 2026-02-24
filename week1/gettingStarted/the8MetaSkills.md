@@ -35,6 +35,7 @@ The 8 meta-skills are broken down below"
 * **Self Regulation:** Managing internal states and impulses.
 * **Ethics & Integrity:** Adhering to moral principles and honesty.
 * **Self Improvement:** Actively seeking to enhance one's skills and qualities.
+* **Proactivity**: Taking initiative and responsibility for making things happen rather than waiting to react to events.
 
 ---
 
