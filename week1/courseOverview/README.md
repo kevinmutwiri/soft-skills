@@ -4,6 +4,7 @@
 
 - [8 Meta skills](#8-meta-skills)
 - [What Makes The Professional Foundations Unique?](#what-makes-the-professional-foundations-unique)
+- [Secret Sauce: The 8 Meta-Skills](#secret-sauce-the-8-meta-skills)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -138,3 +139,118 @@ Unlike traditional courses, all learning content and assignments/milestones are 
 - Weekly Tests help you assess whether you have understood the content.
 - Milestones simulate projects done in the workplace, and provide you with actual work samples.
 
+## Secret Sauce: The 8 Meta-Skills
+
+The African Leadership Team conducted research that included interviewing over 200 executives across Africa and around the world to discover the answer to one key question.
+
+> What skills are most important for entry-level employees to have when they work for your company?
+
+What resulted from this was a list of 7 meta-skills that almost all employers agreed were essential to success for young people in today’s modern workplace. In addition to the 7 meta-skills above—due to the rapidly evolving employment and tech landscape—we added one more meta-skill on Tech Ecosystems.
+
+The 8 Meta-Skills Are:
+
+### Leading Self	
+
+Those skilled at leading self see “_failure_” as a learning opportunity. They pursue their vision even through adversity. They use all of their real-world experience for growth.
+
+**Key characteristics**:
+
+- Self-awareness
+- Proactivity
+- Lifelong values
+- Self-improvement
+- Self-regulation
+
+
+### Leading Others	
+
+Today’s employers seek people who can take charge when the situation requires it, defines a project’s direction, and collaborates with co-workers.
+
+**Key characteristics**:
+
+- Empathy
+- Diversity
+- Relationship building
+- Feedback
+- Collaboration
+
+
+### Entrepreneurial Thinking	
+
+You don’t have to be an entrepreneur to benefit from entrepreneurial thinking. People with this mindset pursue their vision even through adversity. They see their real-world experience as an opportunity to learn and grow.
+
+**Key characteristics**:
+
+- Systems thinking
+- Identifying opportunities
+- Human-centered thinking
+- Creativity and innovation
+- Continuous iteration
+
+
+### Quantitative Reasoning	
+
+Employers want quantifiable results. The ability to collect and evaluate data and use it to determine the most effective and efficient way to approach problems is a very valuable skill.
+
+**Key characteristics**:
+
+- Data contextualization
+- Uncertainty and modeling of the real world
+- Empirical research
+- Data-based decision making
+- Quantitative problem solving
+
+
+### Managing Complex Tasks	
+
+The ability to look at a complex project from multiple perspectives is another highly sought-after skill.
+
+**Key characteristics**:
+
+- Scoping
+- Structuring
+- Planning
+- Coordination
+- Execution
+
+
+### Communication for Impact	
+
+Your brilliant ideas will do you no good if you can’t effectively share them with others. A deep understanding of your audience is just as important as what you say and how you say it.
+
+**Key characteristics**:
+
+- Audience awareness
+- Writing process
+- Voice
+- Organizing for effective communication
+- Storytelling and presentation
+
+
+### Critical Thinking	
+
+Today’s successful professionals don’t jump to conclusions or assume outcomes—they critically examine facts and carefully consider solutions.
+
+**Key characteristics**:
+
+- Authentic inquiry
+- Evidence/Research analysis
+- Arguments and judgement
+- Synthesis
+
+
+### Tech Ecosystem	
+
+In addition to the 7 meta-skills above, you will be learning one extra meta-skill. We’re throwing in this bonus because as tech professionals, it’s also critical.
+
+Of course, as you venture out into the world to become leaders in technology specifically, it is also crucial that you have the appropriate tech ecosystem awareness to be able to succeed in your chosen tech tracks and leverage all the tools that are available to today’s modern workforce.
+
+**Key characteristics**:
+
+- How to work in Technical and Product Teams
+- Tech tools
+- Ethics in tech
+- Technical literacy
+- Tech track specialization
+
+Learning and practicing all of these meta-skills will supercharge your journey as a tech professional! So, get ready to to learn and internalize these skills and mindsets, as they will significantly impact your professional and career growth!:
