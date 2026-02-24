@@ -11,6 +11,7 @@
 - [7. YouTube Channels](#7-youtube-channels)
 - [Video Conferencing Etiquette and Tools](#video-conferencing-etiquette-and-tools)
 - [Video Conferencing Tools—Zoom](#video-conferencing-toolszoom)
+- [Video Conferencing Tools—Google Meet](#video-conferencing-toolsgoogle-meet)
 
 As you start navigating your tech careers and finding your true north, know that the tech industry has grown in leaps and bounds for the past several decades. Today, there are TONS of resources, publications, YouTube and Twitter accounts, and communities among many other resources to help you along your journey.
 
@@ -123,4 +124,9 @@ Dress suitably.
 [This 6-minute video](https://www.youtube.com/watch?v=PQBehKw-NQM) is a great beginner’s tutorial. The video focuses on the technical basics of how to use the app to schedule, invite folks to, and lead, a meeting.
 
 If you are already a pro and know how to use Zoom, watch it anyway—it will reinforce your knowledge and we bet you’ll still learn a few more hacks.
+
+
+## Video Conferencing Tools—Google Meet
+
+[This 5-minute video](https://www.youtube.com/watch?v=ztyHfVLcp24&t=1s) takes us through each step of hosting a meeting in Google Meet. Yes, we see you, self-acclaimed-Google-Meet-guru 😎 You, too, should watch the video! You will learn something new and, worst case scenario, it will reaffirm your skills and self-proclaimed crown.
 
