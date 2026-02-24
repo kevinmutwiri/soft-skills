@@ -4,3 +4,4 @@
 - [Platform Onboarding](./platformOnboarding/README.md)
 - [Stronger Together](./strongerTogether/README.md)
 - [Getting Started](./gettingStarted/README.md)
+- [Course Overview](./courseOverview/README.md)
