@@ -7,3 +7,4 @@
 - [Course Overview](./courseOverview/README.md)
 - [Global Challenges and Global Opportunities](./gcgo/README.md)
 - [Daily 3](./daily3/README.md)
+- [Community Guidelines and Code of Conduct](./codeOfConduct/README.md)
