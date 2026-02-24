@@ -5,6 +5,7 @@
 - [8 Meta skills](#8-meta-skills)
 - [What Makes The Professional Foundations Unique?](#what-makes-the-professional-foundations-unique)
 - [Secret Sauce: The 8 Meta-Skills](#secret-sauce-the-8-meta-skills)
+- [Skills Inventory](#skills-inventory)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -254,3 +255,27 @@ Of course, as you venture out into the world to become leaders in technology spe
 - Tech track specialization
 
 Learning and practicing all of these meta-skills will supercharge your journey as a tech professional! So, get ready to to learn and internalize these skills and mindsets, as they will significantly impact your professional and career growth!:
+
+
+## Skills Inventory
+
+[Original Skills Tracker](https://docs.google.com/spreadsheets/d/1l1OB6KGYA7tlv0LYgrrBJ6PJ3dNEVpP0DWnmblH1QXQ/edit?usp=drive_link)
+
+YOU are the master of your own ALX journey! So make sure to cultivate curiosity towards new skills, demonstrate proactivity in acquiring them, and take ownership of your own learning experience.
+
+[My Skills Tracker](https://docs.google.com/spreadsheets/d/1NgS5SSlg8uQetnURI2Y_4umFAj5YvYSPeK3wHAA7CKo/edit?usp=drive_link)
+
+For each of the skills, you must rate yourself between 1 and 5:
+
+`5` = if you are already exceptional in the area.    
+`4` = if you possess good/solid skills.    
+`3` = if you know some stuff, but not everything and just do okay.    
+`2` = if have little experience and know there is still room for substantial growth.    
+`1` = if you have minimal or no skills in the area.
+
+_At the bottom of the sheet, list at least 3 skills that you scored between 1 -and 3 in and personally are eager to grow._
+
+This activity will help you have a baseline assessment of where you are right now as you embark on this learning journey.
+
+Completing it will require a bit of thinking and honesty with yourself
+
