@@ -4,6 +4,7 @@
 
 - [Our Pledge](#our-pledge)
 - [CHAIR Values](#chair-values)
+- [Community Values](#community-values)
 
 ## Our Pledge
 
@@ -48,3 +49,14 @@ These CHAIR values align with the Code of Conduct and the Honor Code.
 * **I do not give up.** Ever. Even if it takes time and is hard.
 * I see **challenges** as **opportunities**.
 * I know I do not have it **all figured out**. But I give it my **best shot**. Again and again.
+
+
+## Community Values
+
+You are now part of one of the largest, most elite networks of young professionals on the continent. And we have expectations for how you behave in this special community.
+
+Earlier on we shared an abridged version of community dos and don'ts when interacting on the eHub. Below is a more comprehensive list of the values and behaviors we expect from members of our community, both online and offline:
+
+<img width="1176" height="653" alt="image" src="https://github.com/user-attachments/assets/29c310ab-d02f-47da-912c-b60b13e21c14" />
+
+
