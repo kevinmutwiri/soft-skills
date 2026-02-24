@@ -6,6 +6,7 @@
 - [What Makes The Professional Foundations Unique?](#what-makes-the-professional-foundations-unique)
 - [Secret Sauce: The 8 Meta-Skills](#secret-sauce-the-8-meta-skills)
 - [Skills Inventory](#skills-inventory)
+- [Skills defined](#skills-defined)
 
 **Main objective of the course**: _to equip you with key workspace skills encapsulated as 8 meta-skills_.
 
@@ -280,3 +281,99 @@ This activity will help you have a baseline assessment of where you are right no
 
 Completing it will require a bit of thinking and honesty with yourself
 
+## Skills defined
+
+Here are the explanations for each main competency and its corresponding subtopics, based on the provided frameworks:
+
+### **Leading Self**
+
+**Definition:** Mastering personal growth through self-awareness, emotional regulation, and a commitment to ethical integrity.
+
+* **Self-awareness:** Understanding your own personality, strengths, and emotions.
+* **Proactivity:** Taking initiative and acting in advance of a future situation.
+* **Lifelong Values:** Maintaining a consistent moral compass and core principles throughout life.
+* **Self-improvement:** The intentional process of enhancing your own skills and character.
+* **Self-regulation:** Managing your thoughts and reactions to maintain composure and focus.
+
+---
+
+### **Leading Others**
+
+**Definition:** Building influential relationships and fostering collaboration through empathy and constructive feedback.
+
+* **Empathy:** The ability to understand and share the feelings of another person.
+* **Diversity:** Recognizing and valuing the different perspectives and backgrounds within a group.
+* **Relationship Building:** Developing and maintaining professional connections.
+* **Feedback:** Giving and receiving constructive information to improve performance.
+* **Collaboration:** Working jointly with others to achieve a shared objective.
+
+---
+
+### **Entrepreneurial Thinking**
+
+**Definition:** Identifying market or social opportunities to create sustainable, iterative solutions.
+
+* **Systems Thinking:** Analyzing how different parts of a whole interact within a complex environment.
+* **Identifying Opportunities:** Spotting gaps or needs in the market that can be filled.
+* **Human-centred Thinking:** Designing solutions based on the specific needs and experiences of people.
+* **Creativity and Innovation:** Generating original ideas and turning them into practical solutions.
+* **Continuous Iteration:** Repeatedly testing and refining a product or concept to improve it.
+
+---
+
+### **Quantitative Reasoning**
+
+**Definition:** Applying data modeling, empirical research, and mathematical logic to solve real-world problems.
+
+* **Data Contextualisation:** Understanding the "who, what, and why" behind a set of numbers.
+* **Uncertainty and Modelling of the Real World:** Creating mathematical representations of unpredictable real-life scenarios.
+* **Empirical Research:** Gathering knowledge through direct observation or experimentation.
+* **Data-based Decision Making:** Using factual evidence rather than intuition to guide choices.
+* **Quantitative Problem Solving:** Applying mathematical logic to find solutions to numerical challenges.
+
+---
+
+### **Managing Complex Tasks**
+
+**Definition:** Defining problems and prioritizing resources to execute structured work plans efficiently.
+
+* **Project Scoping:** Defining the boundaries, goals, and deliverables of a project.
+* **Project Structuring:** Organizing a project into manageable components or phases.
+* **Project Planning:** Scheduling tasks and allocating the resources needed to finish them.
+* **Project Coordination:** Synchronizing the efforts of people and resources to keep work on track.
+* **Project Execution:** Managing the actual work to ensure the project goals are met.
+
+---
+
+### **Communication for Impact**
+
+**Definition:** Using storytelling, voice, and structured organization to effectively reach and move a specific audience.
+
+* **Audience Awareness:** Tailoring your message to the specific needs and knowledge level of your listeners.
+* **Writing Process:** Using a structured method (drafting, editing, revising) to produce high-quality text.
+* **Appropriate & consistent Voice:** Maintaining a tone and personality that fits the context.
+* **Organising for Effective Communication:** Arranging ideas logically so they are easy to follow.
+* **Storytelling and Presentation:** Using narrative and visuals to engage and persuade an audience.
+
+---
+
+### **Critical Thinking**
+
+**Definition:** Evaluating information through research and analysis to form reasoned judgments and synthesize new insights.
+
+* **Authentic Inquiry:** Asking deep, curious questions to get to the root of a topic.
+* **Evidence/Research Analysis:** Evaluating the quality and relevance of data or sources.
+* **Arguments and Judgement:** Building logical cases and making informed decisions based on them.
+* **Synthesis:** Combining various ideas to form a new, comprehensive conclusion.
+
+---
+
+### **Tech Ecosystem**
+
+**Definition:** Understanding technical literacy, tools, and ethics to work effectively within product and technical teams.
+
+* **Understanding how technical & product teams work:** Knowing the roles and workflows of developers and designers.
+* **Tech Tools:** Being proficient in using the hardware and software required for the job.
+* **Ethics in Tech:** Considering the moral implications of digital products and data use.
+* **Technical Literacy:** Having a general understanding of how technology functions.
+* **Knowledge of Tech Track Specializations:** Understanding specific career paths like cybersecurity or data science.
