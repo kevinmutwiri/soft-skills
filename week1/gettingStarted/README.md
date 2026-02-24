@@ -38,3 +38,11 @@ Our Special Sauce consists of the **8 Meta Skills**. You can learn more about th
 The learning content for this course is divided into 12 weeks. The content is divided in such a way that it is sufficient for each week’s course load, so you should please pace yourself accordingly.
 The content will be released every weeks, with one week worth of content released each time. So, for example, right now you’ve received the onboarding and Week 1 content. Content for Weeks 2 will be released in next week, when you’re completing the Week 1 content (the content you are busy with now).
 
+### Office Hours
+
+You will also have a weekly, live, hour long, online office hour session, where you will be able to join other learners as we:
+
+- Provide an overview of the content for that week.
+- Assist you with how to go about completing your assessments and what to look out for.
+- Give you a space to ask questions, and learn from others questions.
+The details for every week’s office hours will be shared with you via the eHub and your email
