@@ -265,7 +265,7 @@ YOU are the master of your own ALX journey! So make sure to cultivate curiosity 
 
 [My Skills Tracker](https://docs.google.com/spreadsheets/d/1NgS5SSlg8uQetnURI2Y_4umFAj5YvYSPeK3wHAA7CKo/edit?usp=drive_link)
 
-For each of the skills, you must rate yourself between 1 and 5:
+For each of the skills, under the Before Foundations section, you must rate yourself between 1 and 5:
 
 `5` = if you are already exceptional in the area.    
 `4` = if you possess good/solid skills.    
