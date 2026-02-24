@@ -281,6 +281,8 @@ This activity will help you have a baseline assessment of where you are right no
 
 Completing it will require a bit of thinking and honesty with yourself
 
+> what top 3 skills do you personally want to grow? Which 3 skills do you think you are already good at and rated a 4 or 5 in? Which skill interests you the most out of every skill that is listed?
+
 ## Skills defined
 
 Here are the explanations for each main competency and its corresponding subtopics, based on the provided frameworks:
