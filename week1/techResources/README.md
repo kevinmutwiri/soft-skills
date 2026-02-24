@@ -95,4 +95,24 @@ Participating in video calls via Zoom, Google Meet, Skype, Teams, and other vide
 3. Noisy background
 4. Joining the meeting on a phone especially when you need to do presentations
 5. Distracting or unprofessional background
-6. 
+6. Talking while on mute
+7. Not having the camera on or inappropriate camera angle
+8. Unprofessional attire
+
+### Do's
+
+Turn on your camera in a well-lit room and ensure a good angle.
+
+Find a quiet, distraction-free space to prepare for your call.
+
+Use a computer or laptop, not a cellphone.
+
+Avoid attending to matters outside the call. Rather excuse yourself if absolutely necessary.
+
+Mute yourself when not speaking; unmute when it's your time to talk.
+
+Make sure your background is appropriate and professional.
+
+Avoid taking other calls during the meeting.
+
+Dress suitably.
