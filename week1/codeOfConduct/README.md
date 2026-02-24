@@ -8,6 +8,12 @@
 - [Code of Conduct](#code-of-conduct)
  - [Online Community Guidelines](#online-community-guidelines)
  - [In-person Community Guidelines](#in-person-community-guidelines)
+- [Harassment](#harassment)
+- [Discrimination](#discrimination)
+- [Plagiarism](#plagiarism)
+- [Cheating](#cheating)
+- [Privacy and Data Protection](#privacy-and-data-protection)
+- [Offense System](#offense-system)
 
 ## Our Pledge
 
@@ -193,3 +199,95 @@ Please read through our official online and in-person guidelines below carefully
 • **Sign-up for an event in a Hub and not attend**: In-person, blended, and live-streaming events will foresee a close number of participants, for logistical reasons. For this reason, if you are unsure whether you will be able to attend, please refrain from subscribing to the event, thus avoiding the risk of denying other participants the opportunity. If, for any reason, you are no longer able to attend, you will be able to unsubscribe from the event via Circle.
 
 > Optional: If you are still curious to learn more, you are welcome to go and read further on the [eHub Terms and Conditions](https://www.alxafrica.com/terms-conditions-portal/).
+
+### Harassment
+
+**Harassment** is _behavior towards a person that causes mental or emotional suffering_, which includes repeated unwanted contact without a reasonable purpose, insults, threats, unwanted touching, or offensive language.
+
+#### Types of harassment:
+
+- **Verbal harassment**: Calling, or referring to, a person with intimidating, threatening, and/or diminishing language. Example: You call another student names, insult or make inappropriate comments to them or their loved ones, regardless of the reason.
+- **Physical harassment**: Addressing a person in physically abusive ways. Example: You push, punch, or slap a fellow participant.
+- **Power harassment**: Intimidating, threatening, and/or diminishing behavior coming from a person who takes advantage of their position against the victim. Example: A community manager or any university staff insults you, knowing that you are a student and will probably not take action.
+- **Psychological harassment**: A mix of behaviors that makes the victim feel belittled, ashamed, or dismissed, and affects their mental health. Example: You bully a student in such a way that they don’t feel like coming to the City Hub anymore, or they stop engaging on the online community platform.
+- **Cyberbullying**: Behaviors that happen on, or leverage, technology. Example: You share the personal info of a student with others, or you insult other students online.
+- **Retaliation harassment**: A mix of behaviors aimed at taking revenge on the victim for something they have done. Example: You receive a review from a peer that you think is too low, and you take revenge on them.
+- **Sexual harassment**: A mix of behaviors that imply sexual references. Sometimes it can take the form of a “tit for tat” type of exchange. Example: You make sexual comments to a fellow participant or university staff, and send sexual content. Or, you ask for sexual favors in exchange for the solution to a quiz or a good review.
+- **Doxing**: Publishing or distributing someone’s private or personal information, such as their address, phone number, or workplace, without their consent.
+- **Online grooming**: Building an emotional connection with someone over the internet for the purpose of exploitation, often leading to harassment, manipulation, or coercion.
+- **Trolling**: Purposefully provoking or harassing others online by posting inflammatory or offensive content, often with the intent to disrupt discussions or incite negative reactions.
+- **Stalking**: Engaging in persistent and unwanted attention or surveillance towards someone, often causing fear, anxiety, and invasion of privacy.
+- **Invasion of privacy**: Violating someone’s personal boundaries—such as secretly recording or taking pictures of them—without consent, sharing private information, or spreading rumors about their personal life.
+
+As more and more of our lives move online, online harassment has taken center stage in the conversation around this topic. In fact, this has been of special concern in academia. The impact of this online harassment extends beyond psychological harm, affecting victims’ work engagement and overall well-being.
+
+### Discrimination
+
+Discrimination is _treating someone unfairly based on race, ethnicity, gender, sexual orientation, religion, or any other characteristic_. This includes verbal or written comments, actions, or behaviors that create a hostile or unwelcoming environment for others.
+
+If you are not sure whether your behavior might be discriminatory, it is best to simply not do it.
+
+### Plagiarism
+
+Plagiarism is _presenting someone else’s work or ideas as your own, with or without their consent, by incorporating it into your work without full acknowledgement_.
+
+Famous Examples of Plagiarism
+- The ex-German Minister of Defence, Mr Karl-Theodor Zu Guttenberg, was accused of plagiarizing a big portion of his doctoral dissertation which, after a careful review, was proved to be equivalent to 63% of the entire content. He was removed from his position and lost his PhD title.
+- A content editor from the New York Times, Jayson Blair, plagiarized content, and counterfeited photos and information intentionally, multiple times. The case caused real damage to the news agency’s reputation.
+- Rudyard Kipling, the author of the famous children’s book The Jungle Book, admitted to having extensively plagiarized large parts of the story’s content, but didn’t remember from whose stories he had stolen.
+
+### Cheating
+
+Cheating is _obtaining, or attempting to obtain credit for work, or any improvement in evaluation of performance, by any dishonest or deceptive means_. This can include helping someone else to accomplish the same!
+Cheating includes, but is not limited to:
+
+- Plagiarism
+- Lying
+- Copying from another’s test
+- Taking (or receiving) copies of solutions from someone else
+- Using (or displaying) notes when it is not permitted
+- Not following the stated guidelines for testing
+- Using “cheat sheets”
+- Getting information ahead of time that you are not supposed to have
+- Allowing someone to do your work for you/pretend they are you
+
+### Privacy and Data Protection
+
+To help keep our community safe and thriving, we have policies to help ensure the security and confidentiality of our personal information in the digital world. Think of privacy as a personal boundary. It’s about having control over information about ourselves and who has access to it. Just like we wouldn’t want strangers peeking into our homes or invading our personal lives, privacy in the digital realm means protecting sensitive information, such as our names, addresses, contact details, financial data, and online activities.
+
+How we maintain privacy and confidentiality in our community:
+
+Practicing privacy and confidentiality within a community involves respecting and safeguarding the personal information shared by community members.
+
+These are the ways we uphold privacy at our institute:
+
+- **Obtain consent before sharing**: We seek permission from individuals before sharing their personal information, stories, or experiences with others. We obtain their clear, informed consent, and ensure they are comfortable with the extent of sharing. When in doubt, we don’t share their information.
+- **Maintain confidentiality in discussions**: If the community engages in discussions or activities that involve personal information sharing, we emphasize the importance of confidentiality. We encourage all members to keep shared information to themselves, and refrain from sharing it outside the community without explicit permission.
+- **Use secure communication channels**: We are cautious about sharing any financial or personal information. If we must share such details (for example to enable a payment to us), we make sure that the communication channel uses proper security protocols.
+
+### Offense System
+
+We are committed to creating safe, helpful, and friendly communities for everyone.
+
+Most of the time, students conduct themselves ethically and within our Code of Conduct. But unfortunately, in some cases, we will need to make difficult decisions. Our System of Offenses oversees disciplinary actions, including temporary suspension or expulsion from the program and fellowship.
+
+#### Offense Types
+
+We place violations of the Code of Conduct into 3 categories.
+
+<img width="1176" height="653" alt="image" src="https://github.com/user-attachments/assets/14be1cb9-44cd-4757-bc5b-93acfaf125d8" />
+
+#### The Consequences of a Breach
+
+<img width="1173" height="600" alt="image" src="https://github.com/user-attachments/assets/aaa7f331-1dca-42b7-a8c5-584a761cfde1" />
+
+In summary:
+
+- If a learner commits a misuse, they receive a soft warning.
+- The first time a learner commits a mild offense, they receive a soft warning.
+- The second time a learner commits a mild offense, they receive an official warning.
+- If a learner commits 3 mild offenses OR 1 severe offense, then they will be temporarily banned from the program and required to complete a mini-course before being allowed re-entry.
+- Any subsequent offense, after the completion of the mini-course, will result in expulsion (i.e. permanent ban from all university programs).
+
+> Important! Any offense deemed severe enough can result in immediate expulsion.
+
