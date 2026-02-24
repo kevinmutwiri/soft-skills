@@ -281,7 +281,11 @@ This activity will help you have a baseline assessment of where you are right no
 
 Completing it will require a bit of thinking and honesty with yourself
 
-> what top 3 skills do you personally want to grow? Which 3 skills do you think you are already good at and rated a 4 or 5 in? Which skill interests you the most out of every skill that is listed?
+> The top 3 skills I personally want to grow are: Identifying Opportunities, Storytelling and Presentation, Tech Tools
+
+> The 3 skills I think I am already good at and rated a 4 or 5 in are: Self-improvement, Empathy, Understanding how technical & product teams work
+
+> The skill that interests me the most out of every skill that is listed is: Creativity and Innovation
 
 ## Skills defined
 
