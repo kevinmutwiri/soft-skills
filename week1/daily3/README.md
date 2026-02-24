@@ -4,7 +4,7 @@
 
 - [Morning Pages](#morning-pages)
 - [Movement](#movement)
-
+- [Mindfulness Meditation](#mindfulness-meditation)
 
 ## Morning Pages
 
@@ -35,4 +35,23 @@ the benefits are not just limited to your physical health. Exercise improves you
 The most important thing is not that you do exercise of any kind. You just need to move your body in some way every day, preferably for at least 20 minutes. Walking is just fine! Or pick any activity that you like! If you find it’s something you enjoy, you’ll be more likely to do it!
 
 [The New York Times reported on a 7-minute workout that provides great health benefits](https://www.nytimes.com/video/well/100000007527127/standing-7-min-workout.html)
+
+
+## Mindfulness Meditation
+
+Over the past 20 years, significant scientific research has demonstrated the benefits of mindfulness meditation:
+
+- Better concentration
+- Greater calm and ease
+- Better self-awareness
+
+**What is Meditation?**
+
+This practice does not belong to a given culture or religion. It is simply the practice of relaxing the body and focusing one’s attention (usually on the breath) to gain a greater awareness of one’s thoughts and feelings. That’s it!
+
+A common misconception is that the purpose of mindfulness is to “clear the mind” and have no thoughts. But this is not right! The purpose of mindfulness meditation is to become more aware of your thoughts and feelings. That’s it!
+
+But, as an added benefit, it has been shown in hundreds of studies that it does help you calm your nervous system and lead to greater creativity, clarity, focus, and insight. 
+
+Perhaps you’re concerned that you don’t have the time? Don’t worry, even 1 minute of mindfulness meditation has measurable benefits! Try taking 2 slow breaths right now and see if you feel calmer.
 
