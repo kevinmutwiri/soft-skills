@@ -281,11 +281,19 @@ This activity will help you have a baseline assessment of where you are right no
 
 Completing it will require a bit of thinking and honesty with yourself
 
-> The top 3 skills I personally want to grow are: Identifying Opportunities, Storytelling and Presentation, Tech Tools
+### The top 3 skills I personally want to grow are:
 
-> The 3 skills I think I am already good at and rated a 4 or 5 in are: Self-improvement, Empathy, Understanding how technical & product teams work
+- Identifying Opportunities - I have always been curious how these extremely successful companies identified a need in the world and seized it
+- Storytelling and Presentation - I would love to be able to create some of these articles and videos that really engage the audience and achieve the desired outcome, either persuasion or driving a message home
+- Tech Tools - I want to be proficient in using the hardware and software required for getting the job done and done well.
 
-> The skill that interests me the most out of every skill that is listed is: Creativity and Innovation
+### The 3 skills I think I am already good at and rated a 4 or 5 in are:
+
+- Self-improvement - I am continuously and intentionally always enhancing my own skills and character. Being here in PF is already testament to that.
+- Empathy - I really do share and try to understand the situations of others and do my best not to judge.
+- Understanding how technical & product teams work - I have worked in an agile team and have an understanding of how they work
+
+> The skill that interests me the most out of every skill that is listed is: Creativity and Innovation - I really hope to create something with impact in future
 
 ## Skills defined
 
