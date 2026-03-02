@@ -83,12 +83,16 @@ Take another look at the values below and identify the one value that resonates 
 
 ### **Courage**
 
+> I don't fail, I only learn
+
 * I have the **boldness** to speak up, even against popular opinion.
 * I **challenge** the status quo and ask, "How can this be done better?".
 * I don't punish failure, but **celebrate learning**.
 * I am **honest about my mistakes**, and admit them to others.
 
 ### **Humility**
+
+> I ask for feedback
 
 * I **serve others** and my larger purpose.
 * I know that I **constantly need to learn and grow**.
@@ -97,11 +101,15 @@ Take another look at the values below and identify the one value that resonates 
 
 ### **Adventure**
 
+> I boldly venture where no one has ever been
+
 * I am **not afraid to dream**, and I **boldly venture** where no one has ever been and set **wildly ambitious goals**.
 * I believe it is **better to fail** while trying to achieve something **extraordinary**, than to **succeed** at something ordinary.
 * I see life as a **joyous opportunity** to live.
 
 ### **Initiative**
+
+> I get stuff done
 
 * I do not ask for **permission**, but might ask for **forgiveness** later.
 * I go the **extra mile** and **do what it takes** to achieve our goals.
@@ -109,6 +117,8 @@ Take another look at the values below and identify the one value that resonates 
 * **I get things done!**
 
 ### **Resilience**
+
+> I tackle difficult situations with a can-do attitude
 
 * I tackle difficult situations with a **can-do attitude**.
 * **I do not give up.** Ever. Even if it takes time and is hard.
