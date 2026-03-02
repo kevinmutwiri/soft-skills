@@ -6,6 +6,7 @@
 
 - [Daily 3](daily3/README.md)
 - [Core Values](./coreValues/README.md)
+- [Non-Negotiable Values](./nonNegotiableValues/README.md)
 - [Knowing Yourself 1](./knowingYourself1/README.md)
 
 ## Objectives
