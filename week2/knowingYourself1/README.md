@@ -4,6 +4,7 @@
 
 - [PICS](#pics)
 - [Introduction to a Personal Mission Statement](#introduction-to-a-personal-mission-statement)
+- [Creating Your Personal Mission Statement 1](#creating-your-personal-mission-statement-1)
 
 
 ## PICS
@@ -38,5 +39,13 @@ While watching the video, ask yourself:
 - What is greatness and what does it mean to me?
 - What did great influential people in the world have in common at TEDx Klagenfurt: They created a life with… **A MISSION**?
 - How have my experiences influenced my Passions, Interests, Causes, and Skills?
-- What do I pledge allegiance to?
+- What do I pledge allegiance to? **To do my very best**
 
+## Creating Your Personal Mission Statement 1
+
+watch the following [video](https://www.youtube.com/watch?v=fICEjqpKfoY) on How To Create A Powerful Mission Statement For Your Life.
+
+As you listen ask yourself:
+
+- What are the guidelines for a powerful and inspiring mission statement?
+- How can I apply the “Do-Be-Give” principle in my life?
