@@ -36,7 +36,7 @@ Watch [this powerful video](https://www.youtube.com/watch?v=JaECsnWJAWA) on how 
 While watching the video, ask yourself:
 
 - What is greatness and what does it mean to me?
-- What did great influential people in the world have in common at TEDx Klagenfurt: They created a life with…?
+- What did great influential people in the world have in common at TEDx Klagenfurt: They created a life with… **A MISSION**?
 - How have my experiences influenced my Passions, Interests, Causes, and Skills?
 - What do I pledge allegiance to?
 
