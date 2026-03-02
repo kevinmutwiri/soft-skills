@@ -4,6 +4,7 @@
 
 - [Core Values Experiential - Introduction](#core-values-experiential---introduction)
 - [List of Personal Values](#list-of-personal-values)
+- [CHAIR Values](#chair-values)
 
 ## Core Values Experiential - Introduction
 
@@ -73,4 +74,10 @@ Keeping the above in mind, there are two things to take away:
 You can also use the exercise with an unsuccessful event in your life.
 For example, not getting that acceptance letter, upsetting a partner or friend or spending money foolishly.
 This exercise will help you to gain insight into which values you need to develop further. Good luck and enjoy!
+
+## CHAIR Values
+
+These are behaviors that we purposely focus on as they will help you succeed, not just with this course, but with your mission and role in the job market.
+
+Take another look at the values below and identify the one value that resonates with you the most today. There is no wrong answer.
 
