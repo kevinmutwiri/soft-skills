@@ -3,6 +3,7 @@
 > [home](../README.md)
 
 - [PICS](#pics)
+- [Introduction to a Personal Mission Statement](#introduction-to-a-personal-mission-statement)
 
 
 ## PICS
@@ -27,4 +28,15 @@ Learn more about what Passion, Interests, Causes, and Strengths are and how they
 
 - [Values, Passion, or Purpose — Which Should Guide Your Career? by Irina Cozma.](https://hbr.org/2023/10/values-passion-or-purpose-which-should-guide-your-career)
 - [The Unexpected Benefits of Pursuing a Passion Outside of Work by Jon M. Jachimowicz, Joyce He, and Julián Arango.](https://hbr.org/2019/11/the-unexpected-benefits-of-pursuing-a-passion-outside-of-work)
+
+## Introduction to a Personal Mission Statement
+
+Watch [this powerful video](https://www.youtube.com/watch?v=JaECsnWJAWA) on how creating a personal mission statement saved David Anderson.
+
+While watching the video, ask yourself:
+
+- What is greatness and what does it mean to me?
+- What did great influential people in the world have in common at TEDx Klagenfurt: They created a life with…?
+- How have my experiences influenced my Passions, Interests, Causes, and Skills?
+- What do I pledge allegiance to?
 
