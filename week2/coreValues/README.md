@@ -40,6 +40,19 @@ Finishing CS50P showed resilience and courage. I associate that value because I 
 
 Here is a short list of values to assist you in finding the right words for your values.
 
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Acceptance | Creativity | Enthusiasm | Independence | Patience | Supportive |
+| Alertness | Curious | Ethical | Innovative | Playfulness | Thankful |
+| Assertiveness | Decisiveness | Generosity | Inquisitive | Productive | Thoughtfulness |
+| Attentive | Dependability | Good | Insightfulness | Professional | Trustworthy |
+| Balanced | Dedication | Harmony | Inspiring | Purposeful |  |
+| Bold | Discipline | Honesty | Integrity | Realistic |  |
+| Calm | Drive | Honor | Intuitive | Respect |  |
+| Careful | Effectiveness | Hope | Optimistic | Responsible |  |
+| Clarity | Empathy | Humility | Organised | Resilience |  |
+| Courage | Energy | Imagination | Passion | Spirit |  |
+
 
 **Important**!
 There is a difference between core values and aspirational values.
@@ -61,15 +74,3 @@ You can also use the exercise with an unsuccessful event in your life.
 For example, not getting that acceptance letter, upsetting a partner or friend or spending money foolishly.
 This exercise will help you to gain insight into which values you need to develop further. Good luck and enjoy!
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Acceptance | Creativity | Enthusiasm | Independence | Patience | Supportive |
-| Alertness | Curious | Ethical | Innovative | Playfulness | Thankful |
-| Assertiveness | Decisiveness | Generosity | Inquisitive | Productive | Thoughtfulness |
-| Attentive | Dependability | Good | Insightfulness | Professional | Trustworthy |
-| Balanced | Dedication | Harmony | Inspiring | Purposeful |  |
-| Bold | Discipline | Honesty | Integrity | Realistic |  |
-| Calm | Drive | Honor | Intuitive | Respect |  |
-| Careful | Effectiveness | Hope | Optimistic | Responsible |  |
-| Clarity | Empathy | Humility | Organised | Resilience |  |
-| Courage | Energy | Imagination | Passion | Spirit |  |
