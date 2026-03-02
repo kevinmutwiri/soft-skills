@@ -3,6 +3,7 @@
 > [home](../README.md)
 
 - [Core Values Experiential - Introduction](#core-values-experiential---introduction)
+- [List of Personal Values](#list-of-personal-values)
 
 ## Core Values Experiential - Introduction
 
@@ -35,3 +36,40 @@ To help you get started with this important thought process, we want you to thin
 
 Finishing CS50P showed resilience and courage. I associate that value because I have started before and not completed due to fear and lack of resilience (where if I experienced difficulties I quit)
 
+## List of Personal Values
+
+Here is a short list of values to assist you in finding the right words for your values.
+
+
+**Important**!
+There is a difference between core values and aspirational values.
+
+- **Core values** are the values that you have associated with memorable events. We can also refer to these as _your actual values_.
+- **Aspirational values** are the values that you dream/hope to live out more fully.
+
+Everyone has aspirational values alongside their core values. Now, although it’s good to have aspirational values, it’s important to remember that only the values you practice and draw on in your life, your work, become your actual core values.
+
+Keeping the above in mind, there are two things to take away:
+
+- Simply dreaming about (or hoping for) other values to become a reality in your life will not change them from aspirational to core values. You have to put in the work.
+- Your core values are those values that you have put in the work for. You should be proud of your core values and keep on developing them—they inform your true identity.
+
+> If you want to uncover more values that you want to develop, you can repeat the simple experential exercise above
+
+**Important**!
+You can also use the exercise with an unsuccessful event in your life.
+For example, not getting that acceptance letter, upsetting a partner or friend or spending money foolishly.
+This exercise will help you to gain insight into which values you need to develop further. Good luck and enjoy!
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Acceptance | Creativity | Enthusiasm | Independence | Patience | Supportive |
+| Alertness | Curious | Ethical | Innovative | Playfulness | Thankful |
+| Assertiveness | Decisiveness | Generosity | Inquisitive | Productive | Thoughtfulness |
+| Attentive | Dependability | Good | Insightfulness | Professional | Trustworthy |
+| Balanced | Dedication | Harmony | Inspiring | Purposeful |  |
+| Bold | Discipline | Honesty | Integrity | Realistic |  |
+| Calm | Drive | Honor | Intuitive | Respect |  |
+| Careful | Effectiveness | Hope | Optimistic | Responsible |  |
+| Clarity | Empathy | Humility | Organised | Resilience |  |
+| Courage | Energy | Imagination | Passion | Spirit |  |
