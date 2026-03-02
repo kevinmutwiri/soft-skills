@@ -28,3 +28,6 @@ We’d like you to commit to moving every day. If you can’t do 20 minutes to s
 
 Remember that [NYT 7-minute workout](https://www.nytimes.com/video/well/100000007527127/standing-7-min-workout.html)? You can give it a try this week. You can try it now, while you are still on this page!
 
+> NOTE: Alwaysput your health first, you know you best! If any options are beyond what your body can take, look for options that better suit you.
+
+[Mr.VYBES. (2020, April 5). 10 Minute Dance Workout - AfroBeats Dancehall - Caribbean - Mr.VYBES [Video]](https://www.youtube.com/watch?v=ERZF-FeIXdk)
