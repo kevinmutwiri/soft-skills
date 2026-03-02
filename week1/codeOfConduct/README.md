@@ -27,12 +27,16 @@ These CHAIR values align with the Code of Conduct and the Honor Code.
 
 ### **Courage**
 
+> I don't fail, I only learn
+
 * I have the **boldness** to speak up, even against popular opinion.
 * I **challenge** the status quo and ask, "How can this be done better?".
 * I don't punish failure, but **celebrate learning**.
 * I am **honest about my mistakes**, and admit them to others.
 
 ### **Humility**
+
+> I ask for feedback
 
 * I **serve others** and my larger purpose.
 * I know that I **constantly need to learn and grow**.
@@ -41,11 +45,15 @@ These CHAIR values align with the Code of Conduct and the Honor Code.
 
 ### **Adventure**
 
+> I boldly venture where no one has ever been
+
 * I am **not afraid to dream**, and I **boldly venture** where no one has ever been and set **wildly ambitious goals**.
 * I believe it is **better to fail** while trying to achieve something **extraordinary**, than to **succeed** at something ordinary.
 * I see life as a **joyous opportunity** to live.
 
 ### **Initiative**
+
+> I get stuff done
 
 * I do not ask for **permission**, but might ask for **forgiveness** later.
 * I go the **extra mile** and **do what it takes** to achieve our goals.
@@ -54,12 +62,12 @@ These CHAIR values align with the Code of Conduct and the Honor Code.
 
 ### **Resilience**
 
+> I tackle difficult situations with a can-do attitude
+
 * I tackle difficult situations with a **can-do attitude**.
 * **I do not give up.** Ever. Even if it takes time and is hard.
 * I see **challenges** as **opportunities**.
 * I know I do not have it **all figured out**. But I give it my **best shot**. Again and again.
-
-
 ## Community Values
 
 You are now part of one of the largest, most elite networks of young professionals on the continent. And we have expectations for how you behave in this special community.
