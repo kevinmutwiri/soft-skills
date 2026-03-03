@@ -5,6 +5,7 @@
 - [An Introduction to Emotional Intelligence](#an-introduction-to-emotional-intelligence)
 - [The 4 Aspects of Emotional Intelligence](#the-4-aspects-of-emotional-intelligence)
 - [Emotional Intelligence Expanded](#emotional-intelligence-expanded)
+- [Need for Self-Awareness](#need-for-self-awareness)
 
 ## An Introduction to Emotional Intelligence
 
@@ -75,3 +76,11 @@ Harvard Business Review defines these 4 categories of emotional intelligence as 
 If your curiosity has been sparked, and you want to learn more about each of these elements, we highly recommend that you read this optional [Harvard Business Review article on Emotional intelligence](https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on)
 
 We would also recommend that you watch [this 9-minute video](https://www.youtube.com/watch?v=FKjj1tNcbtM) from one of the article’s authors, Daniel Goleman, as he speaks about the art of managing emotions.
+
+## Need for Self-Awareness
+
+Let’s take a closer look at the first category of Emotional Intelligence, Self Awareness. It’s an interesting concept that we’ll explore through [this video by Lori Stohs](https://www.youtube.com/watch?v=YQAi76QQNzw). The video also covers concepts such as character, values, and beliefs. As you watch make sure you can answer the following questions:
+
+- What is self-awareness?
+- How does self-awareness relate to leadership?
+- What determines how self-aware a person is?
