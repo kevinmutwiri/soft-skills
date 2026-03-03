@@ -34,3 +34,11 @@ Understanding **others' emotions** and their associated **patterns**: for exampl
 **Relationship Management**
 Ability to **perceive others' emotions** and **adjust accordingly**: for example, knowing if the other person is feeling **overwhelmed** so that you can adapt your **communication** accordingly.
 
+> Self-awareness - The ability to recognize your "emotional weather" (changing emotional states) in real-time plus realizing how those feelings are currently coloring your logic e.g you might notice you are "hangry" (hungry + angry). Being self-aware is realizing you aren't actually mad at your friend; you just need a smocha maybe.
+
+> Self-management is not acting on every impulse you feel. It’s taking control of the emotional impulses that inevitably accompany emotions and acting counter to them because most of the time they are the wrong course of action
+
+> Social Awareness is noticing how other people are feeling by watching their face, body language, or tone, simply Reading the room.
+
+> Relationship Management is using awareness of yourself and others to guide an interaction toward a positive outcome.
+
