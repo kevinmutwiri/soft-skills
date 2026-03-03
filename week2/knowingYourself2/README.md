@@ -103,3 +103,9 @@ Here is what you need to do:
 
 **To be CLEAR**
 You can pursue any career and work in any industry as a tech professional. The career suggestions are by no means prescriptive. They only provide a glance into the vast opportunities you can pursue. So take this test and the explanation in the article as a means of guidance. There’s no obligation or pressure to act on what is said!
+
+Having a deeper understanding of yourself - your personality, preferences, skills, and areas for growth - is a powerful thing. Here are some more assessments we recommend you take. The better you know yourself, the more meaningfully you can map your career trajectory and engage with potential employers or clients.
+
+- [Can you take criticism?](https://www.queendom.com/tests/access_page/index.htm?idRegTest=721): Take this test to find out just how well you deal with criticism on the job.
+- [Do you have leadership potential?](https://www.queendom.com/tests/access_page/index.htm?idRegTest=2289): Through this test, you’ll be able to pinpoint some of the things that might make you a good leader.
+
