@@ -9,6 +9,7 @@
 - [Non-Negotiable Values](./nonNegotiableValues/README.md)
 - [The Ideal Graduate](./idealGraduate/README.md)
 - [Knowing Yourself 1](./knowingYourself1/README.md)
+- [Knowing Yourself 2](./knowingYourself2/README.md)
 
 ## Objectives
 
