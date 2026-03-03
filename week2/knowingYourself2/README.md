@@ -81,6 +81,6 @@ We would also recommend that you watch [this 9-minute video](https://www.youtube
 
 Let’s take a closer look at the first category of Emotional Intelligence, Self Awareness. It’s an interesting concept that we’ll explore through [this video by Lori Stohs](https://www.youtube.com/watch?v=YQAi76QQNzw). The video also covers concepts such as character, values, and beliefs. As you watch make sure you can answer the following questions:
 
-- What is self-awareness?
+- What is self-awareness? Who am I? What do I know?
 - How does self-awareness relate to leadership?
 - What determines how self-aware a person is?
