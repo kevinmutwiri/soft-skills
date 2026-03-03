@@ -6,6 +6,7 @@
 - [The 4 Aspects of Emotional Intelligence](#the-4-aspects-of-emotional-intelligence)
 - [Emotional Intelligence Expanded](#emotional-intelligence-expanded)
 - [Need for Self-Awareness](#need-for-self-awareness)
+- [A Clearer Picture of You](#a-clearer-picture-of-you)
 
 ## An Introduction to Emotional Intelligence
 
@@ -84,3 +85,21 @@ Let’s take a closer look at the first category of Emotional Intelligence, Self
 - What is self-awareness? Who am I? What do I know?
 - How does self-awareness relate to leadership?
 - What determines how self-aware a person is?
+
+You should also focus on improving your ability to express your emotions by expanding your emotional vocabulary. This will help you identify and articulate your feelings more effectively, both to yourself and to others
+
+## A Clearer Picture of You
+
+As a tech professional, you’re ultimately selling “you” as a solution to an organization’s problems. This means that knowing who you are—what motivates you, what you’re passionate about, what you’re good at, what your areas for growth are, what your personality is like, etc.—is immensely important! It will allow you to choose the jobs that fit your skills and personality well. It will help you talk about yourself in a meaningful way to potential employers or clients. Knowing yourself well signals to others that you are mature and self-aware—very desirable traits for a young tech leader to have!
+
+To assist you in the process of taking a more detailed look at yourself, we’ve curated a set of free assessment tools for you.
+
+FIRST is a fantastic personality test, a variation of the Myers-Briggs type sorter. It evaluates your personality in a combination of type- and trait-based theories on 5 independent spectrums. Remember! There is no “right” or “wrong” answer or score in this test! If you complete the test as honestly as possibly, it merely provides you with interesting and valuable information to help you better understand yourself, and perhaps even inspire you regarding potential careers. Of course if you don’t provide honest answers, you won’t be finding out about your personality.
+
+Here is what you need to do:
+
+- [Please take the personality test here.](https://www.16personalities.com/)
+- Based on the outcome—and as a fun read—take a look at [this article by Job Street](https://my.jobstreet.com/career-advice/article/what-is-the-best-it-job-for-your-mbti-personality-type), that speaks about the different tech careers by personality type.
+
+**To be CLEAR**
+You can pursue any career and work in any industry as a tech professional. The career suggestions are by no means prescriptive. They only provide a glance into the vast opportunities you can pursue. So take this test and the explanation in the article as a means of guidance. There’s no obligation or pressure to act on what is said!
