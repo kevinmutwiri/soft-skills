@@ -19,3 +19,10 @@ The coach asks questions and reflects the answers to the coachee. **The coach do
 **Will/Way Forward**: What needs to happen to make it a 10/10 likelihood that you’ll complete your goal?
 
 Please watch the following [short video](https://www.youtube.com/watch?v=1fbooiSh_bA&t=1s) to learn more about the GROW Model of peer coaching.
+
+Here is a [1-page Quick Guide for Peer Coaching](https://drive.google.com/file/d/19ZiikAbFbZfQPsv9uz1gL_KXQw01e5Ki/view?usp=drive_link) with the GROW model. Please feel free to download and print it7
+
+## Peer Coaching Example
+
+<img width="814" height="865" alt="image" src="https://github.com/user-attachments/assets/70ad003b-e5f5-4862-bba6-54ff7ee0bd01" />
+
