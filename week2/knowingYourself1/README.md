@@ -5,6 +5,7 @@
 - [PICS](#pics)
 - [Introduction to a Personal Mission Statement](#introduction-to-a-personal-mission-statement)
 - [Creating Your Personal Mission Statement 1](#creating-your-personal-mission-statement-1)
+- [Example of Personal Mission Statements](#example-of-personal-mission-statements)
 
 
 ## PICS
@@ -105,4 +106,20 @@ The antidote to this is to simply ask around! Look to people who really know you
 **7. Look to your idols**
 
 Research the people you admire to see how they live their lives, and what practices helped them along the way. Do some detective work to find some examples of personal mission statements from the people that you look up to. There’s a good chance that you’ll find something and, although there’s no reason for you to copy their mission statement word for word, but hopefully, it will inspire you to write your own.
+
+## Example of Personal Mission Statements
+
+Here are some noteworthy examples of Personal Mission Statements from 5 industry leaders!
+
+Your personal mission statement is very important, so please dedicate the time it deserves to writing it.
+
+Now, even if it doesn’t need to be perfect, you still need to do your best! A small reminder—you can always revise your statement as needed. To see how to write a personal mission statement up close, and for more inspiration, take a look at some of these examples:
+
+- **Denise Morrison, Campbell Soup Company**, _“To serve as a leader, live a balanced life, and apply ethical principles to make a significant difference.”_
+- **Joel Manby, Herschend Family Entertainment**, _“I define personal success as being consistent to my own personal mission statement: To love God and love others.”_
+- **Oprah Winfrey, OWN**, _“To be a teacher. And to be known for inspiring my students to be more than they thought they could be.”_
+- **Sir Richard Branson, The Virgin Group**, _“To have fun in my journey through life and learn from my mistakes.”_
+- **Amanda Steinberg, Dailyworth.com**, _“To use my gifts of intelligence, charisma, and serial optimism to cultivate the self-worth and net worth of women around the world.”_
+
+These have been refined over time. Your first personal mission statement, which you are about to do, will probably be a bit lengthy. This allows you to explore a bit more and capture as much as you can in one place about the things that matter to you. Your personal mission statement will become clear, succinct and simple the more you revise and refine it over time.
 
