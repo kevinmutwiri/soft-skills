@@ -4,6 +4,7 @@
 
 - [An Introduction to Emotional Intelligence](#an-introduction-to-emotional-intelligence)
 - [The 4 Aspects of Emotional Intelligence](#the-4-aspects-of-emotional-intelligence)
+- [Emotional Intelligence Expanded](#emotional-intelligence-expanded)
 
 ## An Introduction to Emotional Intelligence
 
@@ -42,3 +43,35 @@ Ability to **perceive others' emotions** and **adjust accordingly**: for example
 
 > Relationship Management is using awareness of yourself and others to guide an interaction toward a positive outcome.
 
+
+## Emotional Intelligence Expanded
+
+Harvard Business Review defines these 4 categories of emotional intelligence as **awareness of self**, **managing self**, **awareness of others**, and **managing others**. This is very helpful in categorizing our daily actions, in order to make better decisions. Interestingly, the 4 elements are then further subdivided! We want you to take a look at the chart below, read each term carefully, and then ask yourself what you think it means.
+
+### **1. Self-Awareness**
+
+* **Emotional Self-Awareness:** Recognizing your own emotions and how they affect your performance and others.
+
+### **2. Self-Management**
+
+* **Emotional Self-Control:** Keeping disruptive emotions and impulses in check.
+* **Adaptability:** Flexibility in handling change and overcoming obstacles.
+* **Achievement Orientation:** Striving to meet or exceed a standard of excellence.
+* **Positive Outlook:** Seeing the glass half-full, even in the face of setbacks.
+
+### **3. Social Awareness**
+
+* **Empathy:** Sensing others' emotions and taking an active interest in their concerns.
+* **Organizational Awareness:** Reading a group's emotional currents and power relationships.
+
+### **4. Relationship Management**
+
+* **Influence:** Wielding effective tactics for persuasion.
+* **Coach and Mentor:** Fostering the long-term learning or development of others.
+* **Conflict Management:** Negotiating and resolving disagreements.
+* **Teamwork:** Working with others toward a shared goal; creating group synergy.
+* **Inspirational Leadership:** Guiding and motivating with a compelling vision.
+
+If your curiosity has been sparked, and you want to learn more about each of these elements, we highly recommend that you read this optional [Harvard Business Review article on Emotional intelligence](https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on)
+
+We would also recommend that you watch [this 9-minute video](https://www.youtube.com/watch?v=FKjj1tNcbtM) from one of the article’s authors, Daniel Goleman, as he speaks about the art of managing emotions.
