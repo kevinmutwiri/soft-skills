@@ -3,6 +3,8 @@
 > [home](../README.md)
 
 - [Growth Mindset](#growth-mindset)
+- [The Power of Yet](#the-power-of-yet)
+- [Grit](#grit)
 
 One of the biggest tools for your success is your mindset. It is important to know why and how you can change your thinking to achieve a healthy perspective and set of beliefs that will benefit you tremendously in your career and life.
 
@@ -22,4 +24,21 @@ Growth mindset is a HUGE predictor of success in life. We want you to understand
 - What is a fixed mindset?
 - How do brains behave when they are in a fixed vs. growth mindset?
 - What evidence is there that a growth mindset is important? You should be able to describe 1 study at a high level: What group was studied? What was the “treatment” (or variable different participants received)? What was the result of that study? (again, high level, no need for small details).
+
+## The Power of Yet
+
+When we add the word “yet,” to a statement about our abilities – for example, “I am not good at statistics yet. ” or “I don’t know how to repair a refrigerator yet. ” – it reminds us that our intelligence and knowledge are fluid and can grow. It reminds us that if we put in time and effort, we can learn more, develop more skills, and become better at things. This mindset is critical for our success!
+
+> Reflect: What’s something you’re not particularly good at? Now say out loud, “I’m not good at ___programming___ yet.” How did that feel?
+
+## Grit
+
+Grit is _the passion and tenacity towards long-term, worthwhile goals_. It is _the capacity to stick with something and show perseverance when challenged_.
+
+Grit is crucial because it propels performance and success independent of and beyond the contributions that ability and intelligence make. Being naturally intelligent and skilled is wonderful, but to succeed and thrive, we need the capacity for perseverance.
+
+In [this video](https://www.youtube.com/watch?v=H14bBuluwB8&t=1s), Angela Duckworth shares valuable insights on grit and its link to success. As you watch the video ask yourself:
+
+- What is grit?
+- Which factor was the highest predictor of success for the spelling competition contestants?
 
