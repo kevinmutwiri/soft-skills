@@ -300,7 +300,7 @@ Completing it will require a bit of thinking and honesty with yourself
 
 ## Skills defined
 
-Here are the explanations for each main competency and its corresponding subtopics, based on the provided frameworks:
+Explanations for each main competency and its corresponding subtopics, based on the provided frameworks:
 
 ### **Leading Self**
 
