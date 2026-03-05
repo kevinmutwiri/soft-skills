@@ -13,6 +13,7 @@
 - [Peer Coaching](./peerCoaching/README.md)
 - [Mindset](./mindset/README.md)
 - [Self Regulation](./selfRegulation/README.md)
+- [Time Management](./timeManagement/README.md)
 
 ## Objectives
 
