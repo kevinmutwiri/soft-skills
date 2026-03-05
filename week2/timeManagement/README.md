@@ -56,3 +56,18 @@ The Eisenhower Matrix is also referred to as the Prioritization Matrix. Watch [t
 
 We have curated [this prioritization matrix template](https://docs.google.com/spreadsheets/d/1JhVu-nAtiNGBMML8cTsMBzt9mGB-oD23t0A_p4V6ALg/edit?usp=sharing) for your personal use.
 
+using your personal copy of the Prioritization Matrix 
+1. Look at all the activities that you are scheduled to complete today. Activities could be anything, for example:
+- Pick up my laptop from the repair man
+- Submit Milestone 1
+- Tell Isa about what happened in the Liverpool match yesterday
+- Make new friends on Facebook #GrowingMyNetwork
+- Buy prepaid electricity before it runs out
+- Send the report to Lebo before the Ops meeting.
+2. Of that list, what are the most important things that you need to get done today? Mark each one as Important.
+3. What are the tasks that are marked as Important and have to be done now or else there will be negative consequences? Mark them as Urgent.
+4. What is marked Important but can wait until tomorrow or another day? Mark it as Not Urgent.
+5. Of the remaining tasks that are not marked, what seems Urgent but not Important? Mark it as Delegate.
+6. Check any of the remaining tasks to make sure you did not miss anything urgent or important. Once you are sure, then every task that is listed and unmarked will fall under Do Not Do It.
+7. Now that you know each task’s ranking in terms of urgency and importance, add each task to the relevant quadrant in your prioritization matrix.
+> Importance and urgency will differ from person to person. You will need to be aware of what matters to you and what helps you reach your goals. For one, picking up the laptop will be something to do now (Urgent and Important) while for someone else it will be something to do later (Important but Not Urgent).
