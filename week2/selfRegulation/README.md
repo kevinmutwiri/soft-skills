@@ -58,6 +58,8 @@ watch [this video by Dr. B. J. Fogg](https://www.youtube.com/watch?v=AdKUJxjn-R8
 - How do long-term tiny incremental behavioural changes impact your habits?
 - What is Fogg’s Format used for?
 
+> [How to create your own Habit Tracker in Google Sheets - TUTORIAL + FREE TEMPLATE](https://www.youtube.com/watch?v=hun0rhAGpYI)
+
 ## Ruler Method
 
 Have you ever felt so angry or upset that you couldn’t think straight? Your brain is foggy? Did you snap at everyone around you? You felt tired, physically, even without moving at all?
