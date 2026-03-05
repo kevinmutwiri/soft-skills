@@ -54,5 +54,5 @@ The Eisenhower Matrix is also referred to as the Prioritization Matrix. Watch [t
 - The 4 quadrants
 - The purpose (use) of each quadrant
 
-We have curated [this prioritization matrix template](https://docs.google.com/spreadsheets/d/1ehpYYeA1v78NpzjxqNVr0GkjN1JKbEG9l7-bqXbCe0g/edit?usp=sharing) for your personal use.
+We have curated [this prioritization matrix template](https://docs.google.com/spreadsheets/d/1JhVu-nAtiNGBMML8cTsMBzt9mGB-oD23t0A_p4V6ALg/edit?usp=sharing) for your personal use.
 
