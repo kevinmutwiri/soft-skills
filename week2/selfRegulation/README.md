@@ -3,6 +3,7 @@
 > [home](../README.md)
 
 - [The Need for Self Regulation](#the-need-for-self-regulation)
+- [The Science Behind Self-Improvement](#the-science-behind-self-improvement)
 
 
 ## The Need for Self Regulation
@@ -46,3 +47,13 @@ Now that’s out of the way, there are some key things you can do to increase yo
 • **Be curious**. Both with yourself and with others. This helps you understand what makes people tick and how your actions impact them. This allows you to then regulate your behaviors and adjust based on the individual you’re leading.
 
 What’s most important is that as you grow in both your self-awareness and self-regulation, you should never “arrive” at being the perfect leader. You have to continually be growing as you become more aware of yourself, as your team changes, and as you meet the goals you’ve set for yourself. Now that you’re self-aware, simply keep growing to continue being effective.
+
+## The Science Behind Self-Improvement
+
+let’s explore the science behind self-improvement and discover a formula that promotes meaningful (long-term) behavior change.
+
+watch [this video by Dr. B. J. Fogg](https://www.youtube.com/watch?v=AdKUJxjn-R8), a psychologist, and innovator who directs the Persuasive Tech Lab at Stanford University. He advocates that the best way to improve yourself and make noticeable, long-term behavior changes is by making incremental, tiny changes in your habits. As you watch, pay attention to:
+
+- How do long-term tiny incremental behavioural changes impact your habits?
+- What is Fogg’s Format used for?
+
