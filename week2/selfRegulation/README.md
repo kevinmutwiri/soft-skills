@@ -4,6 +4,7 @@
 
 - [The Need for Self Regulation](#the-need-for-self-regulation)
 - [The Science Behind Self-Improvement](#the-science-behind-self-improvement)
+- [The RULER Method](#the-ruler-method)
 
 
 ## The Need for Self Regulation
@@ -57,3 +58,45 @@ watch [this video by Dr. B. J. Fogg](https://www.youtube.com/watch?v=AdKUJxjn-R8
 - How do long-term tiny incremental behavioural changes impact your habits?
 - What is Fogg’s Format used for?
 
+## Ruler Method
+
+Have you ever felt so angry or upset that you couldn’t think straight? Your brain is foggy? Did you snap at everyone around you? You felt tired, physically, even without moving at all?
+
+Luckily, there is a simple method by which we can manage any strong or overwhelming emotions – it is called the “RULER” Method. This method relies on us becoming curious about our emotions instead of being their victims.
+
+### R = Recognize
+
+**Ask Yourself**: What is your current emotional state at the moment?
+
+**Purpose**: This step is about becoming aware of your emotions as they arise. Notice any physical sensations or changes in your mood, and acknowledge them without judgment.
+
+### U = Understand
+
+**Ask Yourself**: What triggered this emotion? Why might I be feeling this way?
+
+**Purpose**: Understanding the root cause of your feelings is essential. Consider any recent events, interactions, or thoughts that may have contributed to your emotional state. Reflect on patterns or past experiences that might influence how you feel.
+
+### L = Label
+
+**Ask Yourself**: What would you call this feeling you experienced?
+
+**Purpose**: Accurately labeling your emotions helps in making sense of them. Use specific words to describe your feelings, such as “anxious,” “frustrated,” “excited,” or “sad.” This clarity can reduce emotional intensity and help you gain perspective.
+
+### E = Express
+
+**Ask Yourself**: How would you explain what just happened to someone else to ask for help or share?
+
+**Purpose**: Articulate your feelings to someone else or write them down. Sharing your emotions can provide relief and support, whether you seek help, feedback, or simply want to vent. It also helps you process your emotions constructively.
+
+### R = Regulate
+
+**Ask Yourself**: What might you be able to do to help you manage this feeling/emotion?
+
+**Purpose**: Develop strategies to manage and respond to your emotions effectively. This could include deep breathing, taking a walk, practicing mindfulness, or seeking professional help if needed. The goal is to find healthy ways to cope and maintain emotional balance.
+
+**Flexibility of RULER**
+Quick or In-Depth: The RULER method can be quick or take longer, depending on what you need at a specific moment. Whether you take a few seconds or a more extended period, the key is to be mindful and intentional in your approach.
+
+In short, RULER is a framework to help you be more self aware, and therefore become much better at practicing emotional intelligence.
+
+<img width="1228" height="467" alt="image" src="https://github.com/user-attachments/assets/58b78e91-c54c-48f6-aaae-c5d2a3243ee1" />
