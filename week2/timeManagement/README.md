@@ -4,6 +4,7 @@
 
 - [Practical Time Management Tools](#practical-time-management-tools)
 - [Own Your Time](#own-your-time)
+- [Prioritization](#prioritization)
 
 **Time management** - Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
 
@@ -37,4 +38,21 @@ Don’t waste precious time doing things that don’t count or matter towards yo
 - Hopefully, after all this scheduling, you still have gaps in your schedule to do nothing! You can choose to leave the gaps open or add more activities you feel inclined to. Just don’t fill up every single spot on your calendar, so you have some breathing room.
 
 > Are you done? If so, well done! The important part now is for you to follow your schedule, just like an upcoming young leader is known to do :) After a short while of following your schedule, and building the routine, your brain will adopt the rhythm. Performing specific activities at a consistent and defined time will become easier and will soon feel like second nature.
+
+
+## Prioritization
+
+Now that the important activities are marked down in your calendar it is time to break down each activity (e.g. Review Week 2 content in Savanna) into smaller tasks that you can prioritize. The goal is to identify and focus on valuable tasks, to avoid squandering time on things that are not beneficial.
+
+
+### What is the Eisenhower Matrix?
+
+The Eisenhower Matrix is a common tool to prioritize tasks in order of importance and urgency. You can use it to plan your activities during a specific time slot, day or week. Its purpose is to give you visibility on what you should allocate time to.
+
+The Eisenhower Matrix is also referred to as the Prioritization Matrix. Watch [this short video](https://www.youtube.com/watch?v=tT89OZ7TNwc) to learn more about how it works. As you watch make note of:
+
+- The 4 quadrants
+- The purpose (use) of each quadrant
+
+We have curated [this prioritization matrix template](https://docs.google.com/spreadsheets/d/1ehpYYeA1v78NpzjxqNVr0GkjN1JKbEG9l7-bqXbCe0g/edit?usp=sharing) for your personal use.
 
