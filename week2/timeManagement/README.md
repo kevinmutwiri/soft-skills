@@ -5,6 +5,8 @@
 - [Practical Time Management Tools](#practical-time-management-tools)
 - [Own Your Time](#own-your-time)
 - [Prioritization](#prioritization)
+- [Prioritization Frameworks: MoSCoW](#prioritization-frameworks-moscow)
+- [MoSCoW Method: Scenario](#moscow-method-scenario)
 
 **Time management** - Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
 
@@ -71,3 +73,48 @@ using your personal copy of the Prioritization Matrix
 6. Check any of the remaining tasks to make sure you did not miss anything urgent or important. Once you are sure, then every task that is listed and unmarked will fall under Do Not Do It.
 7. Now that you know each task’s ranking in terms of urgency and importance, add each task to the relevant quadrant in your prioritization matrix.
 > Importance and urgency will differ from person to person. You will need to be aware of what matters to you and what helps you reach your goals. For one, picking up the laptop will be something to do now (Urgent and Important) while for someone else it will be something to do later (Important but Not Urgent).
+
+#### What do you do when the clock is limited and everything is number one on your prioritization list?
+
+Our approach and suggestion would be to take a deep breath and speak with our stakeholders to let them know about the situation. Keeping those who rely on you informed about what’s going on might give you some ideas on what to do, or they might suggest options you hadn’t considered. That’s when you can figure out how to prioritize things in a difficult situation.
+
+## Prioritization Frameworks: Moscow
+
+<img width="1104" height="565" alt="image" src="https://github.com/user-attachments/assets/e0026c5b-bac0-4d20-8457-025c62ed8fc4" />
+
+One way in which tech teams prioritize is through the MoSCoW method:
+
+## M = Must-Have
+
+These are the features that are absolutely essential for the project or product. They are critical and cannot be compromised. In this case, the “must-have” features are the ones already in the backlog, which are considered crucial for the product’s functionality.
+
+## S = Should-Have
+
+This category includes features that are important but not as critical as the “must-have” ones. The new feature, requested by customers for interactive project data visualization, falls into this category. The team acknowledges its significance but is concerned about potentially delaying the “must-have” features.
+
+## C = Could-Have
+
+These are nice-to-have features but are not critical for the project’s core functionality. 
+
+## W = Won’t-Have
+
+This category includes features that will not be worked on for the current version or iteration of the product. They are intentionally deprioritized.
+
+## MoSCoW Method: Scenario
+
+Imagine you’re part of the engineering team at a hypothetical company called FizzBuzzy that enables customers to visualize their projects. It’s a fast-growing tech startup that offers cloud-based project management software.
+
+The company’s product manager, Jane, recently received feedback from several customers that they need a new feature that allows them to visualize their project data more interactively. This feature will require significant development effort from the software engineering team, and it’s not currently in the team’s backlog. Jane has brought this request to the engineering team, and they have started discussing how to prioritize it.
+
+The software engineers on the team are concerned that adding this feature will delay some other critical features that are already in the backlog. The team’s lead developer, Kyanyi, suggests that they use the MoSCoW framework to prioritize the feature. He proposes that the team discusses and categorize all the items in the backlog, including this new feature, into the following categories:
+
+<img width="1104" height="565" alt="image" src="https://github.com/user-attachments/assets/55bd8149-8d1c-4eff-883f-da5ddae127b5" />
+
+Khanyi suggests that they prioritize the new feature as a “should-have” and work on it after they have completed the “must-have” features in the backlog. The software engineers are concerned that this may not satisfy the customers who have requested the new feature, but they also agree that they cannot delay the “must-have” features.
+
+Jane brings this discussion to the leadership team, and they have some different perspectives. The VP of Sales, Akinola, believes that this new feature is critical to closing deals with some potential customers, and thus should be prioritized as a “must-have.” The CEO, Susan, agrees that the feature is important but is also concerned about the development resources needed to complete it.
+
+After some discussion,the team agrees to prioritize the new feature as a “should-have,” but they also agree to start working on it after they have completed the next critical feature in the backlog. The software engineers agree to provide regular updates to Jane and Akinola on the progress of the new feature, and the leadership team agrees to communicate to potential customers that the feature is on the roadmap but may not be available immediately.
+
+The team agrees to review the prioritization regularly and make adjustments as needed based on customer feedback, resource availability, and business priorities.
+
