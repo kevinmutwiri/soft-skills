@@ -7,6 +7,7 @@
 - [Prioritization](#prioritization)
 - [Prioritization Frameworks: MoSCoW](#prioritization-frameworks-moscow)
 - [MoSCoW Method: Scenario](#moscow-method-scenario)
+- [Prioritization Frameworks: RICE Model](#prioritization-frameworks-rice-model)
 
 **Time management** - Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
 
@@ -118,3 +119,9 @@ After some discussion,the team agrees to prioritize the new feature as a “shou
 
 The team agrees to review the prioritization regularly and make adjustments as needed based on customer feedback, resource availability, and business priorities.
 
+## Prioritization Frameworks: Rice Model
+
+One other commonly used prioritization model or framework used by tech teams is known as the RICE model. Let’s take a look at [this video](https://www.youtube.com/watch?v=kz7AHlsdlG4&t=1s) to learn what it is all about and answer these questions:
+
+- What does RICE stand for?
+- What does each of the components (R I, C and E) entail?
