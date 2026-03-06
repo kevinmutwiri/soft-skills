@@ -14,6 +14,7 @@
 - [Mindset](./mindset/README.md)
 - [Self Regulation](./selfRegulation/README.md)
 - [Time Management](./timeManagement/README.md)
+- [GCGOs and Purpose 1](./gcgos/README.md)
 
 ## Objectives
 
