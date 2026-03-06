@@ -15,6 +15,7 @@
 - [Self Regulation](./selfRegulation/README.md)
 - [Time Management](./timeManagement/README.md)
 - [GCGOs and Purpose 1](./gcgos/README.md)
+- [Global Challenge: Urbanization](./gcUrbanization.md)
 
 ## Objectives
 
