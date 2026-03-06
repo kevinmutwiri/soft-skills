@@ -8,6 +8,7 @@
 - [Prioritization Frameworks: MoSCoW](#prioritization-frameworks-moscow)
 - [MoSCoW Method: Scenario](#moscow-method-scenario)
 - [Prioritization Frameworks: RICE Model](#prioritization-frameworks-rice-model)
+- [Prioritization Considerations](#prioritization-considerations)
 
 **Time management** - Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
 
@@ -123,5 +124,18 @@ The team agrees to review the prioritization regularly and make adjustments as n
 
 One other commonly used prioritization model or framework used by tech teams is known as the RICE model. Let’s take a look at [this video](https://www.youtube.com/watch?v=kz7AHlsdlG4&t=1s) to learn what it is all about and answer these questions:
 
-- What does RICE stand for?
+- What does RICE stand for? Reach, Impact, Confidence, Effort
 - What does each of the components (R I, C and E) entail?
+  1. Reach - How many people will be affected by a feature or task within a specified period of time (e.g within a quarter or year)
+  2. Impact - How much influence a feature will have on your initiative
+  3. Confidence - How confident you are that your feature or idea will meet your reach and impact estimates. Helps make the evaluation more data-driven and less emotional
+  4. Effort - How much input the feature requires from the whole team in terms of resources and time
+
+## Prioritization Considerations
+
+In general, when teams are prioritizing there are things to watch out for to make the process seamless and ensure that the team focuses on the right things in the right order. These are:
+
+- **Focus on Value**: Agile teams should prioritize work items that deliver the most value to the business or the users. They should prioritize features or tasks that will have the most significant impact on the business, customers, or users.
+- **Use Feedback**: Agile teams should use feedback from stakeholders, customers, and end-users to inform their prioritization decisions. Feedback can help teams to understand which features or tasks are most important to customers or end-users and prioritize accordingly.
+- **Break Work into Small Pieces**: Agile teams should break down work into small, manageable pieces that can be completed in short iterations or sprints. This approach helps teams to prioritize work items that can be delivered quickly and frequently, leading to more frequent feedback and validation.
+- **Collaborate**: Prioritization should be a collaborative effort that involves all team members. Teams should have a shared understanding of the priorities, and everyone should be aligned on what the team is working on and why.
