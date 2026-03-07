@@ -2,3 +2,14 @@
 
 > [home](../README.md)
 
+[a quick video introduction to Google Workspace](https://www.youtube.com/watch?v=QzZ3OFBq8oU). As you watch, pay attention to:
+
+- Why Google designed Google Workspace.
+- How the apps work hand-in-hand to improve productivity.
+
+Baseline Google Workspace skills are a must for any tech professional. The apps are considered useful, if not essential when planning, conducting research, preparing reports and writing/running scripts and can be considered a must-have 21st-century skill.
+
+Gmail, Calendar, Drive, Docs, Sheets and Slides
+
+These skills are mostly transferable to other office platforms like Microsoft Office and iWork.
+
