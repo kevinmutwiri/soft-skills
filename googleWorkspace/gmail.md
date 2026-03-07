@@ -17,3 +17,6 @@ A very important part of being in tech is learning on the job, and this is a gre
 ## How to Correctly Format Your Email Address
 
 Read [How to Correctly Format Your Email Address](https://www.neverbounce.com/blog/format-email-address)
+
+Read [Email etiquette 101: Using Bcc vs. Cc](https://www.b12.io/resource-center/content-creation/email-etiquette-101-when-to-use-bcc-vs-cc.html)
+
