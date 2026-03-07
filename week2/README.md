@@ -16,6 +16,7 @@
 - [Time Management](./timeManagement/README.md)
 - [GCGOs and Purpose 1](./gcgos/README.md)
 - [Global Challenge: Urbanization](./gcUrbanization.md)
+- [Global Opportunity: Regional Integration](./goRegionalIntegration/README.md)
 
 ## Objectives
 
