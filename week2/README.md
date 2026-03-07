@@ -17,6 +17,7 @@
 - [GCGOs and Purpose 1](./gcgos/README.md)
 - [Global Challenge: Urbanization](./gcUrbanization.md)
 - [Global Opportunity: Regional Integration](./goRegionalIntegration/README.md)
+- [Global Challenge: Job Creation](./gcJobCreation/README.md)
 
 ## Objectives
 
