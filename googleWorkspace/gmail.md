@@ -13,3 +13,7 @@ Using your personal copy of the Google Workspace Skills Checklist above open the
 For each item listed, in column B, indicate “yes” or “no” depending on whether you feel confident in this skill. Then, for every item you selected “no” on, go to the listed resource so that you can learn how to do it.
 
 A very important part of being in tech is learning on the job, and this is a great opportunity to practice teaching yourself what you need to know. It is very hard to learn just by reading or watching something. You will see the information, but it will quickly be forgotten if you don’t DO IT. So don’t just read the “how to.” Open up Gmail and follow along!
+
+## How to Correctly Format Your Email Address
+
+Read [How to Correctly Format Your Email Address](https://www.neverbounce.com/blog/format-email-address)
