@@ -20,3 +20,15 @@ Read [How to Correctly Format Your Email Address](https://www.neverbounce.com/bl
 
 Read [Email etiquette 101: Using Bcc vs. Cc](https://www.b12.io/resource-center/content-creation/email-etiquette-101-when-to-use-bcc-vs-cc.html)
 
+### Summary: When to use To vs. Bcc vs. Cc 
+
+When reviewing the differences between these fields, use these general guidelines:
+
+- If you expect a direct response or action, use the “To” field.
+- If you want to keep people in the loop or send copies in a transparent way, use the “Cc” field.
+- If someone is not meant to be a main recipient, use “Cc.”
+- If you want a “To” recipient to know other important people are aware of the correspondence, use “Cc.”
+- If you want to maintain an inclusive email chain, use either “To” or “Cc.”
+- If you are sending an impersonal email or one with a large mailing list, use the “Bcc.”
+- You want to protect the privacy of recipients who don’t know each other, use “Bcc.”
+- If you want to share information with someone discreetly, use “Bcc,” but exercise ethical discretion when doing so.
