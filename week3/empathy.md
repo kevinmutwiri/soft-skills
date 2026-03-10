@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [Empathy for Problem Solving](#empathy-for-problem-solving)
+- [Importance of Empathy](#importance-of-empathy)
 
 The mark of an effective leader is the ability to be aware of the people you interact with. To do this, one must always seek to relate to the feelings, needs, and experiences of others. The next two videos will help us explore and experience empathy from various lenses. As you watch them, ask yourself the following questions:
 - What is empathy? Feeling with people
@@ -65,3 +66,11 @@ That statement jumped out in this 2-minute read called [The Art of Problem Solvi
 * **Blaming** - figuring out ‘who did it.’ Your questions should be as neutral and judgment free as possible. For example, it is better to ask, “What happened between you and Bob?” than “Why were you shouting at Bob?” This kind of neutral questioning can get the information rather than shutting someone down because they feel your judgment
 * **See It How I See It** - Not subtle
 * **Autocratic Power Play** - making demands from up on high. they do something they don’t want to do because they want to please you
+
+## Importance of Empathy
+
+[TED talk by Daniel Goleman called Why Aren’t We More Compassionate?](https://www.youtube.com/watch?v=r3wyCxHtGd0) As you watch this 12-minute TED talk ask yourself:
+
+- Why are people less compassionate than they could be?
+- What circumstances make people more compassionate?
+
