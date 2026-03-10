@@ -6,7 +6,7 @@ Developing healthy habits is a long, often tricky, endeavor. Don’t be discoura
 
 Keep at it; we’re sure you’ll get there!
 
-Watch [Use "after" to create a habit - BJ Fogg, Ph.D.](https://www.youtube.com/watch?v=lxngufGsdzg)
+Watch [Use "after" to create a habit - BJ Fogg, Ph.D.](https://www.youtube.com/watch?v=lxngufGsdzg) and [Tiny Habits Worksheet](https://docs.google.com/document/d/1Nzqa7NEPxFrJyCrqSvKEd9RSQa-sBnET4U0CEBBJKfY/edit?usp=sharing)
 
 
 To help you further in your self-improvement journey, below are a few other resources you can leverage.
