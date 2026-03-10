@@ -16,4 +16,26 @@ For a conceptual understanding of empathy start by watching [Dr Brene Brown’s 
 
 Empathy never starts with "At least..." e.g I had a miscarriage.. At least you know you can get pregnant
 
-Rarely does a response make something better... what makes something better is a connection
+Rarely can a response make something better... what makes something better is connection (We try to make things better in the face of difficult situations)
+
+watch [this video](https://www.youtube.com/watch?v=WdDVvLEKoc8) by Daniel Goleman as he speaks on the three kinds of empathy.
+
+## 1. **Cognitive empathy**
+
+I understand how you think about things, I can see things from your perspective. 
+
+Effective e.g for giving performance feedback or communication coz I know how to put it to you in a way that you will be able to hear, that makes sense for you
+
+**Downside**: People who only have cognitive empathy and who have twisted motivation, if you will, can use it to manpulate people. (Use their understanding of the other person to manipulate them - Sociopaths, Narcissists who only care about themselves)
+
+## 2. Emotional Empathy
+
+I feel with you. 
+
+Upside: Creates harmony, a rapport
+
+Downside: You might pick up the distress other people are feeling and if you cannot manage it, it can lead to emotional exhaustion (can lead to burnout)
+
+## 3. Empathic concern
+
+The felt sense that when I see you are in trouble, I spontaneously want to help out. Genuinely concerned about helping people get better, learn to do better
