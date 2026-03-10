@@ -2,6 +2,8 @@
 
 > [home](./README.md)
 
+- [Empathy for Problem Solving](#empathy-for-problem-solving)
+
 The mark of an effective leader is the ability to be aware of the people you interact with. To do this, one must always seek to relate to the feelings, needs, and experiences of others. The next two videos will help us explore and experience empathy from various lenses. As you watch them, ask yourself the following questions:
 - What is empathy? Feeling with people
 - Why is empathy important?
@@ -39,3 +41,9 @@ Downside: You might pick up the distress other people are feeling and if you can
 ## 3. Empathic concern
 
 The felt sense that when I see you are in trouble, I spontaneously want to help out. Genuinely concerned about helping people get better, learn to do better
+
+## Empathy for Problem Solving
+
+"Empathetic problem solving is the ability to **really understand and feel another’s perspective in a conflict or issue.** Empathetic problem-solving is about **what you do in communication while solving a problem** but also about what you don’t do." - Chris Stathakis
+
+That statement jumped out in this 2-minute read called [The Art of Problem Solving by Chris Stathakis](https://www.stathakis.com/blog/leadership/the-art-of-empathetic-problem-solving). Read and pay special attention to the differences between empathetic and Non-empathetic problem-solving. 
