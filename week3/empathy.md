@@ -47,3 +47,6 @@ The felt sense that when I see you are in trouble, I spontaneously want to help 
 "Empathetic problem solving is the ability to **really understand and feel another’s perspective in a conflict or issue.** Empathetic problem-solving is about **what you do in communication while solving a problem** but also about what you don’t do." - Chris Stathakis
 
 That statement jumped out in this 2-minute read called [The Art of Problem Solving by Chris Stathakis](https://www.stathakis.com/blog/leadership/the-art-of-empathetic-problem-solving). Read and pay special attention to the differences between empathetic and Non-empathetic problem-solving. 
+
+> "The highest form of **knowledge** is **empathy**." - Bill Bullard
+
