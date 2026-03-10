@@ -4,6 +4,7 @@
 
 - [Empathy for Problem Solving](#empathy-for-problem-solving)
 - [Importance of Empathy](#importance-of-empathy)
+- [Significance of Empathy in Technology Teams](#significance-of-empathy-in-technology-teams)
 
 The mark of an effective leader is the ability to be aware of the people you interact with. To do this, one must always seek to relate to the feelings, needs, and experiences of others. The next two videos will help us explore and experience empathy from various lenses. As you watch them, ask yourself the following questions:
 - What is empathy? Feeling with people
@@ -71,6 +72,40 @@ That statement jumped out in this 2-minute read called [The Art of Problem Solvi
 
 [TED talk by Daniel Goleman called Why Aren’t We More Compassionate?](https://www.youtube.com/watch?v=r3wyCxHtGd0) As you watch this 12-minute TED talk ask yourself:
 
-- Why are people less compassionate than they could be?
-- What circumstances make people more compassionate?
+- Why are people less compassionate than they could be? they are focusing on themselves too much, they are in a hurry (or so they think)
+- What circumstances make people more compassionate? Just notice others
+
+## Significance of Empathy in Technology Teams
+
+<img width="698" height="515" alt="image" src="https://github.com/user-attachments/assets/3e4f4ba6-92a0-4f0e-904c-55e86916e011" />
+
+Empathy is a crucial skill for everyone working in technology. Well, it’s an important skill that everyone should have but specific emphasis is placed on technology teams since you’re most likely going to have different roles in these teams in the near future.
+
+Empathy is _the ability to understand and relate to the feelings of others_. This makes it a crucial skill to be used in building meaningful connections with colleagues you’re going to work with and users who’ll use the awesome technology platforms you’ll build or contribute to.
+
+In order to understand how empathy might impact us in our roles, we need to examine the following hypothetical case study that might be a reflection of the amazing work you’re soon going to be doing.
+
+_Imagine you are part of a team tasked with designing a new healthcare app for people with chronic conditions. The app aims to help users track their symptoms, medications, and appointments, and provide personalized health tips and resources. The app also seeks to have this information shareable with healthcare providers so that no information is lost in case the providers are changed for one reason or another. Well, let’s talk about empathy as it relates to this project. How would empathy ensure that the goals are met?_
+
+### 1. Human-centered design (HCD):
+
+Also called user-centered design, When you understand the _pain points_, _preferences_ and _needs_ of users, you’re showing empathy to your users and the result is the creation of products/solutions/apps that are intuitive, user-friendly, and enjoyable to use.
+
+Concerning our healthcare app, your team would most likely conduct intensive user research to understand the needs and pain points of people with chronic conditions. This would likely be through interviewing participants or conducting surveys among other user research methodologies
+
+In this case, after interviewing potential users of the healthcare app, you learn that many users feel overwhelmed by the complexity of managing their conditions while navigating the public healthcare system which is cumbersome. With this information, you can design the app to be user-friendly, intuitive to use and customizable to each user’s needs.
+
+### 2. Collaboration: 
+
+while researching, designing, and developing the healthcare app, your team collaborates with insurance providers, healthcare providers, and people with chronic conditions. By listening to their perspectives and feedback, empathy is demonstrated and the result is building trust and creating a supportive community that values diverse voices.
+
+### 3. Ethics and integrity: 
+
+while developing the healthcare app and integrating feedback provided by your stakeholders, there are ethical considerations that need to be made that particularly affect technology teams. These range from factors such as data privacy and accessibility (especially when dealing with healthcare data) to. In your future role in a tech team, you need to advocate for user data protection ensuring that it’s well secured and access appropriately managed.
+
+### 4. User feedback: 
+
+after launching the app, it’s always good practice to collect feedback and data from your users to improve their experience on the app. It shows empathy to your users that you still care enough about their experience to continue iterating on your app to improve it for the future. You should always respond to feedback with empathy.
+
+By putting yourself in the user’s shoes and understanding their problems, needs, and perspectives, you can design technology that makes a meaningful impact on people’s lives. In summary, empathy is a crucial skill for anyone working in technology. By practicing empathy, you can build user-centered technology solutions, collaborate effectively with colleagues, consider ethical implications, and give, and receive feedback constructively.
 
