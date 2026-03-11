@@ -20,3 +20,6 @@ One company doing amazing work is Earth Ranger which uses Artificial Intelligenc
 - How does EarthRanger work to protect wildlife?
 - What are the key technological innovations that allow EarthRanger to be successful?
 - What other technology can promote wildlife protection?
+
+Watch [How community-led conservation can save wildlife | Moreangels Mbizah](https://www.youtube.com/watch?v=pR83Woy0zDs)
+
