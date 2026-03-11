@@ -8,3 +8,4 @@
 - [Global Challenge: Climate Change](./gcClimateChange.md)
 - [Global Opportunity: Agriculture](./goAgriculture.md)
 - [Global Challenge: Healthcare](./gcHealthcare.md)
+- [Global Opportunity: Wildlife Conservation](./goWildlifeConservation.md)
