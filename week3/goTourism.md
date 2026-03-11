@@ -23,3 +23,8 @@ Key benefits of sustainable tourism:
 - Environmental Protection: Through funding and responsible practices.
 - Community Well-being: Improving livelihoods and social benefits.
  
+Take a moment to watch [this video](https://www.youtube.com/watch?v=jg_FecEktX0) and ask yourself:
+
+- How is technology disrupting the tourism space?
+- What is eTourism?
+- What are the differences between eTourism vs Virtual Tourism vs Smart Tourism?
