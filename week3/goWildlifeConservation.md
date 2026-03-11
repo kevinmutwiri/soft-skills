@@ -23,3 +23,4 @@ One company doing amazing work is Earth Ranger which uses Artificial Intelligenc
 
 Watch [How community-led conservation can save wildlife | Moreangels Mbizah](https://www.youtube.com/watch?v=pR83Woy0zDs)
 
+Watch [ALU | The Emerging African Wildlife Conservation Leader | Mandla](https://www.youtube.com/watch?v=UajE6cV9nsE)
