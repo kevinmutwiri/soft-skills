@@ -9,3 +9,4 @@
 - [Global Opportunity: Agriculture](./goAgriculture.md)
 - [Global Challenge: Healthcare](./gcHealthcare.md)
 - [Global Opportunity: Wildlife Conservation](./goWildlifeConservation.md)
+- [Global Opportunity: Women Empowerment](./goWomenEmpowerment.md)
