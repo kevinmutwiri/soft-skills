@@ -15,3 +15,8 @@ The main greenhouse gases that cause climate change include carbon dioxide and m
 
 Read [the full article](https://www.un.org/en/climatechange/what-is-climate-change) to understand climate change, its main contributors and the vast solutions already being implemented.
 
+A tech startup [Sylvera](https://www.sylvera.com/) approaches carbon reduction within the industry and supply chain based on the combination of its SaaS (Software as a Service) digital platform and API (Application Programming Interface), which serve as a data verifier to help the carbon offset market scale.
+
+More specifically, Sylvera works with offset projects to increase their validity by running geospatial data, machine learning, and climate data through their algorithms to create a standardized rating for a specific carbon offset project.
+
+Read [10 Climate Tech Startups Fighting to Save the World](https://www.plugandplaytechcenter.com/insights/future-thinking-startups-fighting-climate-change)
