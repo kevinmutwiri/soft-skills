@@ -7,3 +7,4 @@
 - [Self-Improvement Resources](./selfImprovement.md)
 - [Global Challenge: Climate Change](./gcClimateChange.md)
 - [Global Opportunity: Agriculture](./goAgriculture.md)
+- [Global Challenge: Healthcare](./gcHealthcare.md)
