@@ -11,3 +11,4 @@
 - [Global Opportunity: Wildlife Conservation](./goWildlifeConservation.md)
 - [Global Opportunity: Women Empowerment](./goWomenEmpowerment.md)
 - [Global Challenge: Education](./gcEducation.md)
+- [Global Opportunity: Tourism](./goTourism.md)
