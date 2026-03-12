@@ -12,3 +12,4 @@
 - [Global Opportunity: Women Empowerment](./goWomenEmpowerment.md)
 - [Global Challenge: Education](./gcEducation.md)
 - [Global Opportunity: Tourism](./goTourism.md)
+- [Global Opportunity: Arts, Culture, & Design](./goArtsCultureDesign.md)
