@@ -17,3 +17,4 @@ Take a look at [this short video](https://www.youtube.com/watch?v=esxVttJLlPY) a
 - How is Shasha maximizing tech tools to simplify learning and increase access to information for both teachers and students?
 - What notable difference has Shasha made in their user’s education journey?
 
+Read [What Will It Take for Africa to Lead an Education Turnaround?](https://blogs.worldbank.org/en/africacan/what-will-it-take-africa-lead-education-turnaround)
