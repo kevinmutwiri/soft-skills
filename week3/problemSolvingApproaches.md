@@ -4,7 +4,8 @@
 
 
 - [Cool Head, Warm Heart](#cool-head-warm-heart)
-- [Cool Head, Warm Heart Framework](#cool-head-warm-heart-framework)
+ - [Cool Head, Warm Heart Framework](#cool-head-warm-heart-framework)
+ - [Example: Cool Head, Warm Heart Framework](#example-cool-head-warm-heart-framework)
 
 
 ## Cool Head, Warm Heart
@@ -29,3 +30,14 @@ The Cool Head, Warm Heart framework has six elements to consider. Let’s talk a
 
 By incorporating these “Cool Head, Warm Heart” elements when problem-solving, you can make well-informed and thoughtful decisions that are grounded in sound reasoning and values.
 
+### Example: Cool Head, Warm Heart Framework
+
+Here is an example of a scenario that can make use of the Cool Head, Warm Heart Framework.
+
+> A tech company was facing a challenge with its customer service chatbot. While the chatbot was able to respond to basic customer inquiries, it struggled to understand complex questions and provide personalized responses. As a result, customers were becoming frustrated and the company was experiencing a high rate of customer churn (loss).
+
+Application of the “Cool Head, Warm Heart” Approach
+
+<img width="797" height="832" alt="image" src="https://github.com/user-attachments/assets/81e68f18-b4a0-48ac-81fa-6839f93511cd" />
+
+In this example, the tech company used the “Cool Head, Warm Heart” model to solve a tech problem by balancing analytical and emotional considerations. By considering both the technical and human aspects of the problem, the company was able to find a solution that improved customer satisfaction and aligned with its values and goals.
