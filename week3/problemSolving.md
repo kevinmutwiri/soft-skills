@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [S.M.A.R.T. Goals](#smart-goals)
+- [5 Whys Technique: Root Cause Analysis](#5-whys-technique)
 
 Problems are a part of everyday life! Whether it’s something smaller like not having a phone charger when you’re in the middle of nowhere, or more significant problems like poverty and climate change, it is crucial to learn how to solve them and make decisions as efficiently and effectively as possible.
 
@@ -52,3 +53,9 @@ S.M.A.R.T. goals give the goal-setter and the person assessing their progress a 
 If you would like some extra examples of how SMART goals can look like, you can read [this article](https://smartblogger.com/smart-goal-examples/) as well!
 
  
+## 5 Whys Technique
+
+To define a problem, you can use Lean’s “5 Times Why” method to find the root cause of the problem. In simple terms, you keep asking “why” and after 5 times you will come to the root cause of the issue. Asking “Why” will save you from mislabeling a symptom of a problem as the root cause. Watch [this 2-minute video](https://www.youtube.com/watch?v=B-M3YlA2KDg) on how to use the ‘5 whys technique’ to get to the root cause. As you watch, ask yourself:
+
+- What are the differences between symptoms and root causes of a problem?
+- How does the ‘5 whys technique’ work when problem-solving?
