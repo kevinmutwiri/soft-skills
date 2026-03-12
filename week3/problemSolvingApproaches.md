@@ -7,6 +7,7 @@
  - [Cool Head, Warm Heart Framework](#cool-head-warm-heart-framework)
  - [Example: Cool Head, Warm Heart Framework](#example-cool-head-warm-heart-framework)
  - [McKinsey Problem Solving Framework](#mckinsey-problem-solving-framework)
+ - [How to Use Problem Solving Approaches](#how-to-use-problem-solving-approaches)
 
 
 ## Cool Head, Warm Heart
@@ -61,3 +62,10 @@ Take a look at this template of how the McKinsey Problem Solving Framework is st
 <img width="825" height="932" alt="image" src="https://github.com/user-attachments/assets/d381d69c-fda8-468a-b097-ccf522635b4a" />
 
 With this framework, you can get a deeper evaluation of your problem from a logical perspective.
+
+## How to Use Problem Solving Approaches
+
+So how do you decide which approach to use? Well, in certain situations, one model may work better than others, and it is up to you to determine which one will work best for a given situation based on a few key factors. Here is a general guide:
+
+<img width="821" height="462" alt="image" src="https://github.com/user-attachments/assets/89b3c00d-ca50-4a8c-9de5-f42c8e4e7c90" />
+
