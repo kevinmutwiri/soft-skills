@@ -155,3 +155,23 @@ Here’s an example of a real-world user story created for a company where sales
 
 Create a user story and acceptance criteria for the following situation: A company called FizzBuzzy does e-commerce sales in Tanzania. Their users complain that after buying goods on the FizzBuzzy website, they can only buy individual products and check out one at a time, instead of being able to place several items in one cart before checking out.
 
+## SITUATION: You are a consultant, and your client Lethabo runs an ice cream shop called IceWorld in Johannesburg. Lethabo comes to you with a problem. According to him, sales have been slow over the last month, and he wants your help coming up with solutions to improve his revenue.
+
+As you speak to Lethabo to learn more about his problem, you find out the following:
+
+- Sales dropped 15% in the last month (March) compared to the same month last year.
+- At the beginning of the year, the shop started asking customers to pay through a newly developed app called Fasty. A few other fast-food shops have also recently started using Fasty to take customer payments.
+- IceWorld is using the Fasty app for free since the app is still being piloted in other areas.
+- From Lethabo’s observation, the employees at IceWorld are excited about how the Fasty app helps in running the store. (It creates less work for the employees who don’t have to take payments themselves.)
+- IceWorld hired an extra employee one month ago to help customers use the Fasty app to pay for their ice cream.
+- Younger customers report that they really like using the Fasty app to complete their payments, but older adults report that it is frustrating to use.
+- To stay relevant and up to date, IceWorld has also been experimenting with offering unusual flavours like chai tea, goji berry, and creme caramel, while still keeping its 3 most popular flavours - chocolate, cookies & cream and vanilla strawberry - on the menu.
+- There is a nearby cafe – ChugAMug – that sells other items like coffee drinks and pastries, but ChugAMug also has a limited selection of ice cream flavours.
+- From Lethabo’s observation, there have been a higher number of customers at ChugAMug in the past 3 months than there were during the same 3-month period last year.
+
+REQUIRED: write a problem statement for Lethabo’s problem. Your statement should be about 150 words in length and must include all the key elements:
+
+- Problem Description
+- Population
+- Impact
+- Gap
