@@ -6,6 +6,7 @@
 - [Cool Head, Warm Heart](#cool-head-warm-heart)
  - [Cool Head, Warm Heart Framework](#cool-head-warm-heart-framework)
  - [Example: Cool Head, Warm Heart Framework](#example-cool-head-warm-heart-framework)
+ - [McKinsey Problem Solving Framework](#mckinsey-problem-solving-framework)
 
 
 ## Cool Head, Warm Heart
@@ -41,3 +42,22 @@ Application of the “Cool Head, Warm Heart” Approach
 <img width="797" height="832" alt="image" src="https://github.com/user-attachments/assets/81e68f18-b4a0-48ac-81fa-6839f93511cd" />
 
 In this example, the tech company used the “Cool Head, Warm Heart” model to solve a tech problem by balancing analytical and emotional considerations. By considering both the technical and human aspects of the problem, the company was able to find a solution that improved customer satisfaction and aligned with its values and goals.
+
+## McKinsey Problem Solving Framework
+
+The second problem-solving approach we will explore and practice is McKinsey’s Problem Solving Framework. This framework is often used in business and consulting settings and is particularly effective for analyzing data and developing data-driven and evidence-based solutions. The framework requires that we answer the following 6 questions:
+
+- What is the problem?
+- Where and when does the problem occur?
+- Who is affected?
+- What will make a solution successful?
+- What are the boundaries of this problem?
+- Who or what can stop you from implementing the solution?
+
+Did you notice a lot of similarity with the 5Ws?
+
+Take a look at this template of how the McKinsey Problem Solving Framework is structured:
+
+<img width="825" height="932" alt="image" src="https://github.com/user-attachments/assets/d381d69c-fda8-468a-b097-ccf522635b4a" />
+
+With this framework, you can get a deeper evaluation of your problem from a logical perspective.
