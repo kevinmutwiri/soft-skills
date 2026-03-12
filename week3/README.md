@@ -16,3 +16,4 @@
 - [Global Challenge: Infrastructure](./gcInfrastructure.md)
 - [Global Challenge x Global Opportunity: Governance and Natural Resources](./gcgoGovernanceNaturalResources.md)
 - [Problem Solving](./problemSolving.md)
+- [Problem Solving Approaches](./problemSolvingApproaches.md)
