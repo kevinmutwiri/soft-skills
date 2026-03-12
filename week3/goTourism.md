@@ -8,7 +8,7 @@ Take a moment to read [this short article](https://www.worldbank.org/en/topic/co
 
 ## Article Excerpt
 
-The tourism sector is a vital engine for economic growth and social development in developing countries, creating inclusive jobs, especially for women, fostering innovative businesses, and funding natural and cultural heritage conservation. The World Bank supports sustainable tourism because it significantly boosts revenue, stimulates small and medium-sized enterprises (MSMEs), improves community well-being, and prevents environmental degradation.
+The tourism sector is a vital engine for economic growth and social development in developing countries, creating inclusive jobs, especially for women, fostering innovative businesses, and funding natural and cultural heritage conservation. The World Bank supports sustainable tourism because it significantly boosts revenue, stimulates micro, small and medium-sized enterprises (MSMEs), improves community well-being, and prevents environmental degradation.
 
 Globally, tourism’s economic impact is substantial: in 2024, it contributed US$10.9 trillion to global GDP, representing 10% of the world economy. The sector also supported an impressive 357 million jobs worldwide, meaning approximately one in every ten jobs, underscoring its critical role in the global labor market. This robust activity was further fueled by a surge in international visitor spending, which reached US$1.9 trillion.
 
