@@ -2,6 +2,8 @@
 
 > [home](./README.md)
 
+- [S.M.A.R.T. Goals](#smart-goals)
+
 Problems are a part of everyday life! Whether it’s something smaller like not having a phone charger when you’re in the middle of nowhere, or more significant problems like poverty and climate change, it is crucial to learn how to solve them and make decisions as efficiently and effectively as possible.
 
 A **problem** is _an unwanted situation that needs to be addressed or resolved in order to achieve the desired situation_.
@@ -30,3 +32,23 @@ So the question is, how do we do this? Well, we start by defining the problem. P
   > Spend more time defining the problem than solving it. Once the problem has been defined accurately, the solution will be waay easier to find
 - When trying to solve a problem, what is the most important step? Define the problem accurately
 
+
+## S.M.A.R.T. Goals
+
+Knowing:
+
+1) what your goals are for the next few months/years, 2) what needs to be done to achieve the goals and 3) having a game plan in place, will help you identify activities and tasks that are worthy of your time now.
+
+S.M.A.R.T. is an acronym, that gives criteria to guide goal setting and objectives to yield better results. It means that your goal is specific, measurable, attainable, relevant and time-based.
+
+<img width="775" height="764" alt="image" src="https://github.com/user-attachments/assets/c8cd236f-2661-4331-8db8-fa687e72c3fa" />
+
+Over time, other variations of the acronym have been used. Common alternative words, that still serve as useful goal-planning guidelines are:
+
+A : achievable | R : realistic, reliable | T : timely
+
+S.M.A.R.T. goals give the goal-setter and the person assessing their progress a clear road map. The person setting the goal (e.g. the employee) gains a clear understanding of what needs to be accomplished, and the person evaluating can then assess the outcome based on the defined criteria.
+
+If you would like some extra examples of how SMART goals can look like, you can read [this article](https://smartblogger.com/smart-goal-examples/) as well!
+
+ 
