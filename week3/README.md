@@ -15,3 +15,4 @@
 - [Global Opportunity: Arts, Culture, & Design](./goArtsCultureDesign.md)
 - [Global Challenge: Infrastructure](./gcInfrastructure.md)
 - [Global Challenge x Global Opportunity: Governance and Natural Resources](./gcgoGovernanceNaturalResources.md)
+- [Problem Solving](./problemSolving.md)
