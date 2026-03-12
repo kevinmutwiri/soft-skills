@@ -4,6 +4,9 @@
 
 - [S.M.A.R.T. Goals](#smart-goals)
 - [5 Whys Technique: Root Cause Analysis](#5-whys-technique)
+- [5 Ws (+H) Technique: The Journalist’s Framework](#5-ws-h-technique)
+- [Problem Statement](#problem-statement)
+- [How to Write a Problem Statement](#how-to-write-a-problem-statement)
 
 Problems are a part of everyday life! Whether it’s something smaller like not having a phone charger when you’re in the middle of nowhere, or more significant problems like poverty and climate change, it is crucial to learn how to solve them and make decisions as efficiently and effectively as possible.
 
@@ -57,5 +60,42 @@ If you would like some extra examples of how SMART goals can look like, you can 
 
 To define a problem, you can use Lean’s “5 Times Why” method to find the root cause of the problem. In simple terms, you keep asking “why” and after 5 times you will come to the root cause of the issue. Asking “Why” will save you from mislabeling a symptom of a problem as the root cause. Watch [this 2-minute video](https://www.youtube.com/watch?v=B-M3YlA2KDg) on how to use the ‘5 whys technique’ to get to the root cause. As you watch, ask yourself:
 
-- What are the differences between symptoms and root causes of a problem?
+- What are the differences between symptoms and root causes of a problem? 
 - How does the ‘5 whys technique’ work when problem-solving?
+
+## 5 Ws (+H) Technique
+
+Another helpful approach to better understand, define, and articulate a problem is the **5 Ws (+H): What, Who, Where, When, Why, (and How)**.
+
+1. **What** is the problem? **What** is reality like because of this problem? **What** will the reality be like if the problem continues?
+2. **Who** does this problem impact, directly and indirectly? (This could include people and/or animals.) **Who** contributes to the problem (for example, specific corporations, governments, and/or individuals)?
+3. **When** did the problem begin? **When** does the problem occur? **When** does it need to be resolved?
+4. **Where** is this problem occurring? (And what is the context in which it occurs?)
+5. **Why** is the problem happening? **Why** is it important to solve the problem? (highlight the pain)
+6. There is also an H we can add to this. It stands for **HOW**: **How** would the world be different if the problem were solved? (Or sometimes “How do we solve the problem?”) Let’s park this H for now and come back to it later.
+
+After examining root causes and understanding our problem more, we can articulate our problem more concretely and succinctly through the use of a problem statement.
+
+## Problem Statement
+
+Defining a problem is critical, but let’s not stop there. The next crucial move after identifying it and defining it is to describe it in appropriate detail, using a problem statement.
+
+
+A **problem statement** is a concise and clear description of a specific problem that needs to be solved, its significance, and who it affects. It identifies the gap between the current state (i.e., the problem) and the desired state (i.e., the goal).
+
+A well-written problem statement helps to establish a clear understanding of the problem, which is the groundwork needed for developing effective solutions. An effective problem statement is designed to address the Five Ws (+H).
+
+### Key elements of an effective problem statement:
+
+- Create a succinct problem description (a more concise ‘what’ and possibly ‘when’)
+- Indicate the specific population affected (a more concise ‘who’ and ‘where’)
+- Explain the impact of the problem (cost, time, quality, environmental, personal, etc). (a more concise ‘why’)
+- Identify the gap that exists between present reality and the desired outcome. How would reality look if the problem were solved? (a more precise ‘how’)
+
+## How to Write a Problem Statement
+
+Watch [this video](https://www.youtube.com/watch?v=w2-02d6lmKY) to learn how to write a good problem statement. As you watch ask yourself:
+
+- Have I understood how the key elements of problem-solving as highlighted in the video? Key elements are: **Problem Description**, **Population** (location), **Impact**, and **Gap** between the current reality and the solved state.
+- Can I apply the process to create a problem statement for something I’ve been facing all this time?
+
