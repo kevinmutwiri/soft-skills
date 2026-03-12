@@ -7,6 +7,8 @@
 - [5 Ws (+H) Technique: The Journalist’s Framework](#5-ws-h-technique)
 - [Problem Statement](#problem-statement)
 - [How to Write a Problem Statement](#how-to-write-a-problem-statement)
+- [Agile User Stories for Problem Definition](#agile-user-stories-for-problem-definition)
+- [Acceptance Criteria for User Stories](#acceptance-criteria)
 
 Problems are a part of everyday life! Whether it’s something smaller like not having a phone charger when you’re in the middle of nowhere, or more significant problems like poverty and climate change, it is crucial to learn how to solve them and make decisions as efficiently and effectively as possible.
 
@@ -98,4 +100,58 @@ Watch [this video](https://www.youtube.com/watch?v=w2-02d6lmKY) to learn how to 
 
 - Have I understood how the key elements of problem-solving as highlighted in the video? Key elements are: **Problem Description**, **Population** (location), **Impact**, and **Gap** between the current reality and the solved state.
 - Can I apply the process to create a problem statement for something I’ve been facing all this time?
+
+In addition to clearly articulating the above, a good problem statement should ideally contain specific and measurable information. Here is an example of what a problem statement looks like:
+
+_Last month, our team was late in delivering 5 needed fixes to our website, making it a frustrating experience for potential customers. Our company currently has a goal of acquiring 10,000 new paying customers by the end of 2024. Without better leadership, we will not meet this goal. Without these new paying customers, the company might shut down. Many people would lose their livelihoods if that happened._
+
+_We need a way to improve the motivation and leadership of our team so that we can implement needed fixes to our website. Right now, we don’t have a strong leader. The problem will be solved by hiring a team leader who will align all of our work, create one set of prioritized objectives and act as an executive sponsor who can represent our team in discussions among the C-suite executives. Putting the right leader in place will also ensure that the company can fulfil its goal of acquiring 10,000 new paying customers by the end of this year._
+
+Did you notice that the problem statement above does the following:
+
+- **Problem description in the first sentence** - team was late delivering 5 needed fixes to our website last month (bonus points for quantitative/measurable information!)
+- **Identifies the population** - our team, within our company
+- **States the impact** - we could miss our goal of acquiring 10,000 new paying customers by the end of 2024, and the company may shut down which would cause many to lose their livelihood.
+- **Identifies a gap between the current state and the desired/solved state** - no leader currently versus a new leader hired.
+
+## Agile User Stories for Problem Definition
+
+Tech teams typically use a way of defining/framing problems with user stories. User stories can be extremely useful in framing problems so that they’re easy to understand by agile team members. In a typical tech team, a product manager or owner is responsible for creating user stories.
+
+### What are User Stories?
+
+**User stories** are _short, simple descriptions of a feature or functionality from the perspective of the user or customer_. Their essence is to capture user needs and goals in a way that’s easy to understand and communicate to the development team. They typically follow a specific format that includes a description of the user, the action or goal the user wants to achieve, and the expected outcome or benefit of achieving that goal.
+
+**As a [type of user], I want [some goal/objective], so that [some benefit/reason]**. Here are a few examples of user stories:
+
+- As a retailer, I want to be able to view the levels of inventory for all products so that I can order the right amount of stock.
+- As a customer, I want to be greeted politely when ordering so that I have a positive experience.
+- As an online client, I want to be able to reset my password without having to call customer support so that my time is used efficiently.
+
+User stories help teams understand what needs to be done and why, and to ensure they’re building the right features for the right users. During sprint planning, the team selects the highest priority user stories from the backlog (basically a “to-do” list) and breaks them down into smaller, actionable tasks that can be completed within the sprint (the period over which a block of work will be completed, typically 1 or 2 weeks).
+
+Interested in how user stories and agile tech teams work in more detail? Watch [this 34-minute video](https://www.youtube.com/watch?v=SRRQCDZQ6G4) to explore the topic in greater detail through a couple of examples.
+
+## Acceptance Criteria for User Stories
+
+So how do you know when a problem’s solution or a user story’s goal has been achieved? That’s where acceptance criteria come into play.
+
+In the context of user stories, acceptance criteria are the specific conditions or requirements that must be met for a user story to be considered complete. The acceptance criteria are typically defined by the product owner or the development team during the sprint planning or backlog refinement process.
+
+Acceptance criteria are important because they help ensure that the user story is well-defined and that the development team has a clear understanding of what is expected. They also serve as a way to measure whether the user story has been successfully implemented and can be used to guide testing and quality assurance efforts.
+
+Examples of acceptance criteria might include:
+
+- The user can log in using their email address and password.
+- The user can view a list of their past orders on the My Orders page.
+- The system can handle up to 100 concurrent users without experiencing any performance issues.
+- The checkout process must include a confirmation page that displays the order total and shipping information.
+- The application must be compatible with the latest versions of Chrome, Firefox, and Safari browsers.
+> Note that acceptance criteria should be specific , measurable , and achievable , and should focus on the functionality that is most important to the end user. They should also be testable so that the development team can verify that the criteria have been met.
+
+Here’s an example of a real-world user story created for a company where sales account managers could not access sales reports that were crucial in enabling them to monitor their portfolio of customers. This was a problem identified and researched by the product manager who then created the user story shown below. The user story with the corresponding acceptance criteria is then picked up by the engineering team who break it down into technical tickets on platforms such as Jira and Asana and place the work in the backlog ready to be developed in a planned sprint.
+
+<img width="809" height="464" alt="image" src="https://github.com/user-attachments/assets/e8e41b22-58d6-49c3-b6a1-d43f18c185a1" />
+
+Create a user story and acceptance criteria for the following situation: A company called FizzBuzzy does e-commerce sales in Tanzania. Their users complain that after buying goods on the FizzBuzzy website, they can only buy individual products and check out one at a time, instead of being able to place several items in one cart before checking out.
 
