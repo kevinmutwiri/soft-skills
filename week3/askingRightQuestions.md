@@ -4,6 +4,8 @@
 
 - [Types of Effective Questions](#types-of-effective-questions)
 - [Effective Problem Solving Questions](#effective-problem-solving-questions)
+- [Breaking Down The Problem Statement](#breaking-down-the-problem-statement)
+- [Research Questions](#research-questions)
 
 When you write a problem statement, you may encounter a lack of information and had to ask some questions.
 
@@ -98,3 +100,55 @@ Engage people to solve the problem. And always, no matter what, ask people how t
 “If you do this, how will it affect _________?”
 
 “What else do you need to consider?”
+
+## Breaking Down The Problem Statement
+
+Earlier we said that to develop a good problem statement you must be able to first define/identify the correct problem. You do this by using the 5Ws +H) which we covered in the previous module.
+
+Asking the right questions in the right order will enable you to build an effective – and SMART – problem statement. Questions are important because they allow us to uncover assumptions that we may have about a proposed course of action.
+
+Here is a recap of the 5Ws (+H) that you must ask to define and identify a problem.
+- **What** is the problem? **What** is reality like because of this problem? **What** will the reality be like if the problem continues?
+- **Who** does this problem impact, directly and indirectly? (This could include people and/or animals.) **Who** contributes to the problem (for example, specific corporations, governments, and/or individuals)?
+- **When** did the problem begin? **When** does the problem occur? **When** does it need to be resolved?
+- **Where** is this problem occurring? (And what is the **context** in which it occurs?)
+- **Why** is the problem happening? **Why** is it important to solve the problem? (highlight the pain)
+- **How** would the world be different if the problem were solved? **How** do we solve the problem?
+ 
+
+Additional questions (as guided by the elements of a problem statement)
+
+It is likely that after asking these questions there will still be pieces of missing information. This means that you must keep in mind the elements of your problem statement, so you can ask appropriate follow on questions that help you get all the information you need. Remember, the elements of a problem statement that you must have adequate information about include:
+
+- A succinct problem description (a more concise ‘what’ and possibly ‘when’)
+- The specific population affected (a more concise ‘who’ and ‘where’)
+- The impact of the problem (cost, time, quality, environmental, personal… This is a more concise ‘why’.)
+- Identify the gap that exists between present reality and the desired outcome. How would reality look if the problem were solved? (This is a more concise how.)
+
+## Research Questions
+
+While we are still in the spirit of questions, let’s talk a little bit about formulating research questions.
+
+Soon you will be a renowned tech guru and to win in the world of tech you must be able to provide viable solutions to clients and users.
+
+Sometimes, when presented with a problem to solve, things are not as straightforward as they seem and you will need to do some digging to find information to formulate solutions. So how do you know what to dig for and where to start?
+
+A Research Question begins with a research problem – an issue someone would like to know more about or a situation that needs to be changed or addressed. It is used to analyse, and investigate a topic and is inquisitive in nature.
+
+A properly written question will be clear and concise and should contain the topic being studied (purpose), the applicable variable(s), and the population.
+
+- A **variable** in research simply refers to a person, place, thing, or phenomenon that you are trying to measure in some way.
+
+- A research **population** refers to the entire group of individuals or objects that a researcher is interested in studying. This could include people, animals, plants, or even inanimate objects such as buildings or artefacts.
+
+
+There are three main types of research questions that you can ask:
+1. **Causal** – Compares two or more phenomena and determines whether a relationship exists. These are often called relationship research questions.
+**Example**: Does the amount of calcium in the diet of elementary school children affect the number of cavities they have per year?
+
+2. **Descriptive** – Seeks to describe a phenomenon and often study “how much”, “how often”, or “what is the change”.
+**Example**: How often do university-aged students use Twitter?
+
+3. **Comparative** – Aims to examine the difference between two or more groups in relation to one or more variables. The questions often begin with “What is the difference in…”.
+**Example**: What is the difference in caloric intake between high school girls and boys?
+
