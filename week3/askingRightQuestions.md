@@ -6,6 +6,8 @@
 - [Effective Problem Solving Questions](#effective-problem-solving-questions)
 - [Breaking Down The Problem Statement](#breaking-down-the-problem-statement)
 - [Research Questions](#research-questions)
+- [Creating Hypotheses](#creating-hypotheses)
+- [Creating Research Questions](#creating-research-questions)
 
 When you write a problem statement, you may encounter a lack of information and had to ask some questions.
 
@@ -151,4 +153,33 @@ There are three main types of research questions that you can ask:
 
 3. **Comparative** – Aims to examine the difference between two or more groups in relation to one or more variables. The questions often begin with “What is the difference in…”.
 **Example**: What is the difference in caloric intake between high school girls and boys?
+
+## Creating Hypotheses
+
+Once we’ve stated the research question, you will need something else called a hypothesis.
+
+A hypothesis is important as it helps you organize and focus your research question and design a study that can answer it. We all form hypotheses every day but we aren’t always aware of it.
+
+A **hypothesis** is _a tentative prediction – a thought-out guess_.
+
+- It is typically used when significant knowledge already exists on the subject, allowing the prediction to be made.
+- Data is then collected, analyzed, and used to support or negate the hypothesis, arriving at a definite conclusion at the end of the research.
+- It is always written as a statement and should be developed before any data is collected.
+
+Here are some examples of hypotheses:
+
+- Student Life’s Move program will decrease the number of sick days claimed by students.
+- Consuming vitamin C supplements will reduce the incidence of the common cold in teenagers.
+- The rhino population in Kenya would increase if the international demand for rhino horns decreased.
+
+> Reflect: Time to dig into your life’s problems again! Think of an issue or nuisance that you face in your day to day. This can be anything like missing the bus, sleeping in late etc. as long as it’s something that happens on a regular basis. Use this to form a hypothesis of why you think it occurs and how you could potentially solve it.
+
+## Creating Research Questions
+
+When conducting some research, the last thing you want are questions to your questions. So let’s talk about some best practices to ensure that your research question is clear from the get-go.
+
+Being able to create well-articulated questions can make or break your research. For clear guidelines on research question best practices, take time to read [this article](https://writingcenter.gmu.edu/writing-resources/research-based-writing/how-to-write-a-research-question) from The Writing Center. As you read, make a note of:
+
+- The characteristics of good research questions.
+- The process to follow when creating a research question.
 
