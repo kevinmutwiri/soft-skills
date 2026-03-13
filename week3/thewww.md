@@ -10,7 +10,6 @@ The web was invented by Sir Tim Berners-Lee in the late 1980s while working at C
   1. World wide web
   2. email
   3. ftp
-  4. telnet
+  4. telnet (remote login)
   
 - Where does the WWW come from?
-
