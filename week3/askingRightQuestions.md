@@ -24,7 +24,7 @@ Here are some reasons why it’s important:
 
 ## Types of Effective Questions
 
-
+[Type of effective questions](https://drive.google.com/file/d/1A-InlBBNBhdUBTkiTeepx1aIvdjicyKv/view?usp=drive_link)
 
 **Convergent** questions drive toward a specific range of answers.
 
