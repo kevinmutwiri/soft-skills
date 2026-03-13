@@ -24,3 +24,12 @@ Here are some reasons why it’s important:
 
 ## Types of Effective Questions
 
+
+
+**Convergent** questions drive toward a specific range of answers.
+
+**Divergent** questions open up unlimited avenues for responses.
+
+**Evaluative** questions encourage deep analysis to answer.
+
+**Provocative** questions evoke an emotional response that may lead to deeper reflection.
