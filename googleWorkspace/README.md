@@ -19,3 +19,4 @@ These skills are mostly transferable to other office platforms like Microsoft Of
 - [Google Calendar](./gCalendar.md)
 - [Google Drive](./gDrive.md)
 - [Google Docs](./gDocs.md)
+- [Google Sheets](./gSheets.md)
