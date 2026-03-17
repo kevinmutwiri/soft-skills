@@ -30,3 +30,5 @@ But not everyone understands or feels as connected to these problems as we do. B
 [Story 1: Sangu Delle uses a personal story as an impactful teaser for his speech.](https://www.youtube.com/watch?v=BvpmZktlBFs)
 
 [Kakenya Ntaiya: A girl who demanded school | TED](https://www.youtube.com/watch?v=m-vyBpWueu4)
+
+[Story 3: Captivating Through Shocking Statistics](https://www.youtube.com/watch?v=qSr39QPhBc4)
