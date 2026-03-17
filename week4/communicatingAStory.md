@@ -41,3 +41,20 @@ Storytelling is a fun and effective way to tackle problems because it:
 
 <img width="1150" height="385" alt="image" src="https://github.com/user-attachments/assets/a0edff1d-1341-4bd4-aef6-c375e2900a89" />
 
+### storytelling for problem-solving.
+
+The best way to start is by conducting a Problem Impact Assessment.
+
+A Problem Impact Assessment helps you understand the primary stakeholders affected by the problem and how it impacts them. Recall the problem statement you crafted last week and take a moment to review it. Then, ask yourself the following questions:
+
+1. Which groups of people are primarily impacted by this problem?
+- **Individuals**: Consider age groups, specific sectors, and geographic location.
+- **Corporations**: Think about industries, business size, and functional areas.
+- **Public Entities**: Include governments at different levels, non-profits, and NGOs.
+- Multi-national Organizations
+2. How does the problem affect each group? Consider areas such as lifestyle and quality of life, labour conditions, health and well-being (physical, mental, emotional), efficiency and productivity, safety and protection.
+3. How does this impact manifest in their everyday lives? Think about how the problem affects their daily routines and experiences.
+4. How does this impact change their quality of life or outcomes? Explore how the problem alters their overall well-being and results.
+
+By addressing these questions, you’ll gain a deeper understanding of how to illustrate the impact of the problem more powerfully through storytelling.
+
