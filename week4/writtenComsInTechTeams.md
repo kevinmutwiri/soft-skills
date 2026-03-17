@@ -6,6 +6,7 @@
 - [Product or Feature Announcement Example](#product-or-feature-announcement-example)
 - [Common Written Communication for Agile Teams: Stand-Up Updates](#common-written-communication-for-agile-teams-stand-up-updates)
 - [Common Written Communication Events for Agile Teams: Documentation](#common-written-communication-events-for-agile-teams-documentation)
+- [Common Documents Maintained by Agile Teams](#common-documents-maintained-by-agile-teams)
 
 You’re soon going to be part of technology teams in startups and big established corporates. While there may be different communication requirements for different roles, good written communication is crucial throughout a product’s development lifecycle and might mean the difference between a successful and a bad product release.
 
@@ -131,3 +132,26 @@ Agile teams often work with stakeholders, clients, or other teams within an orga
 
 Agile methodologies emphasize learning and continuous improvement. Documentation plays a crucial role in this process. By documenting lessons learned, feedback, and retrospective outcomes, teams can identify areas of improvement and implement changes effectively.
 
+## Common Documents Maintained by Agile Teams
+
+You may come across two types of commonly used documents that are commonly used in software development: PRD - Product Requirements Document and BRD - Business Requirements Document. While they may seem similar at first glance, they serve different purposes in the software development process.
+
+### Product Requirement Document
+
+A **Product Requirements Document** is a document that outlines the product requirements for a software application. It’s typically written by the product manager or business analyst and is used to communicate the product vision and requirements to the development team. The PRD outlines the key features, functionality, and user requirements for the product. It also provides details on the user interface, performance requirements, and any other non-functional requirements.
+
+**Example**: A PRD for a mobile app might include details on the user interface design, the login process, the app’s core functionality, and any performance requirements such as load time or response time. Below, is an example you can look at. You do not need to read the document; just scan through it to get a sense of what a PRD looks like.
+
+[Example Product Requirements Document (PRD)](https://www.hustlebadger.com/what-do-product-teams-do/prd-template-examples/)
+
+### Business Requirements Document
+
+A Business Requirements Document is a document that outlines the business requirements for a software application. It’s typically written by a business analyst or project manager and is used to communicate the business requirements to the development team. The BRD outlines the business objectives, user needs, and overall project scope.
+
+**Example**: A BRD for an e-commerce website might include details on the target audience, the business goals for the website, the user journey from product search to purchase, and any integration requirements with third-party systems such as payment gateways or inventory management systems.
+
+The key difference between a PRD and a BRD is the focus of the document. The PRD focuses on the product requirements and features, while the BRD focuses on the business objectives and project scope. In practice, both documents are often used together to ensure that the development team has a complete understanding of both the business requirements and the product requirements. Below, is an example you can look at. You do not need to read the document; just scan through it to get a sense of what a BRD looks like.
+
+[Sample Business Requirements Document (BRD)](https://www.smartsheet.com/content/business-requirement-document-templates)
+
+In general, a PRD is used when developing new software products or major feature releases, while a BRD is used when developing systems that support the business goals of an organization.
