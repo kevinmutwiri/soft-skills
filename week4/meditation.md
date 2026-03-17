@@ -14,3 +14,9 @@ So why should you meditate? This [short 2-minute video](https://www.youtube.com/
 meditation can help with reducing negativity, stress, and anxiety, while also boosting positivity, focus, concentration, and overall well-being. Studies have shown its effectiveness.
 
 Watch [Meditation Testimonials](https://www.youtube.com/watch?v=WHeyAKUwd-o)
+
+Apps one can use
+- calm
+- headspace
+- waking up with sam harriss
+
