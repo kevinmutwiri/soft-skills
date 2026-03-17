@@ -6,6 +6,7 @@
 - [Problem Impact Assessment](#problem-impact-assessment)
 - [Crafting Powerful Stories](#crafting-powerful-stories)
 - [Stakeholder vs Audience](#stakeholder-vs-audience)
+- [Understanding Your Audience](#understanding-your-audience)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -97,4 +98,11 @@ These are the individuals or groups directly affected by the problem. When consi
 ### Audience
 
 Your audience is the group of people you are presenting your story to. They may include stakeholders, as well as others who may not have direct involvement but have an interest in the topic. Tailor your story to resonate with the audience’s interests, values, and motivations. Consider how the story can engage, educate, or inspire them to take action or change their perspective.
+
+## Understanding Your Audience
+
+To improve on your story, it is also important to think about the audience that will be hearing it. To do so, you can ask yourself the following questions about your audience:
+
+
+<img width="929" height="576" alt="image" src="https://github.com/user-attachments/assets/c7f696d2-a608-403a-beeb-00c69d6f0ca4" />
 
