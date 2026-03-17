@@ -7,6 +7,7 @@
 - [Best Practices When Conducting Research](#best-practices-when-conducting-research)
 - [Evaluating Secondary Sources](#evaluating-secondary-sources)
 - [Citing Sources](#citing-sources)
+- [Ethical Use of AI Tools for Web Research](#ethical-use-of-ai-tools-for-web-research)
 
 To be able to define a problem more concretely and succinctly, we can use The 5Ws+H: _Who_, _What_, _Where_, _When_, _Why_ and _How_. These can be better answered by developing a problem statement and a good way to develop an effective problem statement is to use a problem-solving framework (2 frameworks: **Cool Head Warm Heart Framework** and **The McKinsey Problem Solving Framework**)
 
@@ -99,3 +100,24 @@ Here are some small things you can do below to make sure you can answer any ques
 - If you are putting together memos or slides, be sure to put a short list of the sources at the bottom. It doesn’t necessarily have to be in APA or MLA format, as long as your colleagues can see that you used legitimate resources for your data and information.
 
 Oh, and APA refers to the _American Psychological Association_ format, commonly used in Education while MLA refers to the _Modern Language Association_ style, used in Humanities.
+
+## Ethical Use of AI Tools for Web Research
+
+We now live in the AI age and as powerful as such tools are and are going to get, it’s important to understand the ethical considerations surrounding their use, especially in learning institutions.
+
+Why do you think the Ethical use of AI tools in web research is a thorny topic?
+
+There are definitely a lot of answers to this question, but the main reasons for the complexities around the ethical use of AI tools in web research are due to concerns related to _privacy_, **data bias**, _transparency_, _accountability_, _misinformation_, and _regulatory challenges_. This necessitates a collaborative effort to establish ethical standards, ensure transparency, and prioritize data protection and user rights.
+
+Some standards and considerations you can take when using AI tools in your work include:
+
+- **Full disclosure**: Always disclose when your work is AI-assisted by properly citing your sources. Passing off AI-generated work purely as your own is something we advise against.
+- **Transparency**: Your users will want to know that the data you are collecting from them will at some point pass through AI tools, which is something not every user is comfortable with!
+- **Responsibility**: Always use AI tools in a moral, ethical, and responsible manner.
+
+There are also some guiding principles to take into account when using AI tools for web research:
+
+- **Use AI tools to supplement, not replace, human judgment**. AI tools can be valuable for research, but they should not be used as a substitute for human judgment. It is important to carefully evaluate the results of AI tools and to use your critical thinking skills to make decisions.
+- **Be aware of the potential biases of AI tools**. AI tools are trained on data that is collected from the real world, and this data can be biased. It is important to be aware of the potential biases of AI tools and to take steps to mitigate them.
+- **Use AI tools in a way that respects the privacy of others**. AI tools can collect a large amount of data about users, and it is important to use this data in a way that respects the privacy of others. This means obtaining informed consent from users before collecting their data and using it only for the purposes that were disclosed to them.
+
