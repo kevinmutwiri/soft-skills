@@ -95,7 +95,17 @@ You may already be familiar with outlines from your previous English classes bac
 
 Ask yourself as you watch:
 
-- Have I understood the flow and order of a speech outline?
+- Have I understood the flow and order of a speech outline? Opening, Premise, Body, Call to action, Closing
 - Have I captured all the various components of a speech outline?
-- Have I understood the importance of the “Opening” and what it ties into?
-- What the “Close” needs to tie back to?
+- Have I understood the importance of the “Opening” and what it ties into? The premise
+- What the “Close” needs to tie back to? Opening
+
+### Presentation Storytelling Outline
+
+[Listen in](https://www.youtube.com/watch?v=ZmNpeXTj2c4) and make note of the different stages you should follow.
+
+1. Question - Start by asking something shocking (Get your audiences attention quickly)
+2. Journey - Constant progression
+3. Conflict - If everything is smooth sailing, nobody cares, Add conflict before getting to your answer
+4. Tension - Build tension by making the answer feel uncertain to make a satisfying ending
+5. Answer 
