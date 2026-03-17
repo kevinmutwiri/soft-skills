@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [The Stories Behind Our Problems 1](#the-stories-behind-our-problems-1)
+- [Problem Impact Assessment](#problem-impact-assessment)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -32,3 +33,11 @@ But not everyone understands or feels as connected to these problems as we do. B
 [Kakenya Ntaiya: A girl who demanded school | TED](https://www.youtube.com/watch?v=m-vyBpWueu4)
 
 [Story 3: Captivating Through Shocking Statistics](https://www.youtube.com/watch?v=qSr39QPhBc4)
+
+
+## Problem Impact Assessment
+
+Storytelling is a fun and effective way to tackle problems because it:
+
+<img width="1150" height="385" alt="image" src="https://github.com/user-attachments/assets/a0edff1d-1341-4bd4-aef6-c375e2900a89" />
+
