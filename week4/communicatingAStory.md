@@ -7,6 +7,7 @@
 - [Crafting Powerful Stories](#crafting-powerful-stories)
 - [Stakeholder vs Audience](#stakeholder-vs-audience)
 - [Understanding Your Audience](#understanding-your-audience)
+- [Using Ethos, Pathos & Logos](#using-ethos-pathos--logos)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -106,3 +107,14 @@ To improve on your story, it is also important to think about the audience that 
 
 <img width="929" height="576" alt="image" src="https://github.com/user-attachments/assets/c7f696d2-a608-403a-beeb-00c69d6f0ca4" />
 
+## Using Ethos, Pathos & Logos
+
+In addition to understanding your audience, you can also employ some “persuasive appeals” to make your message more effective.
+
+These are ethos, logos, and pathos. 
+
+Ask yourself as [you watch](https://www.youtube.com/watch?v=-oUfOh_CgHQ):
+
+- Have I grasped the meaning of each appeal?
+- Have I understood how logos, ethos, and pathos differ?
+- How does “audience awareness” come into play?
