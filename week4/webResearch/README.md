@@ -4,6 +4,7 @@
 
 - [Introduction to Web Research](#introduction-to-web-research)
 - [Research Methodology](#research-methodology)
+- [Best Practices When Conducting Research](#best-practices-when-conducting-research)
 
 To be able to define a problem more concretely and succinctly, we can use The 5Ws+H: _Who_, _What_, _Where_, _When_, _Why_ and _How_. These can be better answered by developing a problem statement and a good way to develop an effective problem statement is to use a problem-solving framework (2 frameworks: **Cool Head Warm Heart Framework** and **The McKinsey Problem Solving Framework**)
 
@@ -45,4 +46,14 @@ Besides the above, it is also useful to remember that there will be times that y
 - **Discussions with internal experts**: Is there anyone within your organization who might have the intel you’re seeking?
 - **Internal materials**: Are there any existing materials in the organization that might provide a quick path to the answers you’re searching for?
 - **Government mandates**: Are there any policies or regulations that dictate the right pathway to take?
+
+## Best Practices When Conducting Research
+
+the internet is a great innovation but it can be a rabbit hole if not approached with intention. So, when looking for information online, how do you maximize your time to quickly skim through articles for what you are looking for?
+
+Watch [this video](https://www.youtube.com/watch?v=iuCRDeUYXww) and:
+
+- Learn the tips they share on how to skim internet articles (the magic of CTRL+F!)
+- Practice how to take notes efficiently.
+- Make sure you write down all the useful tips as they are shared so you have a summary of them when you do your research.
 
