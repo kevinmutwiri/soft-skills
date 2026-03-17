@@ -2,7 +2,7 @@
 
 > [home](./README.md)
 
-Read [10 Ways to Google Like a Pro](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/)
+Read [10 Ways to Google Like a Pro](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/) and https://support.google.com/websearch/answer/2466433?hl=en
 
 1. Use quotes to get an "EXACT" match
 2. Search within a specific site with `site:`
