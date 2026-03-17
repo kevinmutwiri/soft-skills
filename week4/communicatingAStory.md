@@ -9,6 +9,7 @@
 - [Understanding Your Audience](#understanding-your-audience)
 - [Using Ethos, Pathos & Logos](#using-ethos-pathos--logos)
 - [Identifying Key Messages](#identifying-key-messages)
+- [A story](#a-story)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -136,4 +137,22 @@ Let’s think about it…
 - If you want your audience to know about how the system is broken, maybe you can focus on a story of inefficiency and wastage.
 
 Makes sense, right? First, decide on the end goal of your story, and then work backwards to effectively shape and position your key message.
+
+## A story
+
+Now that you have a lot of details about your chosen GCGO problem and the stakeholders it affects (thank you Problem Statement and Problem Impact Assessment) it is time to present this problem to an audience of your choice.
+
+Based on your learnings, create a 400 to 500-word story related to your chosen GCGO problem for an audience of your choice. Write your story in Google Docs.
+
+The first part of your story should tell us:
+
+- As many details as possible about your audience. Who are they?
+- What is the key message that you want to deliver to your audience?
+
+As you write your story, be sure to:
+
+- Identify your protagonist and follow the 4 steps needed to craft a powerful story.
+- Apply your understanding of your audience
+- Use persuasive appeals (Ethos, Pathos and Logos)
+- Be clear about how you want your audience to feel, think and know. #KeyMessage
 
