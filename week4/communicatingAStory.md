@@ -5,6 +5,7 @@
 - [The Stories Behind Our Problems 1](#the-stories-behind-our-problems-1)
 - [Problem Impact Assessment](#problem-impact-assessment)
 - [Crafting Powerful Stories](#crafting-powerful-stories)
+- [Stakeholder vs Audience](#stakeholder-vs-audience)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -82,3 +83,18 @@ e.g
 Want to learn more about how to start crafting your story? Continue to read [this article](https://shockwaveinnovations.com/use-storytelling-to-describe-the-problem-you-solve/) on using stories to describe a problem you are solving.
 
 The steps above give you some skeleton/structure for an initial story. Next, we will learn about some extra steps you can take to refine your story further and make it as powerful as possible.
+
+## Stakeholder vs Audience
+
+Now that you have understood your chosen GCGO problem (Problem Statement), the stakeholders it affects (Problem Impact Assessment), and the stakeholder you want to use as your protagonist in your story—it is time to understand your audience. Who are you telling your story to?
+
+The stakeholders and your audience are distinct entities. 
+
+### Stakeholders
+
+These are the individuals or groups directly affected by the problem. When considering the impact on stakeholders, think about their experiences, challenges, and needs related to the issue. Understanding their perspective will help you create a more impactful and relevant story.
+
+### Audience
+
+Your audience is the group of people you are presenting your story to. They may include stakeholders, as well as others who may not have direct involvement but have an interest in the topic. Tailor your story to resonate with the audience’s interests, values, and motivations. Consider how the story can engage, educate, or inspire them to take action or change their perspective.
+
