@@ -4,6 +4,7 @@
 
 - [Storytelling Rubric](#storytelling-rubric)
 - [The Writing Process](#the-writing-process)
+- [Story Arc](#story-arc)
 
 Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
 
@@ -67,3 +68,8 @@ In addition to the above principles, there are certain etiquette and formatting 
 
 By understanding your audience, defining your purpose, planning and organizing your ideas, writing clearly and concisely, proofreading and editing your work, and following professional writing etiquette, you can create professional writing that is clear, concise, and effective.
 
+## Story Arc
+
+To write a good story, you need to follow a structured writing process, and most stories follow a particular structure called the Story Arc. The Story Arc has several parts, and each of them is essential to create a well-structured story. The following article explains the structure of the Story Arc and provides some amusing examples.
+
+[Following a Story Arc Into Another World](https://drive.google.com/file/d/1kRqXnkYcHmvA9m8hW2sjO9Dg2CvFHF3z/view?usp=drive_link)
