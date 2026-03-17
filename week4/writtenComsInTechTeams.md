@@ -5,6 +5,7 @@
 - [Release Announcements Tips](#release-announcements-tips)
 - [Product or Feature Announcement Example](#product-or-feature-announcement-example)
 - [Common Written Communication for Agile Teams: Stand-Up Updates](#common-written-communication-for-agile-teams-stand-up-updates)
+- [Common Written Communication Events for Agile Teams: Documentation](#common-written-communication-events-for-agile-teams-documentation)
 
 You’re soon going to be part of technology teams in startups and big established corporates. While there may be different communication requirements for different roles, good written communication is crucial throughout a product’s development lifecycle and might mean the difference between a successful and a bad product release.
 
@@ -95,4 +96,38 @@ When working with teammates spread across vast geographical areas, consider thei
 All forms of communication in professional teams, such as the ones you’re soon going to be leaders of, should always be respectful and empathetic. It’s always wise to proofread a message you’ve drafted to catch any instances where your emotions and/or language might be too strong for a professional audience.
 
 In principle, it’s important to understand how different collaboration platforms cater to our different communication needs and when to use each. It’s also important to know when to make a publicly facing update in one of the channels we talked about versus reaching out privately to the person whose attention you need on something.
+
+## Common Written Communication Events for Agile Teams: Documentation
+
+### User-facing and Technical Documentation
+
+In your near future roles in technology teams, documentation writing is going to become a staple when churning out hardware or software products.
+
+You’ve probably tried to use new software or hardware products before, right? What did you do when you couldn’t figure out how to use a particular feature? You used Google Search or consulted a physical manual that came with the product in question to help guide you through your challenge. The documentation we use in this instance is known as user-facing documentation and is integral when a technology team is doing hardware and software releases.
+
+Software and hardware that’s being developed also need to be documented every step of the way. This is also known as technical documentation since its main purpose is to act as a reservoir of information for the technology teams.
+
+<img width="1920" height="2819" alt="docs" src="https://github.com/user-attachments/assets/de117a1b-8de8-4f0c-9ec8-0d90e9eac4ab" />
+
+There are several reasons why maintaining technical documentation is crucial to a team’s success. Let’s discuss.
+
+### Knowledge Preservation and Sharing
+
+Documentation does serve as a repository of information that captures the collective knowledge and expertise of the team over time. It helps with making sure everyone on the team has the most up-to-date information regarding the software project in question which is great for collaboration.
+
+### Onboarding and Team Expansion
+
+Documentation serves as an important resource when onboarding new team members to new roles providing them with a comprehensive understanding of the project, its components, and existing processes. Can you try to imagine what would happen if your first professional role was a technology team with no documentation?
+
+### Maintaining Consistency
+
+Agile teams often work on complex projects that involve multiple iterations, sprints, or releases. Documentation ensures consistency in development practices, coding standards, and architectural decisions. It serves as a reference point for the team, ensuring that everyone follows the same guidelines and practices, even as the project evolves.
+
+### Communication and Collaboration
+
+Agile teams often work with stakeholders, clients, or other teams within an organization. Documentation helps facilitate effective communication and collaboration. It provides a common reference point that can be shared with external stakeholders or non-technical team members to ensure a shared understanding of the project’s scope, progress, and technical aspects.
+
+### Continuous Improvement
+
+Agile methodologies emphasize learning and continuous improvement. Documentation plays a crucial role in this process. By documenting lessons learned, feedback, and retrospective outcomes, teams can identify areas of improvement and implement changes effectively.
 
