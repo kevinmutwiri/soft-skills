@@ -8,6 +8,7 @@
 - [Creating a Storytelling Outline](#creating-a-storytelling-outline)
 - [Outline Worksheet](#outline-worksheet)
 - [Writing Best Practices](#writing-best-practices)
+- [Technical Writing](#technical-writing)
 
 Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
 
@@ -204,3 +205,37 @@ Now take time to read [this business article](https://www.grammarly.com/business
 - Promote consistency by setting up templates or checklists that standardize formatting and style.
 - Share a style guide to align on writing preferences, terminology, and brand tone across the team.
 - Use AI writing assistants, like Grammarly, to provide contextually aware suggestions and help the team write consistently in line with your brand voice.
+
+## Technical Writing
+
+Technical writing is a form of communication that conveys complex technical or specialized information in a clear and concise manner to a specific audience. It is usually used for the purpose of informing, instructing, or facilitating decision-making.
+
+Technical writing requires both creativity and logic so that technical information can be clearly explained to a specified audience. In good technical writing, complex concepts and processes are broken down into easy-to-understand language. It is common that diagrams, charts, and other visual storytelling aids are used. Technical writers may create a variety of documents, such as user manuals, technical specifications, training materials, and research reports.
+
+### Examples of Technical Writing
+
+- User manuals for software or hardware products, which provide step-by-step instructions on how to use them.
+- Technical specifications for products or systems, which detail the technical requirements and capabilities of a product.
+- Training materials for employees or customers, which teach them how to perform specific tasks or use specific tools.
+- White papers or research reports, which communicate the results of technical research or analysis to a wider audience.
+- Safety manuals or procedures, which provide guidelines and instructions on how to safely use equipment or handle hazardous materials.
+
+Technical writing plays a critical role in bridging the gap between technical experts and their intended audiences, making complex information accessible and usable for a wide range of readers.
+
+Let’s meet and watch technical writers from Google as they share insights on the importance of technical writing and the paramount role played by technical writers in the world of tech.
+
+As you watch [this 2-minute video](https://www.youtube.com/watch?v=qnnkAWP55Ww), ask yourself:
+
+- Have I understood the role that technical writing plays in the tech world?
+- What considerations do technical writers make to call their work a success?
+
+Your spelling and grammar skills can change the way people look at you – for better or worse - Business Weekly.
+
+According to a survey, here are some interesting findings that are relevant to the workplace:
+
+- Spelling and grammar mistakes are unacceptable in most workspaces.
+- Certain industries view typos more harshly.
+- Managers are likely to be critical of typos.
+- Resume errors can cost you the job.
+- People who think they are great at spelling, grammar, and reading comprehension often are not as strong in these areas as they think (ouch!)
+
