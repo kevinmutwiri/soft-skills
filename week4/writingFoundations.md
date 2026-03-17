@@ -5,6 +5,7 @@
 - [Storytelling Rubric](#storytelling-rubric)
 - [The Writing Process](#the-writing-process)
 - [Story Arc](#story-arc)
+- [Creating a Storytelling Outline](#creating-a-storytelling-outline)
 
 Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
 
@@ -83,3 +84,18 @@ To write a good story, you need to follow a structured writing process, and most
 5. **Climax** – ​This is the highest point of tension in your story and comes from whatever choice your protagonist made during the critical choice. It doesn’t have to be a huge battle between good and evil. It can be something as simple as an important decision being made.
 6. **Falling Action** – ​This is where the consequences of the critical choice and climax play out. It should show the changed status of your characters – especially the protagonist. The changes must make sense with how the story unfolds. The outcome should be probable as nothing should happen for no reason.
 7. **Resolution** – ​This is where the story wraps up. Your characters return to their lives but now are perhaps wiser or changed.
+
+## Creating a Storytelling Outline
+
+To create a powerful story arc, it is essential to emphasize Step 3 of the writing process: organizing and planning. An effective tool that we can utilize for this purpose is called an outline.
+
+You may already be familiar with outlines from your previous English classes back in high school. Outlines serve as excellent aids for listing the main parts of your story, ensuring a key message in each section, and connecting all the elements together in a compelling narrative or structure.
+
+[This video](https://www.youtube.com/watch?v=M4BkVmA0p6Y) focuses on writing an outline for a speech. Remember, as a tech professional, you won’t always have your computer to hide behind. At times, you will need to address an audience or make a presentation. Having a clearly outlined and engaging speech will be advantageous. 
+
+Ask yourself as you watch:
+
+- Have I understood the flow and order of a speech outline?
+- Have I captured all the various components of a speech outline?
+- Have I understood the importance of the “Opening” and what it ties into?
+- What the “Close” needs to tie back to?
