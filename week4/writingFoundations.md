@@ -7,6 +7,7 @@
 - [Story Arc](#story-arc)
 - [Creating a Storytelling Outline](#creating-a-storytelling-outline)
 - [Outline Worksheet](#outline-worksheet)
+- [Writing Best Practices](#writing-best-practices)
 
 Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
 
@@ -122,3 +123,30 @@ five simple steps to outline a presentation:
 - Include a call to action.
 
 If you still don’t know where to start, don’t worry. The video also mentioned that there are approximately 26 ways to outline a presentation. [This Worksheet](https://drive.google.com/file/d/1kj3S7YYXbfhBAciXj4--qfe35FQc2O-B/view?usp=drive_link) presents another simple method you can follow. It only asks for 3 elements: an Opening, Body, and Closing. Take a look and add it to your toolkit of resources. Use it to help you create a first draft for yourself!
+
+## Writing Best Practices
+
+writing has best practices that one should follow to tell compelling stories. Let’s look at these best practices from a broader communication standpoint, and then from a writing perspective.
+
+### Communication Best Practices
+
+When you are writing to communicate information, your writing must meet these 7 key elements. They’re also called the “7 C’s of Communication”.
+
+<img width="810" height="476" alt="image" src="https://github.com/user-attachments/assets/ae202545-c78d-4bad-a541-9b203bec0715" />
+
+### Writing Best Practices
+
+With the 7C’s of communication in mind, let’s focus a little more on writing to tell a story or communicate.
+
+Now take time to read [this business article](https://www.grammarly.com/business/learn/top-principles-effective-business-writing/) that gives specific writing best practices. As you read, take note of the 8 elements of good writing.
+
+1. **Clarity**: Ensuring that your message is easily understood without confusion or ambiguity
+2. **Conciseness**: Delivering information in a brief, focused manner without unnecessary details
+3. **Correctness**: Using accurate information, proper grammar, and correct terminology in communication
+4. **Completeness**: Providing all necessary information so your recipient fully understands the message
+5. **Coherence**: Structuring your message logically so that all parts connect and support your overall point
+6. **Consideration**: Communicating with empathy by taking your audience’s needs, feelings, and perspectives into account 
+7. **Courtesy**: Maintaining politeness and respect throughout your communication, regardless of the situation 
+8. **Concreteness**: Using specific, tangible facts and examples to support your message, avoiding vagueness 
+9. **Consistency**: Ensuring that your message aligns with past communications and maintains a uniform tone and content
+
