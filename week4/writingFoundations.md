@@ -6,6 +6,7 @@
 - [The Writing Process](#the-writing-process)
 - [Story Arc](#story-arc)
 - [Creating a Storytelling Outline](#creating-a-storytelling-outline)
+- [Outline Worksheet](#outline-worksheet)
 
 Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
 
@@ -109,3 +110,15 @@ Ask yourself as you watch:
 3. Conflict - If everything is smooth sailing, nobody cares, Add conflict before getting to your answer
 4. Tension - Build tension by making the answer feel uncertain to make a satisfying ending
 5. Answer 
+
+## Outline Worksheet
+
+five simple steps to outline a presentation:
+
+- Tease your idea through a creative story or a similar approach.
+- Tell them what you will talk about (preview).
+- Walk through each topic.
+- Review what you talked about.
+- Include a call to action.
+
+If you still don’t know where to start, don’t worry. The video also mentioned that there are approximately 26 ways to outline a presentation. [This Worksheet](https://drive.google.com/file/d/1kj3S7YYXbfhBAciXj4--qfe35FQc2O-B/view?usp=drive_link) presents another simple method you can follow. It only asks for 3 elements: an Opening, Body, and Closing. Take a look and add it to your toolkit of resources. Use it to help you create a first draft for yourself!
