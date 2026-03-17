@@ -6,6 +6,7 @@
 - [Research Methodology](#research-methodology)
 - [Best Practices When Conducting Research](#best-practices-when-conducting-research)
 - [Evaluating Secondary Sources](#evaluating-secondary-sources)
+- [Citing Sources](#citing-sources)
 
 To be able to define a problem more concretely and succinctly, we can use The 5Ws+H: _Who_, _What_, _Where_, _When_, _Why_ and _How_. These can be better answered by developing a problem statement and a good way to develop an effective problem statement is to use a problem-solving framework (2 frameworks: **Cool Head Warm Heart Framework** and **The McKinsey Problem Solving Framework**)
 
@@ -75,3 +76,18 @@ In addition to the CRAP considerations, you can also ask yourself the following 
 
 Keep in mind that everything is written from a particular social, cultural, and political perspective. Realize that some publications tend to be ‘slanted’ towards a certain viewpoint.
 
+## Citing Sources
+
+While “citing sources” in the professional world is nowhere near as stringent as in the academic space, it is still important to be able to refer to your sources, especially when presenting your information to your team, manager, or executive leaders of your organization. Here are some examples of when knowing your sources will be crucial:
+
+- Your manager seems to not believe in the figures you’re showing her and wants to see the raw data.
+- The C-suite wants to understand more about a specific competitor and asks you to go back and read further.
+- Your teammate wants to use the same resources you did for a follow-up presentation.
+
+Here are some small things you can do below to make sure you can answer any questions or concerns about your research via your sources:
+
+- Keep a list of all of the links that you have used in your research and which pieces of information you derived from there.
+- Save important reports on your desktop or Google Drive so you can find them easily and they are easily searchable later on.
+- If you are putting together memos or slides, be sure to put a short list of the sources at the bottom. It doesn’t necessarily have to be in APA or MLA format, as long as your colleagues can see that you used legitimate resources for your data and information.
+
+Oh, and APA refers to the _American Psychological Association_ format, commonly used in Education while MLA refers to the _Modern Language Association_ style, used in Humanities.
