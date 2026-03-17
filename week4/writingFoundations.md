@@ -150,3 +150,46 @@ Now take time to read [this business article](https://www.grammarly.com/business
 8. **Concreteness**: Using specific, tangible facts and examples to support your message, avoiding vagueness 
 9. **Consistency**: Ensuring that your message aligns with past communications and maintains a uniform tone and content
 
+#### Clarity: Are your team’s messages clear and easy to understand?
+
+- Encourage team members to start with a main point in each paragraph and ensure every sentence supports it.
+- Proofread content, looking for areas to avoid business jargon and spell out acronyms.
+- Advise them to use caution with idioms, slang, and local references that could confuse a broader audience.
+- Suggest re-reading messages from the audience’s or recipient’s perspective to spot potential ambiguities.
+
+#### Conciseness: Are your team’s messages crisp and focused?
+
+- Guide the team to be direct, eliminating filler phrases and words like “in order to” (use “to” instead) and “very.”
+- Encourage combining short sentences and cutting wordiness and unnecessary details without losing meaning.
+- Recommend using readability tools or scores to assess and improve brevity and clarity.
+
+#### Correctness: Is the information accurate, and have team members proofread for mistakes?
+
+- Set the standard for fact-checking all figures, names, and technical terms to ensure accuracy.
+- Emphasize the importance of setting aside time to proofread before sending.
+- Leverage AI tools like Grammarly to help team members catch grammatical errors and maintain brand-specific terminology.
+
+Completeness: Do messages include all the information the reader needs?
+Remind team members to provide all relevant information up front, especially for complex topics.
+Encourage including background context when communicating with audiences that may be less familiar with the subject.
+Suggest adding next steps, a strong call to action, or additional resources to avoid follow-up questions.
+Coherence: Are messages structured in a logical, easy-to-follow way?
+Instruct the team to use logical sentence structure, presenting key points in sequence.
+Recommend using subheadings or bullet points to make information easier to scan.
+Reinforce the use of transition phrases to ensure a smooth flow between sections.
+Consideration: Is the message crafted with the audience in mind?
+Encourage your team to tailor their messages to the audience’s level of expertise and needs.
+Coach team members to acknowledge the reader’s challenges or goals to build rapport.
+Remind them to use language that aligns with the audience’s values, as well as inclusive and respectful terminology in line with company guidelines.
+Courtesy: Is the tone polite, respectful, and business appropriate?
+Set a positive example by avoiding inside jokes, sarcasm, or aggressive language.
+Recognize the reader’s time and contributions by maintaining a respectful tone.
+Encourage team members to rephrase criticism constructively and to wait before responding if feeling emotional.
+Concreteness: Do team members provide specific examples and data?
+Set the standard to use quantifiable data, numbers, or concrete examples instead of vague terms.
+Suggest visuals or charts for more complex points where possible.
+Advise avoiding nonspecific terms like “many” or “a lot” by encouraging precision in their communications.
+Consistency: Is messaging and tone aligned across communications?
+Promote consistency by setting up templates or checklists that standardize formatting and style.
+Share a style guide to align on writing preferences, terminology, and brand tone across the team.
+Use AI writing assistants, like Grammarly, to provide contextually aware suggestions and help the team write consistently in line with your brand voice.
