@@ -8,6 +8,8 @@
 - [Evaluating Secondary Sources](#evaluating-secondary-sources)
 - [Citing Sources](#citing-sources)
 - [Ethical Use of AI Tools for Web Research](#ethical-use-of-ai-tools-for-web-research)
+- [AI Use for Research](#ai-use-for-research)
+- [Research: Additional Resources](#research-additional-resources)
 
 To be able to define a problem more concretely and succinctly, we can use The 5Ws+H: _Who_, _What_, _Where_, _When_, _Why_ and _How_. These can be better answered by developing a problem statement and a good way to develop an effective problem statement is to use a problem-solving framework (2 frameworks: **Cool Head Warm Heart Framework** and **The McKinsey Problem Solving Framework**)
 
@@ -120,4 +122,42 @@ There are also some guiding principles to take into account when using AI tools 
 - **Use AI tools to supplement, not replace, human judgment**. AI tools can be valuable for research, but they should not be used as a substitute for human judgment. It is important to carefully evaluate the results of AI tools and to use your critical thinking skills to make decisions.
 - **Be aware of the potential biases of AI tools**. AI tools are trained on data that is collected from the real world, and this data can be biased. It is important to be aware of the potential biases of AI tools and to take steps to mitigate them.
 - **Use AI tools in a way that respects the privacy of others**. AI tools can collect a large amount of data about users, and it is important to use this data in a way that respects the privacy of others. This means obtaining informed consent from users before collecting their data and using it only for the purposes that were disclosed to them.
+
+
+## AI Use for Research
+
+As a principle, you should know that AI assistants like ChatGPT, Gemini e.t.c are very powerful, but they cannot do the research for you. They are “assistants” that can help you through the process, but you have to take the lead and make the decisions regarding what is and what is not important.
+
+Looking for the right information
+
+Let’s say you’re starting your research and want to know which articles and research papers to read. AI has you covered! Just know that some of these language models aren’t connected to the internet and might not be able to provide up-to-date information.
+
+When you’ve found the perfect article or paper that you want to read and analyze as part of your research, you can use AI tools to scan through articles and papers, and provide summaries or pull specific information that you need.
+
+We encourage you to explore. Remember, to use AI ethically and responsibly. There are no shortcuts to life, and AI isn’t here to do your work for you. It’s just here to assist.
+
+## Research: Additional Resources
+
+[Research Overview](https://owl.purdue.edu/owl/research_and_citation/conducting_research/research_overview/index.html)
+We live in an age overflowing with sources of information. With so many information sources at our fingertips, knowing where to start, sorting through it all, and finding what we want can be overwhelming! This handout provides answers to the following research-related questions: Where do I begin? Where should I look for information? What types of sources are available?
+
+
+[Conducting Primary Research](https://owl.purdue.edu/owl/research_and_citation/conducting_research/conducting_primary_research/index.html)
+Primary research involves collecting data about a given subject directly from the real world. This section includes information on what primary research is, how to get started, the ethics involved with primary research, and the different types of research you can do. It includes details about interviews, surveys, observations, and analysis.
+
+
+[Evaluating Sources of Information](https://owl.purdue.edu/owl/research_and_citation/conducting_research/evaluating_sources_of_information/index.html)
+Evaluating sources of information is an important step in any research activity. This section provides information on evaluating bibliographic citations, aspects of evaluation, reading evaluation, print vs. Internet sources, and evaluating Internet sources.
+
+
+[Searching Online](https://owl.purdue.edu/owl/research_and_citation/conducting_research/searching_online/index.html)
+This section covers finding information online. It includes information about search engines, Boolean operators, Web directories, and the invisible Web. It also includes an extensive, annotated links section.
+
+
+[Internet References](https://owl.purdue.edu/owl/research_and_citation/conducting_research/internet_references/index.html)
+This page contains links and short descriptions of writing resources including dictionaries, style manuals, grammar handbooks, and editing resources. It also contains a list of online reference sites, indexes for writers, online libraries, books and e-texts, as well as links to newspapers, news services, journals, and online magazines.
+
+
+[Archival Research](https://owl.purdue.edu/owl/research_and_citation/conducting_research/archival_research/index.html)
+This resource discusses conducting research in a variety of archives. It also discusses a number of considerations and best practices for conducting archival research.
 
