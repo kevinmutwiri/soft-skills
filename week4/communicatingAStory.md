@@ -8,6 +8,7 @@
 - [Stakeholder vs Audience](#stakeholder-vs-audience)
 - [Understanding Your Audience](#understanding-your-audience)
 - [Using Ethos, Pathos & Logos](#using-ethos-pathos--logos)
+- [Identifying Key Messages](#identifying-key-messages)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -118,3 +119,21 @@ Ask yourself as [you watch](https://www.youtube.com/watch?v=-oUfOh_CgHQ):
 - Have I grasped the meaning of each appeal?
 - Have I understood how logos, ethos, and pathos differ?
 - How does “audience awareness” come into play?
+
+## Identifying Key Messages
+
+Finally, you can ensure maximum effectiveness for your story if you are clear on the key messages you want to make sure your audience hears/understands/realizes.
+
+Part of this is thinking through how you want your audience to FEEL, what you want them to THINK, and what you need them to KNOW after hearing your story. Once you understand these three things, you can work backwards to determine how you want to position the key messages of your story.
+ 
+
+Let’s think about it…
+
+- If you want your audience to feel infuriated/angry after your presentation, maybe you focus on a story of injustice.
+
+- If you want your audience to think that they have a role they can play, maybe you can share a story of how one person was able to make a difference.
+
+- If you want your audience to know about how the system is broken, maybe you can focus on a story of inefficiency and wastage.
+
+Makes sense, right? First, decide on the end goal of your story, and then work backwards to effectively shape and position your key message.
+
