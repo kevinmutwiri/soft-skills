@@ -73,3 +73,13 @@ By understanding your audience, defining your purpose, planning and organizing y
 To write a good story, you need to follow a structured writing process, and most stories follow a particular structure called the Story Arc. The Story Arc has several parts, and each of them is essential to create a well-structured story. The following article explains the structure of the Story Arc and provides some amusing examples.
 
 [Following a Story Arc Into Another World](https://drive.google.com/file/d/1kRqXnkYcHmvA9m8hW2sjO9Dg2CvFHF3z/view?usp=drive_link)
+
+<img width="607" height="353" alt="image" src="https://github.com/user-attachments/assets/a67d9c19-0727-4fef-9d01-3f74d5a9172b" />
+
+1. **Beginning/Establish Routine** ​– This is where the reader is introduced to the characters, and we get a taste of what happens in their everyday life.
+2. **Trigger/Inciting Incident** – ​Something beyond the protagonist’s control triggers the spark of the story causing the protagonist to act.
+3. **Rising Action/Conflict** – ​The trigger results in a quest which often has obstacles, complications, conflict and trouble for the protagonist.
+4. **Crisis/Critical Choice** – ​Along the way, there should be incidents of crisis followed by brief breaks. Often the protagonist must make a crucial decision. This is where we find out what type of person the character truly is. At the critical choice, the protagonist must decide to take a particular path.
+5. **Climax** – ​This is the highest point of tension in your story and comes from whatever choice your protagonist made during the critical choice. It doesn’t have to be a huge battle between good and evil. It can be something as simple as an important decision being made.
+6. **Falling Action** – ​This is where the consequences of the critical choice and climax play out. It should show the changed status of your characters – especially the protagonist. The changes must make sense with how the story unfolds. The outcome should be probable as nothing should happen for no reason.
+7. **Resolution** – ​This is where the story wraps up. Your characters return to their lives but now are perhaps wiser or changed.
