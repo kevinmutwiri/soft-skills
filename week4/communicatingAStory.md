@@ -4,6 +4,7 @@
 
 - [The Stories Behind Our Problems 1](#the-stories-behind-our-problems-1)
 - [Problem Impact Assessment](#problem-impact-assessment)
+- [Crafting Powerful Stories](#crafting-powerful-stories)
 
 how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
 
@@ -58,3 +59,26 @@ A Problem Impact Assessment helps you understand the primary stakeholders affect
 
 By addressing these questions, you’ll gain a deeper understanding of how to illustrate the impact of the problem more powerfully through storytelling.
 
+e.g
+
+1 - Start by revisiting your problem statement from last week.
+
+2 - Identify the primary groups of stakeholders impacted by the problem. Consider individuals, corporations, public entities, and multinational organizations.
+
+3 - Address the Problem Impact Assessment questions for each stakeholder group. Be concrete and vivid in your descriptions to create a powerful reflection.
+
+4 - Focus on specific details such as age groups, sectors, geographic locations, industries, business sizes, functional areas, government levels, non-profits, NGOs, and multinational organizations.
+
+5 - Dive into the effects of the problem on each group, exploring aspects like lifestyle and quality of life, labour conditions, health and well-being (physical, mental, emotional), efficiency and productivity, safety, and protection.
+
+6 - Paint a vivid picture of how the impact manifests in their everyday lives, capturing the challenges and obstacles they face.
+
+7 - Highlight the transformative effects on their quality of life and outcomes, illustrating the significance of the problem for each stakeholder group.
+
+## Crafting Powerful Stories
+
+<img width="743" height="424" alt="Screenshot from 2026-03-17 18-16-07" src="https://github.com/user-attachments/assets/62528a3f-14dd-4fc5-9cc8-0d0fe9c0a0ba" />
+
+Want to learn more about how to start crafting your story? Continue to read [this article](https://shockwaveinnovations.com/use-storytelling-to-describe-the-problem-you-solve/) on using stories to describe a problem you are solving.
+
+The steps above give you some skeleton/structure for an initial story. Next, we will learn about some extra steps you can take to refine your story further and make it as powerful as possible.
