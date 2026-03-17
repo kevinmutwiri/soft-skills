@@ -23,3 +23,7 @@ When we listen to stories as audience members, we unknowingly respond and make j
 | **VOICE:** | The speaker can create a **consistent and engaging voice** which is appropriate to the medium they are using. The text is **free of clichés, generalizations, or technical jargon.** The story sounds **fresh and different** (offers a different perspective). |
 | **NARRATIVES:** | The speaker understands the qualities of **effective storytelling** and uses them to create powerful narratives that **engage an audience and inspire action.** The story provides **vivid scenes** that centre around a **relatable protagonist.** It also contains all the **elements of effective narrative storytelling** (characters, dialogue, engages the audience, and avoids the inverted pyramid). The story is written mostly in **present tense**, has a **balance of detail and summary**, and is free of the "Most Common Storytelling Mistakes." |
 | **STRUCTURING:** | The speaker can structure a story effectively to create **maximum impact on an audience.** The story has a **clear purpose or problem identified in the beginning** and is rooted in **personal experiences.** It has a clear and engaging **call to action.** |
+
+Finding the right combination of the elements above in your storytelling can convert you into a powerful speaker!
+
+- [The danger of a single story | Chimamanda Adichie 2020](https://www.youtube.com/watch?v=LmjKUDo7gSQ)
