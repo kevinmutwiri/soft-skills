@@ -20,3 +20,4 @@ Apps one can use
 - headspace
 - waking up with sam harriss
 
+[shot medidation for college students](https://www.youtube.com/results?search_query=shot+medidation+for+college+students)
