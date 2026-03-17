@@ -28,3 +28,5 @@ But not everyone understands or feels as connected to these problems as we do. B
 - **Concreteness**: Stories can also show how large, complex problems have a real effect on daily life as opposed to relying on statistics.
 
 [Story 1: Sangu Delle uses a personal story as an impactful teaser for his speech.](https://www.youtube.com/watch?v=BvpmZktlBFs)
+
+[Kakenya Ntaiya: A girl who demanded school | TED](https://www.youtube.com/watch?v=m-vyBpWueu4)
