@@ -12,6 +12,14 @@ To be able to define a problem more concretely and succinctly, we can use The 5W
 
 problem-solving is all about asking the right questions.
 
+There are three main types of research questions that you can ask:
+
+1. **Causal** – Compares two or more phenomena and determines whether a relationship exists. These are often called relationship research questions. Example: Does the amount of calcium in the diet of elementary school children affect the number of cavities they have per year?
+
+2. **Descriptive** – Seeks to describe a phenomenon and often study “how much”, “how often”, or “what is the change”. Example: _How often do university-aged students use Twitter?_
+
+3. **Comparative** – Aims to examine the difference between two or more groups in relation to one or more variables. The questions often begin with “What is the difference in…”. Example: What is the difference in caloric intake between high school girls and boys?
+
 to check whether your questions are effective, you can ask yourself more questions like:
 
 - Does my question capture a complex issue or problem related to my chosen GCGO?
