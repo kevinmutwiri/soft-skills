@@ -4,6 +4,7 @@
 
 - [Project Scope](#project-scope)
 - [Scope Creep](#scope-creep)
+- [Tools and Techniques for Project Management](#tools-and-techniques-for-project-management)
 
 Any activity that requires several steps can be called a project.
 
@@ -48,3 +49,16 @@ Then, before we move on, watch [this video](https://www.youtube.com/watch?v=4Fwj
 
 - What is scope creep, and
 - How to manage it.
+
+
+## Tools and Techniques for Project Management
+
+As a young tech professional, having the ability to create a work plan will greatly benefit you in your participation in project teams. While there are various apps available to assist with this task, possessing the fundamental knowledge of “how” to create a work plan will prove invaluable, especially when you need to develop technical work plan solutions in the future.
+
+By gaining this knowledge and honing your work planning skills, you’ll be well-prepared to navigate project teams and contribute to the successful delivery of projects throughout your career. So, take the opportunity to absorb the insights from [this video](https://www.youtube.com/watch?v=RRNOXVKN9J0). Our [work plan](https://docs.google.com/spreadsheets/d/1UfbJYdaNz1jvCtfLctoCCjrzKwJW3GXpqAp1Z5Y6eLY/edit?usp=drive_link) might be slightly more complex than what the video presents, but the video will still provide you with a solid foundation for creating effective work plans (Gantt Charts).
+
+As you watch, make sure you can answer:
+
+- How do you put together a simple Gantt Chart?
+- What is the recommended way to add your tasks?
+- What is the importance of color coding?
