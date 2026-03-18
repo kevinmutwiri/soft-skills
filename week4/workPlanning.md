@@ -29,3 +29,8 @@ Take a moment to watch [this video](https://www.youtube.com/watch?v=f2IdKUGl0zE)
 - What are the elements that need to be included in a project scope statement?
 - What does each element entail?
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa1a0ea4-74da-44ad-a894-0e6e5b3f5a8d" />
+
+To recap, an effective project scope statement will include the following elements:
+
+<img width="818" height="550" alt="image" src="https://github.com/user-attachments/assets/50b02b92-4787-4aea-ab84-d8e054d11001" />
