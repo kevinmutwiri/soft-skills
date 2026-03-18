@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [Project Scope](#project-scope)
+- [Scope Creep](#scope-creep)
 
 Any activity that requires several steps can be called a project.
 
@@ -34,3 +35,16 @@ Take a moment to watch [this video](https://www.youtube.com/watch?v=f2IdKUGl0zE)
 To recap, an effective project scope statement will include the following elements:
 
 <img width="818" height="550" alt="image" src="https://github.com/user-attachments/assets/50b02b92-4787-4aea-ab84-d8e054d11001" />
+
+## Scope Creep
+
+Have you ever come up with a great plan, but when you were executing it, you kept adding (or removing) aspects of it and then ended up with a different plan altogether? It is almost like planning to go to the store to buy food for tomorrow, then on your way, you remember that you need to pass by a friend’s. You decide to change your original plan and pass by your friend’s but never end up making it to the store.
+
+In project management, we call this Scope Creep. Every project should start with a set of agreed-upon project requirements, but scope creep occurs when those needs are increased without permission or other safeguards. Scope creep – also known as feature creep, focus creep, creeping functionality, and kitchen-sink syndrome – can sneak up and destroy a project.
+
+In any project, there tends to be a gap between what was planned and what actually happened. The addition of new objectives, deliverables, or tasks during the life of a project is known as scope creep because it essentially grows your scope steadily until you have more on your plate than you can handle.
+
+Then, before we move on, watch [this video](https://www.youtube.com/watch?v=4FwjP2WT4vI) from Mike Clayton. As you watch, make note of two important points:
+
+- What is scope creep, and
+- How to manage it.
