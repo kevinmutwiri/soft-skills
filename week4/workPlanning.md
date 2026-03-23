@@ -62,3 +62,5 @@ As you watch, make sure you can answer:
 - How do you put together a simple Gantt Chart?
 - What is the recommended way to add your tasks?
 - What is the importance of color coding?
+
+Not all Gantt Charts look the same, but they all have similar features. This next read will highlight each feature and its importance. Take a look at [The 9 Essential Things In Your Gantt Chart](https://drive.google.com/file/d/1qwFWRg1rmmDrDYrGYJpIBK1zFN_mppCC/view?usp=drive_link)
