@@ -5,6 +5,7 @@
 - [Project Scope](#project-scope)
 - [Scope Creep](#scope-creep)
 - [Tools and Techniques for Project Management](#tools-and-techniques-for-project-management)
+- [Simple Project Management Tools](#simple-project-management-tools)
 
 Any activity that requires several steps can be called a project.
 
@@ -64,3 +65,16 @@ As you watch, make sure you can answer:
 - What is the importance of color coding?
 
 Not all Gantt Charts look the same, but they all have similar features. This next read will highlight each feature and its importance. Take a look at [The 9 Essential Things In Your Gantt Chart](https://drive.google.com/file/d/1qwFWRg1rmmDrDYrGYJpIBK1zFN_mppCC/view?usp=drive_link)
+
+
+## Simple Project Management Tools
+
+The world of project management is evolving as fast as the world of tech. You won’t always need to create your own work plan as there are so many apps and tools that can help you do that online.
+
+It will be up to you to decide on the best platform to use to manage and track your progress in attaining your (or your team’s) goals. There are tools and software that are specific to the type of project that needs to be accomplished. Here is our favourite list of AI work plan apps:
+
+- ClickUp for customized task views
+- Jira for developers
+- Trello for visually managing projects
+- Asana for teams
+
