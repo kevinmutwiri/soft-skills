@@ -8,3 +8,4 @@
 - [Agile Technology Teams](./agileTechTeams.md)
 - [Agile Team Roles](./agileTeamRoles.md)
 - [Team Roles](./teamRoles.md)
+- [Guesstimation](./guesstimation.md)
