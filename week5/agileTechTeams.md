@@ -5,6 +5,7 @@
 - [Agile Tech Teams Roles](#agile-tech-teams-roles)
 - [Why Does Agile Matter?](#why-does-agile-matter)
 - [Agile Frameworks](#agile-frameworks)
+- [Benefits of Agile Teams](#benefits-of-agile-teams)
 
 Read [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
@@ -56,3 +57,29 @@ In other words, organizations often choose the framework that best suits their n
 The diagram below illustrates the differences in structure between Kanban and SCRUM
 
 <img width="1920" height="1080" alt="ef76e3804a3f272a228254a7d126070c28eb2b25" src="https://github.com/user-attachments/assets/5620ce09-2926-444d-afe9-918efd02edf6" />
+
+
+## Benefits of Agile Teams
+
+The agile methodology offers several benefits to development teams and the organizations they work for. These include the following.
+
+### Faster time-to-market
+
+Agile teams can deliver working software in short iterations, allowing organizations to respond quickly to changing market conditions, customer needs and feedback. One way to do it is to build a Minimum Viable Product (MVP). An MVP is a simple, first version of a product or app that has just enough features to solve a specific problem and gather feedback from users. It’s like a basic model of a car that lets you drive and get feedback before adding more fancy features such as air conditioning, heated seats etc.
+
+### Increased collaboration
+
+Agile teams work closely together, breaking down silos and fostering better communication and collaboration between team members. This means that these teams can often work more independently to find solutions and produce results faster.
+
+### Higher quality
+
+Agile methodology emphasizes testing and feedback, allowing teams to catch and fix defects earlier in the development process. This iterative method means that the output is more stable and functional.
+
+### Flexibility
+
+Agile methodology is adaptable to changes in project requirements, allowing teams to pivot and adjust their approach as needed. Since the team consists of a diverse set of talents, it often doesn’t have to wait for another department or team to get involved and can resolve issues on its own.
+
+Overall, the agile set of values is a key skill for anyone entering the technology industry, as it’s become an essential approach to software development in today’s fast-paced and ever-changing business environment.
+ 
+Optional: If you want to geek out and learn more about Agile, you can visit the [official Agile Manifesto page](https://agilemanifesto.org/)
+
