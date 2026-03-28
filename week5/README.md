@@ -4,3 +4,4 @@
 
 - [The daily 3](./daily3.md)
 - [Problem Definition Revisited](./probDef.md)
+- [Teamwork 101](./teamwork101.md)
