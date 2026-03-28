@@ -13,3 +13,5 @@
 **Building Trust** - Trust is the foundation of successful teams. Through teamwork, you’ll learn how to trust your teammates and build strong professional relationships. Trusting others allows for effective collaboration and creates a supportive and positive work environment.
 
 **Amplified Creativity** - Two heads are better than one, right? Working in a team boosts creativity by combining everyone’s unique ideas and perspectives. By collaborating, you’ll discover fresh approaches, spark new innovations, and bring out the best in each other.
+
+Read [The importance of teamwork (as proven by science)](https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork)
