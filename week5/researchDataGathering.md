@@ -5,6 +5,8 @@
 - [Data Analysis Framework](#data-analysis-framework)
 - [Step 1: Understanding The Problem](#step-1-understanding-the-problem)
 - [Step 2: Identifying Relevant Data for The Problem](#step-2-identifying-relevant-data-for-the-problem)
+- [Step 3: Obtaining The Data](#step-3-obtaining-the-data)
+- [Step 4: Cleaning The Data](#step-4-cleaning-the-data)
 
 ## Data Analysis Framework
 
@@ -157,3 +159,39 @@ Plot out the growth or declines in your data to see if there are any anomalies o
 ### Use your reasoning
 
 For example, for population data, if the data is showing you that there are more people older than 60 vs. those younger than 20, then there might be something wrong as most countries have a larger youth population than the elderly population.
+
+
+## Step 4: Cleaning The Data
+
+Now that you have obtained your data, you need to prepare it for analysis so that you can draw reliable conclusions from your dataset. As mentioned earlier, data can be really messy, so it’s your job to clean it up!
+
+Data cleaning is one of the most important ways of preparing data before analysis. Most of the time analysts don’t have control over the format and type of data that they are given to use, especially if they are importing from external data sources, such as web pages or a data file that is being updated by multiple users.
+
+Before one can analyze the data, one often needs to clean it up. In doing so, the analyst prepares the data for use. Spreadsheets have many features to help you get data in the precise format that you want.
+
+**Important**:
+In addition to cleaning the data, it is very important to note how data is presented in spreadsheets. Let’s walk through some basic prompts that will help during data cleaning and presentation.
+
+### Data Cleaning Checklist
+
+The following is a checklist that you should mentally go through when cleaning your data:
+
+- Each column must have similar data (e.g., all information on “last names”, “Color” or “Date of Birth” must be in their respective columns). This requires an understanding of what information is meant to be in each column.
+- Formatting should be consistent throughout the sheet (font, size, alignment, currency, date, time, etc).
+- Unless otherwise required, do not shade in the cells.
+- Freeze the top row or the row that contains the column headings.
+- All columns and rows must be visible.
+- There should be no completely blank columns and/or rows within the dataset.
+- All columns and rows should be uniformly aligned (left, right, or centre).
+
+#### General Checklist
+
+- Each question that you solve should be on a separate sheet/tab - each tab should be named appropriately. Example: “Question 1” OR “Yearly Revenue”.
+- Make a glossary with the definitions of key terms.
+- Make a copy of the “raw” dataset and name it as such.
+- Always Make a Backup
+
+**Important**:
+Have you ever altered a document and after some time wished you had the original copy? This can happen to anyone. That is why you need to always back up your data. Working with data can be very tricky so it’s important to always have a copy of the original dataset to avoid unpleasant situations.
+Most times the data you are working with will come in a form that requires you to download and convert or save in the right format to be worked with. As soon as you download the original dataset, create a backup copy in a separate sheet. This way you can always refer to the original dataset in case you make a mistake.
+
