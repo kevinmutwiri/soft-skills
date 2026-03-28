@@ -4,6 +4,7 @@
 
 - [Agile Team Structure: UX Researcher](#agile-team-structure-ux-researcher)
 - [Agile Team Structure: Product Manager](#agile-team-structure-product-manager)
+- [Agile Team Structure: Product Designer or UI/UX Designer](#agile-team-structure-product-designer-or-uiux-designer)
 
 Agile teams are typically small. They consist of about 5-9 team members with various roles. This section contains the breakdown of what an Agile Team typically looks like. Make sure you understand what each of the roles does as you’re most likely going to be working closely with people with such titles and responsibilities, or are going to have such a title yourself in the near future.
 
@@ -38,3 +39,18 @@ You should know, however, that not all companies have the product role specified
 3. Iterating until the winning product has been gotten right.
 4. The purpose of The North Star metric.
 
+## Agile Team Structure: Product Designer or UI/UX Designer
+
+UX, as you already know, refers to User Experience and encompasses the overall experience a person has while interacting with a product, service, or system. It involves understanding users’ emotions, behavior, and attitudes during their interactions. For example, when you use Facebook, the way you think of the platform, what you want to do there, and how you want the platform to behave are all questions related to user experience.
+
+UI refers to User Interface and is the specific point of interaction between the user and the system. It includes all the visual elements, such as screens, pages, buttons, icons, and any other visual elements a user interacts with. To continue our Facebook example, UI would essentially be the screen, buttons, and how the videos, pictures, and colors appear that you see when you turn on the app.
+
+Product Designers often work hand in hand with UX researchers and Product Managers to conduct user research, ensuring that they gain a deep understanding of the user’s needs, pain points, and goals. They’re responsible for turning the insights learned from user research into wireframes and prototypes, which are visualizations of the design solutions that attempt to meet the user’s needs. They also consider holistic product metrics such as user retention, growth, user acquisitions, and customer drop-offs.
+
+Take a moment to watch [this video](https://www.youtube.com/watch?v=S6maF4tICPs) which gives an in-depth comparison of the roles. As you watch, think about these questions:
+
+- Do you understand the difference between UI, UX, and Product Design?
+- Does product design appeal to you?
+- Whom do you think is best suited for these roles among your squad?
+
+So what does a “day in the life” of a Product Designer look like? Take a look at [this video](https://www.youtube.com/watch?v=V50sIFbp-YA) by a Product Designer with her hands in many jars, namely, Research, Design, and Requirements syncs with the team.
