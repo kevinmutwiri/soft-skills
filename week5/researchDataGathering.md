@@ -4,6 +4,7 @@
 
 - [Data Analysis Framework](#data-analysis-framework)
 - [Step 1: Understanding The Problem](#step-1-understanding-the-problem)
+- [Step 2: Identifying Relevant Data for The Problem](#step-2-identifying-relevant-data-for-the-problem)
 
 ## Data Analysis Framework
 
@@ -80,3 +81,79 @@ The correct answer is C – we are trying to understand why ice cream sales at L
 Getting to the base questions and asking “Why” is the root of truly understanding the problems we face every day. This is a concept known as “First Principles”. “First Principles” is a fundamental principle of reasoning that involves breaking down complex problems or ideas into their most basic and fundamental elements. It is a way of thinking that involves starting from the very beginning, from the most basic truths, and building up from there to arrive at a conclusion.
 
 Elon Musk has been known to use First Principles in his work at Tesla and SpaceX. Watch [this video](https://www.youtube.com/watch?v=ZqhN2YWTw0M) to understand how he used this to come up with amazing space innovations!
+
+## Step 2: Identifying Relevant Data for The Problem
+
+After understanding the problem, the next step is to identify what data might be most useful or relevant in trying to direct your solution creation. For this, the key question to ask yourself is: What data do I need to either prove or disprove the causes of this problem? In other words, we have to start with a few key hypotheses and determine the data you need to either validate them or throw them out.
+
+For example, going back to Lethabo’s ice cream store – the key question we are trying to answer is WHY ice cream sales have been declining. Let’s think about a few key hypotheses for why this might be happening:
+
+- Customers do not like the new flavours that the ice cream store is selling, so they are not buying as much.
+- Customers prefer to go to the new nearby cafe instead of to Lethabo’s store.
+- Customers are generally spending less on snacks or treats like ice cream.
+
+**Important**:
+Now, what data would you need to be able to either PROVE or DISPROVE the above hypotheses?
+
+<img width="772" height="363" alt="image" src="https://github.com/user-attachments/assets/c3258619-5273-48fd-96aa-f2aa3987fc7b" />
+
+
+## Step 3: Obtaining The Data
+
+After understanding the problem and identifying the relevant data you want to collect, it is now time to actually go out there and obtain the data. This may happen in any of the following ways:
+
+You may be able to request the data from the company or client you are working with.
+You may have to conduct primary research to collect the data yourself (i.e. through a survey).
+You may have to conduct secondary research to find publicly available databases (i.e. online).
+Below are a few important reminders if you are to use any of the three data-gathering methods above.
+
+Important: If you are requesting data
+Ensure that your data request is clear and succinct. Include at least the following pieces of information:
+- Data name (e.g. “Order quantity”)
+- Description (e.g. “# of orders placed by customers for this flavour in this month”)
+- Unit of measurement (e.g. “#” or “KES”)
+- Timeframe (e.g. “Q1 2022” or “FY 2021”)
+
+If possible, it is even better to send a template in Excel of how you would like to receive the data so the company/client can fill it in directly. An example is below:
+
+<img width="699" height="540" alt="image" src="https://github.com/user-attachments/assets/d5d0311a-886d-4486-98a2-6aedd2acb116" />
+
+If you are collecting the data yourself…
+Be careful with how you phrase the questions on your survey or in your interview guide to make them as easily understandable and bias-free as possible. Ensure as well that all of your answer choices are standardized and “MECE” – Mutually Exclusive and Collectively Exhaustive.
+
+For example, if you were asking respondents about what price range they would be willing to pay for a specific product, you cannot list the possible answers on your survey as such:
+
+- 10-20 KES
+- 25-50 KES
+- 51-100 KES
+There are 3 problems with the choices above:
+
+- You have not provided an option for somebody to say that they want to pay less than 10 KES,
+- You have left a gap between responses (i.e. what if someone would like to pay 20-25 KES?),
+- you have not added an option for somebody to say that they are willing to pay more than 100 KES. In fact, for a question like this, it might be better asked as an open-text question where people fill in the exact amount that they would pay for the product.
+ 
+
+Supplementary Reading
+Read [this article](https://userreport.com/blog/6-different-types-of-survey-questions-you-should-use/) and [this article](leadquizzes.com/blog/types-of-survey-questions/) to learn more about the different types of survey questions and when you can use each.
+
+If you are finding data online…
+Perhaps the trickiest type of data to get your hands on is that which is publicly available on the internet – the reason for this is that you do not know how it was collected or whether the data is valid, so it’s important to be able to do the proper amount of diligence to determine whether the data is accurate and real.
+
+Here are a few ways to easily pinpoint if data is reliable:
+
+Check if your data is coming from a reputable site (i.e. World Bank data will be more reliable than data coming from a third-party agency that you have never heard of; similarly, government websites are also more reliable for country-level data).
+Check to see if your data has any strange gaps/holes (i.e. when you download the dataset, it should look complete).
+Check if the site where you are getting your data explains how the data was sourced/gathered.
+In addition to the above, you can also use the following techniques to check the validity of your data.
+
+### Find at least two sites
+
+Cross-reference whether the data points given on one site are the same as that on the other – if the numbers are off, then something is wrong.
+
+### Identify trends
+
+Plot out the growth or declines in your data to see if there are any anomalies or outliers; typically, data will be roughly around the same range year over year unless there is a big event/catastrophe (like COVID).
+
+### Use your reasoning
+
+For example, for population data, if the data is showing you that there are more people older than 60 vs. those younger than 20, then there might be something wrong as most countries have a larger youth population than the elderly population.
