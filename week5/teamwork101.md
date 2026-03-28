@@ -15,3 +15,24 @@
 **Amplified Creativity** - Two heads are better than one, right? Working in a team boosts creativity by combining everyone’s unique ideas and perspectives. By collaborating, you’ll discover fresh approaches, spark new innovations, and bring out the best in each other.
 
 Read [The importance of teamwork (as proven by science)](https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork)
+
+## The Ideal Team Member
+
+An ideal team member:
+
+**Is Reliable** - A great team player is someone others can depend on. Show up on time, meet deadlines, and fulfil your commitments. Be the person your teammates know they can count on.
+
+**Communicates Effectively**- Communication is key! Listen attentively, express your ideas clearly, and be open to different perspectives. Create a positive and inclusive environment where everyone’s voice is valued.
+
+**Embraces Collaboration** - Working together is where the magic happens! Embrace collaboration by sharing responsibilities, supporting your peers, and actively participating in group activities. Remember, we’re stronger when we work as a team.
+
+**Displays Respect** - Treat your teammates with kindness, empathy, and respect. Value their opinions, celebrate their achievements, and offer constructive feedback. A respectful team environment fosters trust and boosts productivity.
+
+**Sets Personal Principles** - Reflect on the principles that guide you as an individual. What values do you hold dear? How can you incorporate these principles into your teamwork? Define your personal code of conduct and let it shine through in your interactions. 
+
+**Stretches Themself** - Challenge yourself to step outside your comfort zone and contribute in ways that showcase your unique strengths. Take on new responsibilities, offer innovative ideas, and support your peers in their growth. Stretching yourself leads to personal growth and remarkable contributions.
+
+Being a remarkable team player is not just about doing the bare minimum—it’s about going above and beyond to support your peers and elevate the entire group.
+
+We love [this video](https://www.youtube.com/watch?v=0t_XUUcM1ng) as it sheds perspective on other considerations of being a good team player. Take a look and as you watch, jot down all the elements listed on being a good team member.
+
