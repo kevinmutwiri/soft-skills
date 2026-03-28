@@ -9,6 +9,7 @@
 - [Agile Teams Work Flow](#agile-teams-work-flow)
 - [Agile Teams vs Traditional Teams](#agile-teams-vs-traditional-teams)
 - [Sprint Planning Meetings and Retros](#sprint-planning-meetings-and-retros)
+- [New Tech Terms Recap](#new-tech-terms-recap)
 
 Read [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
@@ -179,3 +180,40 @@ Based on the discussion, establish clear and specific goals for the next sprint.
 #### Follow up on action items
 
 After the retrospective, it’s important to take action on the goals and improvements identified. Assign responsibilities and track progress to ensure that the agreed-upon changes are implemented.
+
+## New Tech Terms Recap
+
+**Sprint**: This is a short, time-boxed period (it’s usually a week or two in most technology companies), where SCRUM teams work to complete a certain set of work.
+
+**Product backlog**: This is a list of features, functions that have not yet been developed into final solutions, and requirements that the development team will work on in a future iteration or sprint.
+
+**MVP**: It’s a concept used in product development to describe the smallest version of a product that can still provide value to its users/customers.
+
+**User personas**: User personas are fictional characters that represent different types of users who might use a product or service. These personas help developers understand their users better and design products that meet their needs. For example, let’s say you’re creating a game app. You might have a user persona named “Gamer Gina” who loves action games and another persona named “Puzzle Pete” who prefers brain-teasing games. By understanding their preferences, you can design a game that appeals to both personas.
+
+**Wireframes**: Wireframes are like blueprints or sketches of a website or app. They show the basic structure and layout without focusing on colours, graphics, or detailed design. Think of it as drawing the outline of a house before adding all the details inside.
+
+**Prototypes**: Prototypes are interactive mock-ups or models of a website or app. They give you a feel for how the final product will work and allow you to test and gather feedback before investing time and resources into development. Imagine you’re building a car. Before building the actual car, you might create a small-scale model to see how it looks and functions.
+
+**User Interface**: User Interface (UI) refers to the visual elements and controls that users interact with on a website or app. It includes buttons, menus, forms, and any other elements that users see and interact with.
+
+**User Experience**: User Experience (UX) focuses on how users feel and interact with a product or service. It’s about creating a positive and enjoyable experience for users.
+
+**Continuous Integration**: Continuous Integration (CI) is a development practice where developers frequently integrate their code changes into a shared repository. It ensures that multiple developers’ work is combined regularly and automatically tested for any issues.
+
+**Continuous Deployment**: Continuous Deployment (CD) is a practice of automatically deploying software changes to production environments after passing tests in the continuous integration process. It allows developers to release new features or bug fixes to users quickly and frequently, ensuring a smoother and more efficient deployment process.
+
+**Client-side**: Client-side refers to the part of an application or website that runs on the user’s device, such as a computer or smartphone. It includes all the code and processes that occur on the user’s side, like displaying content, running animations, and handling user interactions.
+
+**Server-side**: Server-side refers to the part of an application or website that runs on the server, which is a powerful computer or network of computers that store and process data. It handles tasks such as managing databases, processing requests from users, and generating dynamic content to be sent back to the client side.
+
+**Agile**: Agile is an approach to project management and software development that emphasizes flexibility, collaboration, and iterative work.
+
+**Waterfall software development**: Waterfall software development is a traditional approach to building software where each phase of the project happens in a sequence, like a waterfall flowing downward.
+
+**Sprint planning meeting**: This is like a strategy session where you decide what tasks you’ll work on during the sprint. You discuss the goals for the sprint and break them down into smaller tasks that can be completed within the sprint’s timeframe.
+
+**Stand-up meetings**: Stand-up meetings are short, quick meetings that happen every day during a sprint. They are called “stand-up” because everyone stands up during the meeting to keep it short and focused. In these meetings, each team member shares what they worked on the previous day, what they plan to work on that day, and if they are facing any challenges or need help. It’s like checking in with your teammates to make sure everyone is on track and to see if anyone needs assistance.
+
+**API**: It’s like a bridge that enables different apps or systems to work together and exchange data. For example, imagine you have a music streaming app, and you want to show the lyrics of the currently playing song. You can use an API provided by a lyrics service to fetch the lyrics and display them in your app.
+
