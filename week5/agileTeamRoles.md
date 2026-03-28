@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [Agile Team Structure: UX Researcher](#agile-team-structure-ux-researcher)
+- [Agile Team Structure: Product Manager](#agile-team-structure-product-manager)
 
 Agile teams are typically small. They consist of about 5-9 team members with various roles. This section contains the breakdown of what an Agile Team typically looks like. Make sure you understand what each of the roles does as you’re most likely going to be working closely with people with such titles and responsibilities, or are going to have such a title yourself in the near future.
 
@@ -18,4 +19,8 @@ We mentioned User Personas back there. What are they? We’ll go into details in
 - **Secondary research**: Research that uses information sources that someone else put together. E.g. Research from publications.
 - **Quantitative research**: Focuses on data that can be gathered by counting or measuring. This kind of research is usually represented numerically.
 - **Qualitative research**: Focuses on observations. usually based on interviews. Helps the interviewer understand things in detail. They want to understand the why behind some particular feedback.
+
+## Agile Team Structure: Product Manager
+
+<img width="1920" height="1080" alt="56ca9d7e7da40890f4c2f8a377efeb559a07b3e0" src="https://github.com/user-attachments/assets/56b95d9a-8f3b-4a59-9cff-e134a9f203b2" />
 
