@@ -28,3 +28,18 @@ There are 2 ways to guestimate: the top-down and bottom-up approach.
 - The bottom-up approach focuses its analysis on specific characteristics and micro attributes of an individual project.
 
 Watch how each approach works in [this video](https://www.youtube.com/watch?v=7xXzEhnjJD4). This video provides a real-world example of how the top-down and bottom-up approaches can apply in a project:
+
+## Market-sizing & Guesstimate Questions Guide
+
+[This video](https://www.youtube.com/watch?v=v5eKAmZuQzs) discusses the “magical” approach to solving any market-sizing or guestimate questions. The 4 steps to market-sizing or guestimating are:
+
+- Clarification
+- Breaking down problems
+- Solving each piece
+- Consolidating
+
+The following 2 videos show you how to answer a guesstimate problem that supposedly appeared on Google or Goldman Sachs job interviews. But the point is not to give you the exact sizing of ping pongs and technical specifications of airplanes. Instead, this video shows how to rely on only what you have in your head and whatever is available to get a reliable answer.
+
+[How to Nail a Guesstimation Question - Ping Pongs on Boeing Airplane P1](https://www.youtube.com/watch?v=eMcOd4sq2NM)
+
+[How to Nail a Guesstimation Question - Ping Pongs on Boeing Airplane P2](https://www.youtube.com/watch?v=RiDlWBiwb6M)
