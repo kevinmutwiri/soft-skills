@@ -10,6 +10,7 @@
 - [Data Preparation Techniques](#data-preparation-techniques)
 - [Data Preparation Spreadsheet Functions](#data-preparation-spreadsheet-functions)
 - [Spreadsheet Shortcuts](#spreadsheet-shortcuts)
+- [Tracking Down a Relevant Dataset](#tracking-down-a-relevant-dataset)
 
 ## Data Analysis Framework
 
@@ -309,3 +310,50 @@ Move to the end of the row	End
 Move to the end of the sheet	Ctrl + End
 Enable screen reader support	Ctrl + Alt + Z
  
+## Tracking Down a Relevant Dataset
+
+No need to be all over the place when researching, tracking, and collecting the right data that you need, thanks to effective data tracking.
+
+Data tracking refers to the process of collecting, monitoring, and recording various types of data over some time. It involves systematically capturing and documenting data points or measurements to analyze trends, patterns, or changes in specific variables or metrics. Data tracking can be performed manually or automated through technology systems and tools.
+
+Data tracking is commonly used in various fields, such as business, healthcare, and research, to gather insights and make informed decisions. It allows organizations and individuals to monitor performance, evaluate progress, detect anomalies, and identify opportunities for improvement.
+
+The data tracked can include numerical values, qualitative observations, or a combination of both. It can involve tracking data related to sales, website traffic, customer behaviour, health indicators, research experiments, project milestones, and more.
+
+The key steps to track data effectively are as follows.
+
+### Set Clear Goals
+
+Identify what you want to achieve through data tracking and what specific information you need.
+
+### Choose What to Track
+
+Decide on the specific data points or metrics that are important for measuring progress or gaining insights.
+
+### Pick Tools or Systems
+
+Use tools or software that make it easy to collect and manage your data, like spreadsheets or online tracking platforms.
+
+### Collect Data
+
+Regularly gather the data you need, following a consistent schedule or whenever relevant events occur.
+
+### Organize and Store
+
+Keep your data organized in a way that makes sense to you, whether it’s using folders, spreadsheets, or a dedicated database.
+
+### Check for Accuracy
+
+Take time to review the collected data for any mistakes or inconsistencies, making sure it’s reliable and trustworthy.
+
+### Analyze and Interpret
+
+Use simple techniques to make sense of your data, like creating charts or graphs to spot trends or patterns.
+
+### Share Insights
+
+Communicate your findings with others who can benefit from the information, using clear and understandable language.
+
+### Monitor and Adjust
+
+Regularly review your data tracking process, making any necessary changes to improve its effectiveness.
