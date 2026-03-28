@@ -7,6 +7,7 @@
 - [Step 2: Identifying Relevant Data for The Problem](#step-2-identifying-relevant-data-for-the-problem)
 - [Step 3: Obtaining The Data](#step-3-obtaining-the-data)
 - [Step 4: Cleaning The Data](#step-4-cleaning-the-data)
+- [Data Preparation Techniques](#data-preparation-techniques)
 
 ## Data Analysis Framework
 
@@ -195,3 +196,45 @@ The following is a checklist that you should mentally go through when cleaning y
 Have you ever altered a document and after some time wished you had the original copy? This can happen to anyone. That is why you need to always back up your data. Working with data can be very tricky so it’s important to always have a copy of the original dataset to avoid unpleasant situations.
 Most times the data you are working with will come in a form that requires you to download and convert or save in the right format to be worked with. As soon as you download the original dataset, create a backup copy in a separate sheet. This way you can always refer to the original dataset in case you make a mistake.
 
+## Data Preparation Techniques
+
+Most of the data cleaning that you will do will most likely be in a data processing app or spreadsheet app like Google Sheets or Microsoft Excel.
+
+We will refer to both Excel and Google Sheets. We have talked about Google Sheets at length in Phase 1 and we want you to be familiar with Excel too. You do not need Excel on your computer. If you have it, please use it to follow along with the videos we share. If you do not have Excel, you can follow along using Google Sheets. There will be slight variations in the process, but the logic is the same. If you know how to use Google Sheets, you will easily figure out Excel and vice versa. They are both spreadsheet applications and very similar in function.
+
+Okay, let’s get started!
+
+As you clean and prepare your data set further, you can use the techniques below and on the next few pages to make it as pristine as possible!
+
+**Note**:
+As you’re going through this lesson, it would be best practice for you to open your Excel (or Google Sheets) on your computer and play around along with the videos and exercises!
+
+### Decimal Formatting
+
+Sometimes it gets really tricky handling decimals in Excel or Sheets. We have got your back. [This video](https://www.youtube.com/watch?v=ux_7pZdQFfs) helps you understand how to manage decimals in Excel and the use of the round function to help you get your desired outcome.
+
+
+Below are other steps you would normally take when cleaning a dataset:
+
+- Make sure the text is aligned correctly and uniformly throughout the dataset.
+- Make sure the text and background colours are complementary. The standard is to use black text and a transparent/white background.
+- Do a general observation/screening and make sure all abnormalities are checked for.
+- Check specific columns and rows and make sure you address inconsistent formatting.
+- Also make sure the right type of formatting is used (number, text, date, etc.).
+- Make sure the information is correct.
+- If there is a lot of data, make sure the relevant rows and columns are frozen so that you know what information you are reading.
+- Make sure column/row headers clearly identify the information being presented in the cells.
+- Make sure each column/row has enough space to easily read the information presented in each cell. Increase the width/height of the column/row or wrap cells to allow this.
+
+Let’s now watch and follow along with [this video](https://www.youtube.com/watch?v=_RZYr8127fo) to understand the Split function in Google Sheets.
+
+As explained in the videos, splitting or merging text into separate columns is a very important technique in data preparation. It may not be important for every analysis, but based on what you intend to do with the data, sometimes certain information may not be readily available to you, hence you must split cells or merge cells to achieve this.
+
+**Example**:
+Let’s say you have a dataset of Student Admissions. The dataset contains student ID, gender, and date of birth (in the format DD/MM/YYYY). In your analysis, you want to find out the number of students born in a specific month, as well as the number of students born after a particular year.
+
+Both of these elements are contained in one column called _Date of birth._ One way of separating the different elements would be to split this information into separate columns.
+
+[1. The Merging function in Google Sheets](https://www.youtube.com/watch?v=8DIKWsRYuGY)
+
+[2. Looking Up information on different sheets](https://www.youtube.com/watch?v=EgGu8UqjnRQ)
