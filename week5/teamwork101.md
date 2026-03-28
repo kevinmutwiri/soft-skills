@@ -59,3 +59,16 @@ Read [The 5 Stages of Team Development](https://drive.google.com/file/d/1AbwVM8t
 **Set clear goals and expectations**- We cannot emphasise the importance of goal setting to maximize your time. As a team, you must define clear goals and establish shared expectations within your team. Ensure everyone understands their roles, responsibilities, and deadlines to promote accountability and keep everyone aligned.
 
 Read [Secrets Of Successful Teamwork: Insights From Google](https://www.youtube.com/watch?v=hHIikHJV9fI)
+
+## Worst Practices for Working in a Team
+
+**Micromanaging**: Trust your teammates to deliver on their responsibilities. Avoid excessive control or micromanagement, as it can hinder creativity, motivation, and autonomy within the team.
+
+**Being Afraid to Ask for Help**: It’s okay to ask for assistance when needed. Don’t let ego or fear hold you back from seeking support from your teammates. Remember, you’re a team, and you’re in it together.
+
+**Negativity and Blame Games**: Foster a positive team environment by refraining from negative criticism, blame games, or gossip. Instead, focus on constructive feedback and finding solutions to challenges.
+
+**Ignoring Conflict**: It’s not going to magically disappear so address conflict proactively rather than sweeping it under the rug. Always encourage open dialogue, and active listening, and seek resolutions that benefit the entire team.
+
+**Procrastination**: (Is that even a word in our ALX Dictionary). As young leaders we get things done, but assuming procrastination is actually a thing, it can significantly hinder progress and impact team morale. Stay organized, manage your time effectively, and meet deadlines to ensure a smooth workflow within the team.
+
