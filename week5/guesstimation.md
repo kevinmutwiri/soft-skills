@@ -17,3 +17,14 @@ In guestimation, we use the **QBSC (Question, Breakdown, Solve, Consolidate)** f
 **Solve**: Solve each of your issues.
 
 **Consolidate**: Consolidate your issues and solutions, and create an answer for your primary problem statement.
+
+## Approaches to Guestimation
+
+There are 2 ways to guestimate: the top-down and bottom-up approach.
+
+<img width="1232" height="397" alt="image" src="https://github.com/user-attachments/assets/2095f76e-3c28-463a-b5d5-29a5e94c6b4f" />
+
+- The top-down approach seeks to identify the big picture and all of its components. These components are usually the driving force for the end goal.
+- The bottom-up approach focuses its analysis on specific characteristics and micro attributes of an individual project.
+
+Watch how each approach works in [this video](https://www.youtube.com/watch?v=7xXzEhnjJD4). This video provides a real-world example of how the top-down and bottom-up approaches can apply in a project:
