@@ -8,6 +8,8 @@
 - [Step 3: Obtaining The Data](#step-3-obtaining-the-data)
 - [Step 4: Cleaning The Data](#step-4-cleaning-the-data)
 - [Data Preparation Techniques](#data-preparation-techniques)
+- [Data Preparation Spreadsheet Functions](#data-preparation-spreadsheet-functions)
+- [Spreadsheet Shortcuts](#spreadsheet-shortcuts)
 
 ## Data Analysis Framework
 
@@ -238,3 +240,72 @@ Both of these elements are contained in one column called _Date of birth._ One w
 [1. The Merging function in Google Sheets](https://www.youtube.com/watch?v=8DIKWsRYuGY)
 
 [2. Looking Up information on different sheets](https://www.youtube.com/watch?v=EgGu8UqjnRQ)
+
+## Data Preparation Spreadsheet Functions
+
+Both Excel and Sheets provide functions that allow us to work with the data to generate meaningful insights. Here is a list of some of the more helpful and common functions and how to use them.
+
+SUM allows you to sum any number of columns or rows by selecting them or typing them in, for example, `=SUM(A1:A8)` would sum all values from cell A1 to cell A8.
+
+COUNT counts the number of cells in an array of cells (range of cells) that have a number value in them. For example, you can enter the following formula to count the numbers in the range A1:A20: `=COUNT(A1:A20)`. In this example, if five of the cells in the range contain numbers, the result is 5.
+
+COUNTA counts the number of cells that are not empty in a range. Eg. `=COUNTA(A2:A7)` Counts the number of nonblank cells in cells A2 through A7.
+
+AVERAGE does exactly what it sounds like and takes the average (arithmetic mean) of the numbers you input. For example, if the range A1:A20 contains numbers, the formula `=AVERAGE(A1:A20)` returns the average of those numbers.
+
+IF function allows you to make logical comparisons between a value and what you expect. In its simplest form, the IF function says: `IF(If something is True, then do something, otherwise do something else)`. It allows you to output text if a case is valid. So an IF statement can have two results. The first result is if your comparison is True, and the second if your comparison is False. For example, you could write `=IF(A1>A2, “GOOD”, “BAD”)`, where A1>A2 is the case, “GOOD” is the output if true and “BAD is the output if false.
+
+SUMIF, AVERAGEIF	These functions are a combination of the SUM, AVERAGE functions with the attachment to IF statements. All of these functions are structured the same way, being `=FUNCTION(range, criteria, function range)`. So in SUM, you could input `=SUMIF(A1:A15, "GOOD”, B1:B13)`. This would add B1 through B13 if the values of A1 through A15 all said GOOD. Watch a short video showing how to use SUMIF here. Watch a short video showing how to use AVERAGEIF here.
+
+COUNTIF to count the number of cells that meet a criterion; for example, to count the number of times a particular city appears in a customer list. In its simplest form, COUNTIF says: `=COUNTIF(Where do you want to look?, What do you want to look for?)` For example, `=COUNTIF(A2:A5,“apples”)` Counts the number of cells with apples in cells A2 through A5. The result is 2. `=COUNTIF(A2:A5,A4)` Counts the number of cells with peaches (the value in A4) in cells A2 through A5. The result is 1. More details and a video showing how to use COUNTIF can be found here.
+
+VLOOKUP	This function allows you to search for something in the leftmost column of a spreadsheet and return it as a value. An example of how to use this would be as follows: `=VLOOKUP(lookup value, the table being searched, index number, sorting identifier)`. This function is a little more complicated so you can read an in-depth explanation of how it works here.
+
+CONCATENATE is not only a fancy word to say, but it is also a useful function if you need to combine data into one cell. Say for example you had a first and last name, in cells A1 and A2 respectively. You would type `=CONCATENATE(A1,“ ”,B2)`, which would combine the names into one cell, with the “ ” adding a space in between.
+
+MAX & MIN	These functions are very simple, just type in the column or row of numbers you want to search following the function and it will output the MAX or MIN depending on the function you use. For example, `=MAX(A1:A10)` would output the maximum numerical value in those rows. You can find more info on MAX here and on MIN here.
+
+AND	This is another logical function in Excel, and it will check if certain things are true or false. For example, `=AND(A1=“GOOD”, B2>10)` would output TRUE if A1 is GOOD and the value of B2 is greater than 10. You can have it check more values than two as well by simply adding more values with another comma. You can learn more here.
+
+OR	Another logical function in Excel. This checks if certain things are true or false. Read more here. For example, `=OR(A2>1,A2<100)` Displays TRUE if A2 is greater than 1 OR less than 100, otherwise, it displays FALSE. `=IF(OR(A2>1,A2<100),A3,“The value is out of range”)` Displays the value in cell A3 if it is greater than 1 OR less than 100, otherwise, it displays the message “The value is out of range”.
+
+PROPER capitalizes the first letter in a text string and any other letters in the text that follow any character other than a letter. Converts all other letters to lowercase letters. For example, If cell A1 said “intErestIng EnginEEring is greaT”, you could type `=PROPER(A1) and it would output “Interesting Engineering is Great”.
+
+## Spreadsheet Shortcuts
+
+### Common actions
+ 
+Select column	Ctrl + Space
+Select row	Shift + Space
+Select all	Ctrl + A Ctrl + Shift + Space
+Undo	Ctrl + Z
+Redo	Ctrl + Y Ctrl + Shift + Z
+Find	Ctrl + F
+Find and replace	Ctrl + H
+Save (Every change is saved automatically in Drive)	Ctrl + S
+Open	Ctrl + O
+Print	Ctrl + P
+Copy	Ctrl + C
+Cut	Ctrl + X
+Paste	Ctrl + V
+Paste values only	Ctrl + Shift + V
+Show common keyboard shortcuts	Ctrl + /
+
+### Cell formatting
+ 
+Bold	Ctrl + B
+Underline	Ctrl + U
+Italic	Ctrl + I
+Center align	Ctrl + Shift + E
+Left align	Ctrl + Shift + L
+Right align	Ctrl + Shift + R
+Clear formatting	Ctrl + \
+
+### Spreadsheet navigation
+ 
+Move to the beginning of the row	Home
+Move to the beginning of the sheet	Ctrl + Home
+Move to the end of the row	End
+Move to the end of the sheet	Ctrl + End
+Enable screen reader support	Ctrl + Alt + Z
+ 
