@@ -3,6 +3,10 @@
 > [home](./README.md)
 
 - [Agile Tech Teams Roles](#agile-tech-teams-roles)
+- [Why Does Agile Matter?](#why-does-agile-matter)
+- [Agile Frameworks](#agile-frameworks)
+
+Read [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
 watch [this short video](https://www.youtube.com/watch?v=Z9QbYZh1YXY) which provides a clear explanation of what “Agile” is. As you watch, ask yourself:
 
@@ -20,3 +24,35 @@ watch [this short video](https://www.youtube.com/watch?v=Z9QbYZh1YXY) which prov
 2. Which role do you think you would thrive in the most in a professional setting?
 
 3. Which roles do you think you would not be good at or are not interested in?
+
+## Why Does Agile Matter?
+
+Agile methodology is an iterative approach to software development that emphasizes collaboration, flexibility, and responsiveness to change. It’s a set of values and principles that guide the way software development teams work together to deliver high-quality software that meets customer needs.
+
+But why does the Agile methodology matter, and why is it important?
+
+<img width="1920" height="1080" alt="ac19ee00b944513f44da0826edfc403f75f5351b" src="https://github.com/user-attachments/assets/17be9a51-10a8-4139-bc34-365806998d4c" />
+
+
+In an agile approach, the software is developed in short iterations called sprints, typically lasting one or two weeks, during which the development team works collaboratively to deliver a set of features or functionalities. The product manager or product owner defines and prioritizes the product backlog, which is a list of features and functionalities that need to be developed over a certain time duration.
+
+The development team is cross-functional, which means that it includes individuals with different skills and expertise, such as developers, testers, and designers. The team is self-organizing and manages its own work, making decisions about how to accomplish its goals. In other words, Agile teams are set up to quickly solve problems and deliver output, without needing outside help.
+
+And this is why Agile methodology matters to people entering into the tech ecosystem. It has become the dominant approach to software development in recent years. Companies across all industries are adopting agile methodology as a way to stay competitive and respond quickly to changing customer needs and market conditions. As a result, many job postings in the technology industry now require experience or knowledge of agile methodology.
+
+## Agile Frameworks
+
+not all Agile implementations are the same. There are many approaches to the implementation of the Agile Methodology. Some of the frameworks that are practiced by different companies share agile values and principles, but they differ in their specific practices, processes and terminology.
+
+For example, the length of a sprint can vary, in fact, some organizations call them cycles instead of sprints! Some organizations include design as part of the sprints, while others make them part of backlog definition.
+
+
+In other words, organizations often choose the framework that best suits their needs. It is common for a technology team to use multiple approaches for different scenarios. This means that different teams can use different approaches to the Agile Framework. Some of the most common Agile Frameworks are:
+
+- SCRUM (most common)
+- Kanban
+- Lean
+
+The diagram below illustrates the differences in structure between Kanban and SCRUM
+
+<img width="1920" height="1080" alt="ef76e3804a3f272a228254a7d126070c28eb2b25" src="https://github.com/user-attachments/assets/5620ce09-2926-444d-afe9-918efd02edf6" />
