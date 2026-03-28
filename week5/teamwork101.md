@@ -36,3 +36,13 @@ Being a remarkable team player is not just about doing the bare minimum—it’s
 
 We love [this video](https://www.youtube.com/watch?v=0t_XUUcM1ng) as it sheds perspective on other considerations of being a good team player. Take a look and as you watch, jot down all the elements listed on being a good team member.
 
+## Stages of Working in a Team
+
+Read [The 5 Stages of Team Development](https://drive.google.com/file/d/1AbwVM8tTptEV97RBKILgDgqe8J1d0CIm/view?usp=drive_link)
+
+1. Forming — Getting projects started
+2. Storming — It’s inevitable, there’s going to be conflict
+3. Norming — Finding the rhythm
+4. Performing — High-performance is the name of the game
+5. Adjourning — Success! You made it
+
