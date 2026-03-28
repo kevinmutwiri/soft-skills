@@ -9,3 +9,4 @@
 - [Agile Team Roles](./agileTeamRoles.md)
 - [Team Roles](./teamRoles.md)
 - [Guesstimation](./guesstimation.md)
+- [Research Gathering & Data](./researchDataGathering.md)
