@@ -46,3 +46,16 @@ Read [The 5 Stages of Team Development](https://drive.google.com/file/d/1AbwVM8t
 4. Performing — High-performance is the name of the game
 5. Adjourning — Success! You made it
 
+## Best Practices for Working in a Team
+
+**Communicate and communicate some more** - As a team, you must foster open and honest communication. Listen actively, express your thoughts clearly, and provide constructive feedback. Communication is the lifeline of effective teamwork.
+
+**Fairly contribute and divide the workload** - That means you must embrace collaboration by actively participating in team discussions, sharing ideas, and being open to different perspectives. Divide tasks fairly and leverage each team member’s strengths for optimal results.
+
+**Respect and value differences** - Embrace diversity and respect the unique strengths, perspectives, and backgrounds of your teammates. Your team should foster an inclusive environment where everyone feels valued and heard.
+
+**Foster trust and build relationships**- Cultivate trust within your team by being reliable, keeping your commitments, and supporting your teammates. Build strong relationships based on respect, empathy, and integrity.
+
+**Set clear goals and expectations**- We cannot emphasise the importance of goal setting to maximize your time. As a team, you must define clear goals and establish shared expectations within your team. Ensure everyone understands their roles, responsibilities, and deadlines to promote accountability and keep everyone aligned.
+
+Read [Secrets Of Successful Teamwork: Insights From Google](https://www.youtube.com/watch?v=hHIikHJV9fI)
