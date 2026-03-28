@@ -11,6 +11,7 @@
 - [Data Preparation Spreadsheet Functions](#data-preparation-spreadsheet-functions)
 - [Spreadsheet Shortcuts](#spreadsheet-shortcuts)
 - [Tracking Down a Relevant Dataset](#tracking-down-a-relevant-dataset)
+- [Finding a Relevant Dataset for Your Team Problem](#finding-a-relevant-dataset-for-your-team-problem)
 
 ## Data Analysis Framework
 
@@ -357,3 +358,34 @@ Communicate your findings with others who can benefit from the information, usin
 ### Monitor and Adjust
 
 Regularly review your data tracking process, making any necessary changes to improve its effectiveness.
+
+
+## Finding a Relevant Dataset for Your Team Problem
+
+Define Your Goals:
+
+Determine the specific objectives you want to achieve through data tracking. For example, understanding the deforestation rate in Addis over the past 10 years or tracking plastic waste generation in Cairo each month from January 2022 to December 2022.
+Identify the Variables and Metrics:
+
+Decide on the specific data points you need to track.
+For deforestation, it could be the number of hectares of forest lost annually, while for plastic pollution, it could be the amount of plastic waste generated per month.
+Set Up a Google Sheets Spreadsheet:
+
+Open a new Google Sheets document and create column headers for each data point that you will track. Keep it simple so it’s easy for your team to understand.
+For example, our column heading could be
+“Year,” “Deforestation Rate (in hectares),” or
+“Month,” “Plastic Waste (in kilograms).”
+Determine the Data Collection Frequency:
+
+Decide how often you will collect data. In this case, you only have a day or two to complete this activity so you will only get to collect data once. In an ideal set-up, it could be monthly, quarterly, or annually, depending on the nature of your problem and the availability of data. 
+Collect Data:
+
+Research reliable sources such as government reports, scientific studies, or reputable organizations that provide relevant data on your team’s problem.
+
+Organize and Store:  
+Create a dedicated spreadsheet for data storage.
+Enter the data in the corresponding columns and rows in your Google Sheets spreadsheet. You can use various tabs if this will make your data organization or storage more efficient.
+
+Validate and Update Data:
+Double-check the accuracy and reliability of the collected data. Look for any discrepancies or inconsistencies and correct them if necessary. Maybe you have two sources with different information, check which one is reliable or look at other sources to see which information matches
+Ensure your data is accurate, reliable, and relevant to your team’s problem. Use credible sources and cite your sources as required in your spreadsheet. You will need the information in future if your team decides to use your data.
