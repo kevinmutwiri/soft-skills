@@ -4,6 +4,8 @@
 
 - [Bar charts](#bar-charts)
 - [Clustered Bar Chart](#clustered-bar-chart)
+- [Line Charts](#line-charts)
+- [Pie Charts](#pie-charts)
 
 ## Intro to Charts
 
@@ -117,3 +119,27 @@ Examples: Stock price change over a year period, website page views during a mon
 You can observe from the line chart below that has some of the chart elements described in the previous section.
 
 <img width="1920" height="1080" alt="40ed62b1c724759ac11e99decb1a9673feb3396c" src="https://github.com/user-attachments/assets/b23d2311-dbdc-4c80-b170-5669487173e2" />
+
+## Pie Charts
+
+A pie chart is a circular graph that shows the relative contribution that different categories contribute to an overall total. They are generally used to show percentage or proportional data and usually, the percentage represented by each category is provided next to the corresponding slice of pie. The total of all the percentages shown in the pie chart should be 100. Pie charts are good for displaying data for around 6 categories or fewer. When there are more categories it is difficult for the eye to distinguish between the relative sizes of the different sectors and so the chart becomes difficult to interpret. Pie charts are most commonly misused. If you are trying to compare data, leave it to bar charts.
+
+See below some images of a pie chart.
+
+<img width="1920" height="1080" alt="40c5f393c20a4d0a51622e2aabf414c43205e36b" src="https://github.com/user-attachments/assets/235b5461-3bb1-4cf2-a087-6744401131db" />
+
+If you are following the content closely, you will realise that pie charts break a few rules you learned about the basic structure of the chart. For starters:
+
+- Pie charts have no vertical and horizontal axes and as such, they do not have vertical and horizontal titles. The only title you see on pie charts is the chart title.
+- Again, because pie charts have no axes, they do not have axes labels. They do, however, have category/section/pie labels as seen from the above chart. “Sci-fi”, “Thrillers” and “Comedy” are category labels.
+- Finally, each category has a data label as shown by the percentages in the above chart.
+
+Sometimes, pie charts are also shown this way:
+
+<img width="1920" height="1080" alt="ca62f1e2e7dbf78b75de36798dea1e1502e456cf" src="https://github.com/user-attachments/assets/22e90884-c9ac-4c2e-bfaa-e489a8c70f0b" />
+
+In the image above, the sections of the pie only have the data labels on them while the section/category labels are shown as some sort of key on the side. This key is called the legend. The legend is helpful when each category/section/pie has a unique and differentiating colour.
+
+That’s a lot of charts and graphs. The table below is a quick summary to help you choose the most appropriate type of chart to use in any given scenario.
+
+<img width="772" height="270" alt="image" src="https://github.com/user-attachments/assets/9b717ae3-c119-4957-9583-85a7e0a94e9b" />
