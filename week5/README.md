@@ -10,3 +10,4 @@
 - [Team Roles](./teamRoles.md)
 - [Guesstimation](./guesstimation.md)
 - [Research Gathering & Data](./researchDataGathering.md)
+- [Data Visualization](./dataVisualization.md)
