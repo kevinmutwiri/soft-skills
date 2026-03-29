@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [Bar charts](#bar-charts)
+- [Clustered Bar Chart](#clustered-bar-chart)
 
 ## Intro to Charts
 
@@ -86,3 +87,33 @@ There are two types of simple bar charts:
 This is the most common data visualization you will find and in a lot of cases the most effective at conveying information. This is the type we have seen so far where the bars are moving upwards or are vertical.
 
 <img width="1920" height="1080" alt="28fbe2496f51b3700beb07c6c2b2d45d847dde57" src="https://github.com/user-attachments/assets/d6004576-8c24-4f52-a2bb-12efa0b1d5fc" />
+
+### Horizontal bar chart
+
+This is a bar chart where the bars are horizontal. See the image below. This data visualization is very similar to column charts in their use. The only difference is that a horizontal bar chart is better at displaying long category titles.
+
+<img width="1920" height="1080" alt="baafc61fdfc6ad541610da8df2a7ae422cc5dd2f" src="https://github.com/user-attachments/assets/fc5b1244-d4bd-441c-a250-12e42a4c0b2f" />
+
+
+## Clustered Bar Chart
+
+A clustered bar chart displays multiple bars side by side within each category or group. Each cluster represents a different category, and the bars within each cluster represent different subcategories or data points. It:
+
+- Is best used for comparing values across different categories or subcategories.
+- Helps identify patterns or trends within the data.
+- Allows observation of relative differences or similarities between the bars.
+- Is particularly useful for visualizing segmented data with distinct groups or subgroups.
+
+<img width="1920" height="1080" alt="bc158adbd72a87ecf8fe17d8cdd4a55925583d26" src="https://github.com/user-attachments/assets/f7a6f031-d398-43ac-a5bb-aba72958d23b" />
+
+## Line Charts
+
+Line charts are right up there with bars as one of the most frequently used chart types. Line charts connect individual numeric data points. The result is a simple, straightforward way to visualize a sequence of values.
+
+When to use line charts: Viewing trends in data over time.
+
+Examples: Stock price change over a year period, website page views during a month, revenue growth by quarter.
+
+You can observe from the line chart below that has some of the chart elements described in the previous section.
+
+<img width="1920" height="1080" alt="40ed62b1c724759ac11e99decb1a9673feb3396c" src="https://github.com/user-attachments/assets/b23d2311-dbdc-4c80-b170-5669487173e2" />
