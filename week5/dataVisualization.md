@@ -6,6 +6,7 @@
 - [Clustered Bar Chart](#clustered-bar-chart)
 - [Line Charts](#line-charts)
 - [Pie Charts](#pie-charts)
+- [Stacked Bar Chart](#stacked-bar-chart)
 
 ## Intro to Charts
 
@@ -143,3 +144,14 @@ In the image above, the sections of the pie only have the data labels on them wh
 That’s a lot of charts and graphs. The table below is a quick summary to help you choose the most appropriate type of chart to use in any given scenario.
 
 <img width="772" height="270" alt="image" src="https://github.com/user-attachments/assets/9b717ae3-c119-4957-9583-85a7e0a94e9b" />
+
+## Stacked Bar Chart
+
+The stacked bar chart is great for adding another level of detail to a bar chart. You can do this by adding another dimension to your vertical bar chart that will further divide the measure into sub-groups. The sub-groups are then colour-coded on each bar as illustrated in the example below:
+
+<img width="1920" height="1080" alt="2f74b71068b9477d4eac113b686699f38ec01431" src="https://github.com/user-attachments/assets/0bbb3de2-7cc6-4432-a05b-6cdd89f31ac2" />
+
+The example above shows the number of Sales in dollars per Quarter with a further division of sales by Region (by adding the different Regions to the Colour shelf). This view is not ideal for comparing individual sales by region across each quarter, on the other hand, the view does allow you to compare overall sales per quarter and the sub-division of those sales by region. For instance, we can see that Q4 (the 4th quarter) is clearly the champion in sales amount. Within Q4, it is clear that the Americas brought in the most sales. Like every chart type, the effectiveness of a stacked bar chart depends on what you’re analysing.
+
+**So, how do we create a stacked bar chart?**
+Let’s watch [the following video](https://www.youtube.com/watch?v=pH0dx-7TDVE), done in Excel and note the steps as they are the same for Google Sheets.
