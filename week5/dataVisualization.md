@@ -2,6 +2,8 @@
 
 > [home](./README.md)
 
+- [Bar charts](#bar-charts)
+
 ## Intro to Charts
 
 For your audience to understand your data and the story you want to tell with it, you will often need to present that data in the form of visuals. 
@@ -68,3 +70,19 @@ Great! Now we do not have to guesswork on the exact value of cases for each coun
 
 **Caution**:
 Data labels do not always enhance the comprehensiveness of the chart. Sometimes, they take away from the chart’s clarity and make it messier, so use data labels wisely
+
+## Bar charts
+
+Bar charts are one of the most common ways to visualize data. Why? It’s quick to compare information, revealing highs and lows at a glance. Bar charts are especially effective when you have numerical data that splits nicely into different categories so you can quickly see trends within your data. They are best used to:
+
+- show change over time
+- compare different categories
+- compare parts of a whole.
+
+There are two types of simple bar charts:
+
+### Vertical or column chart
+
+This is the most common data visualization you will find and in a lot of cases the most effective at conveying information. This is the type we have seen so far where the bars are moving upwards or are vertical.
+
+<img width="1920" height="1080" alt="28fbe2496f51b3700beb07c6c2b2d45d847dde57" src="https://github.com/user-attachments/assets/d6004576-8c24-4f52-a2bb-12efa0b1d5fc" />
