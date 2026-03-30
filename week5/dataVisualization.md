@@ -11,6 +11,11 @@
 - [Histogram](#histogram)
 - [Scatter Plot](#scatter-plot)
 - [Bubble Charts](#bubble-charts)
+- [Improving Charts & Graphs: Labeling](#improving-charts-graphs-labeling)
+- [Improving Charts & Graphs: Units](#improving-charts-graphs-units)
+- [Improving Charts & Graphs: Position and Format](#improving-charts-graphs-position-and-format)
+- [Improving Charts & Graphs: Titles](#improving-charts-graphs-titles)
+- [Manipulation of Charts](#manipulation-of-charts)
 
 ## Intro to Charts
 
@@ -271,3 +276,85 @@ In the bubble chart examples above, the most desirable quadrant is in the upper 
 
 Let’s watch [this video](https://www.youtube.com/watch?v=bUv_pEO9ZFc) to learn how to create a Bubble Chart.
 
+
+## Improving Charts & Graphs: Labeling
+
+Once you’ve built a draft of your chart, the next step in creating an impactful visualization is making sure all of its elements are labeled appropriately. The text components of a graph give your reader visual clues that help your data tell a story and should allow your graph to stand alone, outside of any supporting narrative.
+
+Labeling Categories and Axes
+It’s important to find a balance between giving enough information to your audience and keeping your text simple. Make sure you include enough information to explain the data you’re presenting while keeping the text simple enough so it doesn’t clutter the graph.
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8d7dbc80-6644-4a3b-9c83-276e7190ae2f" />
+
+In our Winter Olympic Games example, the horizontal axis shows the number of medals won by each country over the years. When creating a graph, it’s common to go through a couple of iterations of the axis labels and chart titles. Once you’ve picked an axis title, think about how your reader could interpret that information. An axis title of “Medals” seems straightforward enough, but what exactly do we mean? Medals won? Medals lost? Medals won in 2018 alone? Medals won in any Winter Olympic games? Your chart title can help clarify these questions, and your axis title also allows you to tell your story.
+
+Instead of Medals, let’s title the horizontal axis with “Total Olympic Medals Won (1924 to 2018).” Using the word “total” ensures the reader knows you’re talking about all medals, not only one kind (gold, silver, or bronze) or from one event. “Olympic” ensures your reader knows that you’ve shared only the Olympic medals, not a total of Olympic and Paralympic medals. And finally, “1924-2018” reminds your reader of what years the medals were won. Alternately, as we’ve shown here, you can include some of those details in the chart title
+
+## Improving Charts & Graphs: Units
+
+When we refer to units, we’re talking about things like “percentages”, “dollars”, “millions”, or other descriptors that make sure your reader knows what kind of information you’re displaying. These are important if you’re sharing data that are in percentages instead of counts or if a multiplier has been used (for example, millions of dollars instead of just dollars).
+
+<img width="684" height="487" alt="849940f9552a0e627da54b20a63b5ea5164395fa" src="https://github.com/user-attachments/assets/4f89976f-f8f1-44bc-ba98-326be27de638" />
+
+It’s important to be clear in labelling your units. Some quick checks to walk through when you’re assessing your axis titles:
+
+- Make sure you’re consistent if you’re displaying multiple types of data using a dual-axis graph: you don’t want to display two variables with one in months and a second in years on the same axis!
+- Instead of using abbreviations or acronyms, write out the full unit (for example, millimetres instead of mm).
+- Symbols can sometimes be a helpful alternative to words in text, but make sure to clearly state what a symbol represents. For example, you could use “$” instead of the word “dollar.” However, this symbol is used with the currency of more than 30 countries, so you should specify which country’s currency you mean (e.g. US$, A$, Mex$).
+
+## Improving Charts & Graphs: Position and Format
+
+Once you’ve built a draft of your chart, the next step in creating an impactful visualization is making sure all of its elements are labeled appropriately. The text components of a graph give your reader visual clues that help your data tell a story and should allow your graph to stand alone, outside of any supporting narrative.
+
+Labeling Categories and Axes
+Horizontal axis titles should be aligned parallel to the axis labels. Format them in a font size large enough to read, but not so large that it dominates the graph.
+
+Vertical Axis Labels Debate
+
+There’s some debate over whether or not vertical axis labels should be aligned parallel to the axis or not. On the one hand, aligning the text vertically makes it very clear that it’s directly associated with the vertical axis. There’s often more room to write the axis title text if it’s rotated at a 90-degree angle. On the other hand, humans are not very good at reading vertical text, and readers may find themselves squinting and turning their heads to understand the chart. If you have enough room and the axis title text is short, consider keeping the text level instead of rotating it.
+
+
+We’ve also included two examples below that show what to avoid when placing your vertical axis titles.
+
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/99b70271-7407-4c21-9855-db39bfc78314" />
+
+Individual category labels should be clearly marked too. Make sure any words and numbers are easy to read: your reader should not have to play contortionist games with his or her neck to get a good look at what you’re trying to share in your graph. A few tricks for formatting your axis labels:
+
+Where possible, avoid rotating text on an angle, which is often used in vertical bar charts to force long text labels to fit but is difficult to read. If you find yourself with a horizontal axis using rotated, dense labels, try changing your chart type to a horizontal bar which will make the labels easier to read.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f9c650e-6cdf-425d-8b23-44c72472b394" />
+
+Simplify your labels. Even if your data were originally formatted with long strings of text for each category you’re trying to display, think about what you can simplify without losing meaning.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9452a89f-5681-4bc3-ad87-c78371da756e" />
+
+Use boldface text and italics sparingly and only where they have meaning. For example, you might use boldface for a category label for a data point you’re highlighting.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6eb82bf-4bf9-4fc0-924c-7f8ce66e0ac2" />
+
+## Improving Charts & Graphs: Titles
+
+At last! Now comes the opportunity to tell your story in 1-2 lines of text using your chart title. The title should succinctly tell your reader what message this graph or chart has been designed to convey. It doesn’t have to be a complete sentence, but it should be free of complicated language and syntax.
+
+Audience Consideration
+It’s important to think about who your audience is and where your graph is going to be published when writing your chart title: are you a journalist adding the chart to an article, a blogger creating a very visual post, or perhaps a scientist going for a peer-reviewed publication? Scientists may need to clearly articulate the relationship displayed between their variables whereas a journalist may want to give some spin to the title to emphasize the message they want to share.
+
+
+The most basic graph titles clearly state the relationship between the independent variable on the horizontal axis and the dependent variable on the vertical axis. For example, we called our medal count graph, “Countries With Most Medals at the Winter Olympic Games.” This title tells the reader that we’re looking at the total medals won (medal count) by country, limited to the top ten in the years between 1924 and 2018. Each element of the chart title we’ve created adds value and tells something to the reader. There’s nothing wrong with titles like these: while somewhat dry, they’re straightforward and clearly tell your reader what is on the graph.
+You can also approach a title as an opportunity to state the conclusion your reader should draw from your graph. For example, if we had chosen to highlight the Russia medal count. If you want to highlight that Russia ranked second in the overall medal count, you could title the graph, “Russia ranks second for most medals won in the Winter Olympics Games.” Often you see these leading titles in newspapers and other publications telling a specific story. The chart title provides an extra opportunity to emphasize and amplify your message—use it!
+
+## Manipulation of Charts
+
+Now that you know how to use visualization as a tool to improve the analysis you have done, it is important to touch on an important aspect of data analysis.
+
+Data analysis isn’t only about coming to an answer but coming to the right answer which is logically sound and ethically based. Ethics comes in, in how you use the data as well as how you present it. Some people manipulate and distort graphs knowingly and unknowingly. There are serious ramifications when people manipulate charts, from being legally sued to losing your business, to altering voters’ and people’s mindsets on various topics.
+
+
+As ethical leaders of tomorrow, it is crucial to understand data manipulation to avoid making mistakes and recognize flaws in others’ work. Take a look at [this video](https://www.youtube.com/watch?v=x-rDVXVwW9s) with examples of misleading graphs and charts that have influenced public perception on various topics.
+As you watch make note of:
+
+- What is cherry-picking
+- The use of cumulative data instead of annual data
+- How pie charts and bar graphs can be used to misrepresent data.
+
+ [here](https://www.youtube.com/watch?v=E91bGT9BjYk) is another eye-opener on how to spot misleading graphs. As you watch and listen to the examples, note the key things to look out for when looking at a graph.
