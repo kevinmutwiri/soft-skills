@@ -10,6 +10,7 @@
 - [Clustered Bar Chart](#clustered-bar-chart)
 - [Histogram](#histogram)
 - [Scatter Plot](#scatter-plot)
+- [Bubble Charts](#bubble-charts)
 
 ## Intro to Charts
 
@@ -246,4 +247,27 @@ Just from a casual glance, we can see that height and weight are two closely rel
 <img width="1600" height="900" alt="ENT100_6 11_Multiple Line Graph_V3" src="https://github.com/user-attachments/assets/3b1a30f7-8b96-4536-9615-1ccde3fc227a" />
 
 Over two decades, the weight and height of NBA players dropped. This scatter plot shows evidence of how the bodies of NBA players have changed over time. We can attribute this trend to basketball becoming a much faster, and more perimeter-oriented game, so it makes sense that players are getting leaner. [This](https://www.youtube.com/watch?v=ImswjwF35mE) is how you make a scatter plot
+
+## Bubble Charts
+
+Bubble charts or bubble graphs are extremely useful graphs for comparing the relationships between data objects in 3 numeric-data dimensions: the X-axis data, the Y-axis data, and data represented by the bubble size. Essentially, bubble charts are like XY scatter graphs except that each point on the scatter graph has an additional data value associated with it that is represented by the size of a circle or “bubble” centered around the XY point.
+
+Bubble Chart Example 1: This chart shows the relationship between “Profit” (Y-Axis), “Cost” (X-Axis), and “Probability of Success (%)” (Bubble Size).
+
+<img width="1600" height="900" alt="ENT100_6 11_Bubble Chart_V2" src="https://github.com/user-attachments/assets/8abcd606-64d6-48aa-a238-c9b8217fd4bb" />
+
+The size of the red bubble is the smallest, detailing the least likely probability of success. The blue bubble shows the largest probability of success as the bubble is the largest.
+
+Bubble Chart Example 2: The same as Example 1, but the bubble size variable has been removed so now it is displayed as a scatter chart.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f22cda31-9a42-4155-bafc-665849bb734f" />
+
+### Bubble Charts in Business
+
+Bubble charts are often used in business to visualize the relationships between projects or investment alternatives in dimensions such as cost, value, and risk. By visualizing project portfolios using bubble charts, you can find clusters of relatively attractive projects in one area of the graph, such as areas of high value, low cost, and/or low risk, and compare them with relatively less attractive projects in a different area of the graph, such as an area of low value, high cost, and/or high risk.
+
+
+In the bubble chart examples above, the most desirable quadrant is in the upper left (higher profit and lower cost) and the least desirable quadrant is the lower right (high cost and lower profits). Bubbles with larger areas have higher probabilities of success.
+
+Let’s watch [this video](https://www.youtube.com/watch?v=bUv_pEO9ZFc) to learn how to create a Bubble Chart.
 
