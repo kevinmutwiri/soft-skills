@@ -9,6 +9,7 @@
 - [Stacked Bar Chart](#stacked-bar-chart)
 - [Clustered Bar Chart](#clustered-bar-chart)
 - [Histogram](#histogram)
+- [Scatter Plot](#scatter-plot)
 
 ## Intro to Charts
 
@@ -230,3 +231,19 @@ In a histogram, each bar’s size shows how many times something happened in a s
 The major difference is that a histogram is only used to plot the frequency of score occurrences in a continuous data set that has been divided into classes, called bins. Bar charts, on the other hand, can be used for a great deal of other types of variables including ordinal and nominal data sets.
 
 [This is how to make and use a histogram chart on Excel or Google Sheets.](https://www.youtube.com/watch?v=is14ehdy7jo)
+
+
+## Scatter Plot
+
+The scatter plot, also known as a scatter diagram, scatter chart, scattergram, or scatter graph, is useful to compare two different measures for patterns. It is useful when showing relationships with various data points. The big difference with a scatter plot is that both axes in the chart are asures rather than dimensions.
+
+In Figure 1 below, we’re examining the height and weight measurements of NBA players (Weight is on the x-axis and Height on the y-axis).
+
+<img width="1600" height="900" alt="ENT100_6 11_Scatter Plot_V2" src="https://github.com/user-attachments/assets/9c7ffc95-5d9e-42c1-97f7-805b932c3d90" />
+
+Just from a casual glance, we can see that height and weight are two closely related variables. There seems to be a trend where the more weight an NBA player has, then the taller they tend to be. Let’s change things up a bit and look at the height and weight of NBA players over the years. The results are shown in Figure 2 below:
+
+<img width="1600" height="900" alt="ENT100_6 11_Multiple Line Graph_V3" src="https://github.com/user-attachments/assets/3b1a30f7-8b96-4536-9615-1ccde3fc227a" />
+
+Over two decades, the weight and height of NBA players dropped. This scatter plot shows evidence of how the bodies of NBA players have changed over time. We can attribute this trend to basketball becoming a much faster, and more perimeter-oriented game, so it makes sense that players are getting leaner. [This](https://www.youtube.com/watch?v=ImswjwF35mE) is how you make a scatter plot
+
