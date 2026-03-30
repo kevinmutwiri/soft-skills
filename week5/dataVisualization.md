@@ -7,6 +7,8 @@
 - [Line Charts](#line-charts)
 - [Pie Charts](#pie-charts)
 - [Stacked Bar Chart](#stacked-bar-chart)
+- [Clustered Bar Chart](#clustered-bar-chart)
+- [Histogram](#histogram)
 
 ## Intro to Charts
 
@@ -155,3 +157,76 @@ The example above shows the number of Sales in dollars per Quarter with a furthe
 
 **So, how do we create a stacked bar chart?**
 Let’s watch [the following video](https://www.youtube.com/watch?v=pH0dx-7TDVE), done in Excel and note the steps as they are the same for Google Sheets.
+
+
+## Clustered Bar Chart
+
+displays more than one data series in clustered vertical columns. Each data series shares the same axis labels, so vertical bars are grouped by category. Clustered columns allow the direct comparison of multiple series, but they become visually complex quickly. They work best in situations where data points are limited.
+
+<img width="1920" height="1080" alt="0633ed8c95e57094650380512baccb87ad2c240f" src="https://github.com/user-attachments/assets/18eaebf8-8b70-4685-b2b3-b274229bcdef" />
+
+As you can see in the chart above, also known as a clustered chart, one can easily see how each region performs against each other in the various quarters. Additionally, it allows us to see how each region’s sales have changed during the year. Following are some the pros and cons of using this type of chart. Click through the interactives to learn more.
+
+**Pros**
+- Allow direct comparison of multiple data series per category
+- Can show change over time
+
+**Cons**
+- More difficult to compare a single series across categories
+- Become visually complex as categories or series are added
+
+**Tips**
+- Limit data series and categories
+- Avoid all 3D variants
+
+The side-by-side bar chart is just like the stacked bar chart except we’ve un-stacked them and put the bars side by side along the horizontal axis. In [this video](https://www.youtube.com/watch?v=dgsjIZKNfEU), you will see how to create a side-by-side chart (notice how at the end the instructor creates a unique type of stacked bar chart).
+
+## Histogram
+
+A histogram is a plot that lets you discover, and show, the underlying frequency distribution (shape) of a set of continuous data. This allows the inspection of the data for its underlying distribution (e.g., normal distribution), outliers, skewness, etc. An example of a histogram, and the raw data it was constructed from, is shown below.
+
+
+<img width="1920" height="1080" alt="1df7e84fa59a5b9731510952ae5c48df175d5bdb" src="https://github.com/user-attachments/assets/571c028f-c1f1-4045-8161-26f1ed50aa75" />
+
+Continuous data refers to data that can take any value within a given range. It can be measured with great precision and includes decimal or fractional values. Continuous data is essentially infinite and allows for a smooth and unbroken spectrum of possibilities. Examples of continuous data include height, weight, temperature, and distance.
+
+How do you construct a histogram from a continuous variable?
+Let’s use the below data to understand how to create a histogram.
+
+
+
+36	25	38	46	55	68	72	55	36	38
+67	45	22	48	91	46	52	61	58	55
+
+To construct a histogram from a continuous variable you first need to split the data into intervals, called bins. In the example above, age has been split into bins, with each bin representing 15 years starting at 20 years. Each bin contains the number of occurrences of scores in the data set that are contained within that bin. For the above data set, the frequencies in each bin have been tabulated along with the scores that contributed to the frequency in each bin (see below):
+
+Bin	Frequency	Scores Included in Bin
+20-30	2	25, 22
+30-40	4	36, 38, 36, 38
+40-50	4	46, 45, 48, 46
+50-60	5	55, 55, 52, 58, 55
+60-70	3	68, 67, 61
+70-80	1	72
+80-90	0	-
+90-100	1	91
+
+Notice that, unlike a bar chart, there are no “gaps” between the bars (although some bars might be “absent” reflecting no frequencies). This is because a histogram represents a continuous data set, and as such, there are no gaps in the data (although you will have to decide whether you round up or round down scores on the boundaries of bins).
+
+### Choosing the correct bin width
+
+There is no right or wrong answer as to how wide a bin should be, but there are rules of thumb. You need to make sure that the bins are not too small or too large. Consider the histogram we produced earlier (see above), then look at the following histograms using the same data, but have either much smaller or larger bins, as shown below:
+
+<img width="1920" height="1080" alt="7ac72aa54a3d8e843ecbbe78e1ffd3c132332f75" src="https://github.com/user-attachments/assets/d73f1a0e-b0c8-4336-a7e1-caebb1827292" />
+
+<img width="1920" height="1080" alt="bf51966a9e885a5331dc20d4c1cc9a06e0b8673b" src="https://github.com/user-attachments/assets/96de138a-9179-45e5-a2cd-644a8dbca564" />
+
+We can see from the histogram on the left that the bin width is too small because it shows too much individual data and does not allow the underlying pattern (frequency distribution) of the data to be easily seen. At the other end of the scale is the diagram on the right, where the bins are too large, and again, we are unable to find the underlying trend in the data.
+
+Histograms are based on the area not the heights of bars
+In a histogram, each bar’s size shows how many times something happened in a specific range. The height alone doesn’t tell the full story—it’s the combined height and width of the bar that gives the complete picture. Sometimes people think the height alone shows how often things occurred, but that’s only true when all the bars are the same width. If the bars have different widths, you need to look at both the height and the width to understand the frequency.
+
+### What is the difference between a bar chart and a histogram?
+
+The major difference is that a histogram is only used to plot the frequency of score occurrences in a continuous data set that has been divided into classes, called bins. Bar charts, on the other hand, can be used for a great deal of other types of variables including ordinal and nominal data sets.
+
+[This is how to make and use a histogram chart on Excel or Google Sheets.](https://www.youtube.com/watch?v=is14ehdy7jo)
