@@ -2,3 +2,4 @@
 
 > [home](../README.md)
 
+- [Daily 3](./daily3.md)
