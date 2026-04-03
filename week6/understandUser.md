@@ -30,3 +30,4 @@ We have our own story of innovative Human Centered Design in the African Leaders
 - What is the difference between the BUILD process and the Human Centered Design framework you just learned about?
 - What do you appreciate (or not appreciate) about this model?
 
+<img width="1920" height="1217" alt="build" src="https://github.com/user-attachments/assets/afa21c37-0fac-48c4-a2a1-9a2547a7a41a" />
