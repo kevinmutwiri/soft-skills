@@ -1,0 +1,120 @@
+# Being an Outstanding Teammate
+
+> [home](./README.md)
+
+- [What Makes a Teammate Truly Outstanding?](#what-makes-a-teammate-truly-outstanding)
+- [Communication: The 7 C's](#communication-the-7-cs)
+- [Proactive Communication](#proactive-communication)
+- [Communication: Listening](#communication-listening)
+
+## What Makes a Teammate Truly Outstanding?
+
+**Have you ever wondered what makes a TEAM truly outstanding?**
+A team is made up of, of course, teammates! An outstanding team, then, is made up of outstanding teammates. Being an outstanding teammate requires critical soft skills that are highly attractive to employers.
+
+89% of recruiters say when a new hire doesn’t work out, it usually comes down to a lack of soft skills!
+When employers are asked for the top skills they desire in their employees, the 4 most commonly listed are dependability, flexibility, problem-solving, and communication. These are all soft skills, and they are all skills that make people outstanding teammates. This is not a coincidence!
+
+While you’re not likely to find a tech job without having any technical skills, research shows being an outstanding teammate predicts “career durability”. In other words, tech skills might land you a job or contract, but being an outstanding teammate with the right soft skills makes it much more likely you’ll keep your job and get promoted.
+
+### Teammate Skill #1: Dependability
+
+This one is pretty straightforward!
+
+A dependable teammate:
+
+- Does what they say they are going to do
+- Meets deadlines
+- Shows up to all scheduled meetings and commitments
+- Is on time
+- Proactively communicates
+
+### Teammate Skill #2: Flexibility
+
+A flexible teammate:
+
+- Is positive when obstacles or difficulties arise
+- Can adjust quickly to new requirements or circumstances
+- Is resilient in the face of change
+- Practices grit and growth mindset to improve over time
+
+### Teammate Skill #3: Problem-Solving
+
+Brainstoming is a key part of problem-solving. Problem-solving requires using both creative thinking (also known as divergent thinking) and critical thinking (also known as convergent thinking) to come up with and test out solutions. It also often requires grit and perseverance.
+
+### Teammate Skill #4: Communication
+
+Communication is the act of sharing and receiving information. Talking, writing, listening, and reading are all forms of verbal communication.
+
+Nonverbal communication includes tone of voice, gestures, eye movements, facial expressions, posture, and body language. Nonverbal communication can (intentionally or unintentionally) convey your feelings and can have a positive or negative impact on your message.
+
+Communication is such a hugely important skill and a vast topic. It could easily be the subject of its own course. So we’d like to break it down just a little further for you, into areas of communication that are especially important for success in a team:
+
+1. The 7 C’s
+
+2. Listening
+
+3. Consensus Building
+
+4. Proactive Communication
+
+5. Giving Feedback
+
+6. Receiving Feedback
+
+
+## Communication: The 7 C's
+
+An effective communicator speaks and writes clearly, conveys approachability in their body language, pays attention to what others are saying, and respects differing perspectives.
+
+Effective communication is made up of several characteristics which we can call the 7 C’s. The video below explains this in more detail. As you watch [this short video](https://www.youtube.com/watch?v=sYBw9-8eCuM), make sure you can recognize and briefly explain each of the 7 C’s.
+
+**Clear**
+Your message should be easy to understand and free of ambiguity. Avoid using jargon or technical terms that your audience may not be familiar with.
+
+**Concise**
+Get to the point quickly and avoid unnecessary details. Your audience will appreciate your brevity.
+
+**Concrete**
+Use specific language and examples to support your ideas. Avoid vague or abstract statements.
+
+**Correct**
+Use proper grammar, spelling, and punctuation. This will help to ensure that your message is taken seriously.
+
+**Coherent**
+Your message should flow logically from one point to the next. Avoid making sudden jumps or introducing irrelevant information.
+
+**Complete**
+Make sure that your message includes all of the necessary information. Don’t leave your audience guessing.
+
+**Courteous**
+Be respectful of your audience and their point of view. Avoid using offensive language or making personal attacks.
+
+## Proactive Communication
+
+Being proactive means taking charge of a situation or potential problem, rather than reacting to it after it has occurred. Proactiveness involves thinking ahead, anticipating needs, and addressing them. So proactive communication means communicating ideas, information, and updates in anticipation of someone’s needs. When you communicate proactively, you solve problems before they happen, address questions and issues before they arise, and manage complaints before they become a problem.
+
+Good examples of proactive communication are:
+Informing your teammates about your current progress on your action items (especially what you will deliver and when),
+Telling a client what your priorities are, or
+Telling your boss as soon as possible if you know you’ll need more time for a task.
+Anytime you are giving someone an update in advance with details you expect they want, even if they haven’t asked for them, you are being proactive.
+
+On the opposite side of proactive communication is reactive communication. Reactive communication is communicating thoughts or information only in response to a direct request.
+
+As much as possible, we want you to become proactive communicators! Anticipate what your teammates might need to know, and share information generously. When in doubt, over-communicate!
+
+## Communication: Listening
+
+Listening is a HUGE part of successful communication!
+Sometimes it can be hard to really listen, especially when we think we already know what a person is going to say, are frustrated with the person or situation, or are distracted, stressed or tired. Putting in a little extra effort to actively listen goes a LONG way. It’s worth it!
+
+Here are a few tips you can practice that will help you become a better listener:
+- Do not interrupt when someone is speaking. (There are exceptions when someone constantly rambles and goes on and on, but in general, try to practice patience.)
+- Pay attention. Do not look distracted - make eye contact and nod when appropriate!
+- Try to remember what is being said, and then restate it in simple terms. You can add “Did I get that right?” Restating and asking for confirmation is a practice called active listening , and it can be especially valuable when the conversation is complex and/or tense.
+
+[Here](https://www.youtube.com/watch?v=thH76x3dCKg) is a short video containing both bad and good examples of active listening. As you watch, ask yourself:
+
+- What is one way you personally can restate someone’s message without it feeling forced or awkward?
+- Is there a way you might ask someone, “Did I get that right?” and have it sound authentically like you?
