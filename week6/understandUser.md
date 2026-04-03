@@ -9,6 +9,8 @@
 - [Getting to Know Your User](#getting-to-know-your-user)
 - [Case Study: The Rise of Slack](#case-study-the-rise-of-slack)
 - [Creating an Empathy Map](#creating-an-empathy-map)
+- [Drawing Insights](#drawing-insights)
+- [Defining User vs Customer](#defining-user-vs-customer)
 
 ## Human Centered Design
 
@@ -135,3 +137,42 @@ Let’s watch [this video](https://www.youtube.com/watch?v=TWrY5NkaUKY) on Empat
 - What tools can you use to create an Empathy Map?
 
 Read this article on [mindonmap.com](https://www.mindonmap.com/blog/empathy-map-template-example/) and note the different examples of empathy maps that they provide.
+
+
+## Drawing Insights
+
+After conducting interviews and creating your empathy maps, you might be asking yourself the same question. The next step is to analyze the gathered information and draw insights from it.
+
+Remember the main reason you conducted the interviews in the first place. You wanted to understand your user, their needs, preferences, wants and thoughts. Therefore, a logical step to get insights from your data would be to:
+
+Step 1: Analyze the information in front of you and look for patterns, contradictions, and opportunities for innovation. For example, if several users mentioned a specific pain point, this could be a potential opportunity for improvement.
+
+Step 2: Group similar insights together to create clear themes. This will help you identify the most significant user needs and priorities.
+
+Step 3: Prioritize the insights based on their importance to the user and their potential impact on the designed product or service.
+
+Step 4: Use the insights to inform your design decisions. Make sure to focus on the user’s perspective and avoid assumptions.
+
+And that’s it! By following these simple steps, you can draw meaningful insights from user interviews and empathy maps to create better products and services that meet the needs of your users.
+
+[video](https://www.youtube.com/watch?v=TRaNiRZqXwY) provides a quick look into how to convert your data into meaningful insights. Let’s go through this for more clarity. As you’re watching the video, ask yourself:
+- What steps need to be taken to go from raw data to meaningful insights?
+- Which of these steps are most relevant to your case and which isn’t?
+
+
+## Defining User vs Customer
+
+Did you know that in problem-solving, market research and design thinking the User is different from the Customer? The two have subtle nuances so let’s define them for you.
+
+A User
+A User is any individual who uses a particular product or service, regardless of whether they pay for it or not. For example, someone who uses a free social media platform would still be considered a user. In design thinking, a user refers to someone who interacts with a product or service, regardless of whether they pay for it or not. The focus is on understanding their needs, wants, behaviours, and pain points to create a better user experience. The goal is to create a solution that meets the user’s needs and helps them achieve their goals.
+
+A Customer
+A Customer, on the other hand, is someone who pays for a product or service. They are usually purchasing something from a business, and the transaction involves an exchange of money. In design thinking, the focus is to understand their buying behaviours, motivations, and preferences to create a product or service that meets their needs and solves their problems. The goal is to create a solution that generates revenue for the business and creates value for the customer.
+
+
+Tech companies have millions if not billions of end users. Microsoft, for instance, has end-users that contain anybody who owns or works with a Windows machine or uses MS Office tools such as Word, Excel, or PowerPoint. Apple’s end users involve those who run iOS on their iPhone, or who use a Mac.
+
+The number of end users for a company or product is likely to change with demand, competition, innovation, or in response to some external pressure. For instance, the number of end users of video conferencing platforms like Microsoft Teams and Zoom skyrocketed during the COVID-19 pandemic as people around the world entered lockdowns and were forced to work from home or take classes online.
+
+This means that both Users and Customers have different experiences and needs. That’s where UX (user experience) and CX (customer experience) come in. Take a look at [this short video](https://www.youtube.com/watch?v=mKI-0oDN--0) that outlines the difference between UX and CV.
