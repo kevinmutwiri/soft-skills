@@ -5,6 +5,7 @@
 - [Human Centered Design](#human-centered-design)
 - [BUILD Framework](#build-framework)
 - [Design Thinking](#design-thinking)
+- [Case Study: Apple and The Design of The iPhone](#case-study-apple-and-the-design-of-the-iphone)
 
 ## Human Centered Design
 
@@ -51,3 +52,22 @@ The 5 stages are:
 
 Let’s read [this article](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process) from the Hasso Plattner Institute of Design at Stanford (the d.school) to learn about the five stages of design thinking.
 
+## Case Study: Apple and The Design of The Iphone
+
+Everyone’s heard of Apple, right? Some of your squad members might have iPhones which have become super common today. Apple has established itself in the world of design thinking having created many products that are beautifully and functionally designed!
+
+Apple is famously known for the groundbreaking launch of the iPhone in 2007. When Apple first launched the iPhone, the more popular phones in the market then were from companies such as Blackberry, and Nokia, among others. For Apple to grab a piece of the market share, they had to think differently, listen and research their users which led to a device created with Human Centered Design at the core.
+
+One of the key human-centered design considerations made in the design and development of the iPhone was the user interface. Apple recognized that the success of the iPhone would depend on how easy it was to use, even for people who were not tech-savvy. The iPhone’s user interface was designed to be simple, intuitive, and visually appealing, with a touch-based interface that allowed users to interact with the device using natural gestures like tapping, swiping, and pinching. You might take these for granted now but in 2007, these features were groundbreaking!
+
+Apple also conducted extensive research into how people used their phones in order to inform the design of the iPhone. This research included studying how people held and interacted with their phones, as well as observing how they used other devices like digital cameras and MP3 players. This research informed the design of the iPhone’s physical form and user interface, which was optimized for one-handed use and included features like a virtual keyboard that adapted to the user’s typing habits. Apple clearly thought about the Experience of the Users whom the iPhone was meant for.
+
+Overall, the Human Centered Design considerations made in the development of the iPhone have helped to make it one of the most successful and influential consumer electronics products of all time. The device’s intuitive user interface and ease of use have made it accessible to a wide range of users, from young children to older adults, and have helped to transform the way we interact with technology.
+
+While the resource below has been simplified greatly, it gives a sneak preview into some design choices Apple made during the design of the iPhone.
+
+Here are some takeaways to guide you as you watch [the video on the history of the iPhone](https://www.youtube.com/watch?v=riUGTDNiv6Q)
+- Note the comparison between the original iPhone and the flagship devices that were available at the time. Notice the stark contrast in their looks and functionality. Apple went in and re-imagined how the phone is used.
+- Note that Apple doesn’t just create beautiful designs for aesthetic purposes; sure they look good, but more importantly, they work great!
+- Note some design choices made as a result of understanding their users and having empathy for them. For example, the design of the back of the 2nd iPhone switched from Aluminum to plastic because users wanted better 3G connectivity to the original’s edge network.
+- How many design thinking choices did you notice in this video?
