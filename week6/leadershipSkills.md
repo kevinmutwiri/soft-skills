@@ -3,6 +3,8 @@
 > [home](./README.md)
 
 - [Leadership & Followership](#leadership--followership)
+- [Servant Leadership](#servant-leadership)
+
 
 ## Leadership & Followership
 
@@ -44,3 +46,24 @@ Watch [this video](https://www.youtube.com/watch?v=PDNlrY3Zo28) to learn even mo
 - The best leaders take pride in being __human shields____.
 
 <img width="958" height="506" alt="image" src="https://github.com/user-attachments/assets/811c5624-090c-4d26-95e4-cb1a17d921c3" />
+
+## Servant Leadership
+
+McKinsey & Co describe leadership as “a set of behaviors used to help people align their collective direction, to execute strategic plans, and to continually renew an organization”.
+
+At ALX, we are fans of a popular approach to leadership called “servant leadership”.
+
+Instead of issuing orders and controlling their followers, effective “servant leaders” are in service of the people they lead. Their focus is on making the lives of their teammates easier emotionally, physically, and intellectually. Research has corroborated that this approach enhances team performance and work satisfaction. You can read about that in more detail [here](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-boss-factor-making-the-world-a-better-place-through-workplace-relationships).
+
+Servant leaders practice all of the traits we discussed in both leaders and followers above
+
+[This short video](https://www.youtube.com/watch?v=3dS7FpUUbY8) explains why servant leadership is so valuable in a healthy and productive team. As you watch, please make sure you can complete or answer the following:
+
+Servant leadership is about…
+
+- ___influence___ rather than power and control.
+- Focusing on others’ ___strengths___ as opposed to their weaknesses.
+- Listening as opposed to __giving orders____.
+- ____long range benefits__ rather than short-term profits.
+- What are the 9 key attributes of servant leaders? listening, self awareness, foresight, empathy, persuasion, stewardship, healing, conceptualization, community building
+- According to the Economist Intelligence Unit, what are the top 3 emergent leadership requirements? ability to motivate, ability to work well across cultures and geographical boundaries and ability to facilitate change
