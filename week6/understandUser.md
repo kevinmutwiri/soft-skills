@@ -6,6 +6,7 @@
 - [BUILD Framework](#build-framework)
 - [Design Thinking](#design-thinking)
 - [Case Study: Apple and The Design of The iPhone](#case-study-apple-and-the-design-of-the-iphone)
+- [Getting to Know Your User](#getting-to-know-your-user)
 
 ## Human Centered Design
 
@@ -71,3 +72,17 @@ Here are some takeaways to guide you as you watch [the video on the history of t
 - Note that Apple doesn’t just create beautiful designs for aesthetic purposes; sure they look good, but more importantly, they work great!
 - Note some design choices made as a result of understanding their users and having empathy for them. For example, the design of the back of the 2nd iPhone switched from Aluminum to plastic because users wanted better 3G connectivity to the original’s edge network.
 - How many design thinking choices did you notice in this video?
+
+
+## Getting to Know Your User
+
+In relation to the “U” step of the B.U.I.L.D framework and the key principles of Human Centered Design, it is important to take time to understand your users. Getting to know the User is crucial in developing a successful product or service and it will give you insights into:
+
+- Who the users are: Who are they? Who are they not?
+- User needs: Users have specific needs, and understanding those needs can help you develop a product or service that meets those needs.
+- User experience: A product or service that is user-friendly and meets the user’s needs will result in a positive user experience. This can lead to increased customer satisfaction and loyalty.
+- Competitive advantage: Understanding the user can give you a competitive advantage by developing a product or service that meets the user’s needs better than other available options.
+- Innovation Opportunities: By understanding the user’s needs, you can identify areas for innovation and develop new products or services that meet those needs.
+
+Let’s take a look at [this short video](https://www.youtube.com/watch?v=vrUR8CgfXdw) that gives a great example of the value of understanding the user in order to provide a seamless user experience.
+
