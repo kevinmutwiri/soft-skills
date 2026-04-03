@@ -4,6 +4,8 @@
 
 - [Leadership & Followership](#leadership--followership)
 - [Servant Leadership](#servant-leadership)
+- [How Important are Leaders?](#how-important-are-leaders)
+- [Leadership Types](#leadership-types)
 
 
 ## Leadership & Followership
@@ -67,3 +69,30 @@ Servant leadership is about…
 - ____long range benefits__ rather than short-term profits.
 - What are the 9 key attributes of servant leaders? listening, self awareness, foresight, empathy, persuasion, stewardship, healing, conceptualization, community building
 - According to the Economist Intelligence Unit, what are the top 3 emergent leadership requirements? ability to motivate, ability to work well across cultures and geographical boundaries and ability to facilitate change
+
+
+## How Important are Leaders?
+
+Kevin Eikenberry from Bud to Boss has a great perspective on this question! Watch [his short video](https://www.youtube.com/watch?v=k-kFjqwZQ1U) to learn more. Make sure you can answer the following questions:
+
+- Why is the answer to the question “How Important Are Leaders?” paradoxical? Explain.
+- Name at least 2 problems that happen when leaders take themselves too seriously.
+- “At the end of the day” what is the role of the leader?
+- What can you do to increase your chances of success as a leader?
+
+## Leadership Types
+
+We have touched on 1 leadership type: servant leadership. But what are the other common leadership types that are worth contemplating?
+
+As you review this page’s content and watch [this video](https://www.youtube.com/watch?v=0fx7yy9-L7E), consider the following questions:
+
+- What kind of a leader am I?
+- What could I do to become a better leader?
+- What kind of leader do I want to become?
+
+Let’s look at 3 other types of leadership types:
+
+- **Democratic Leadership**: Also known as participative or facilitative leadership, this leadership style makes decisions based on every team member’s feedback and input. Although the leader would make the final call, every team member has an equal say in the team project’s direction.
+- **Autocratic Leadership**: This leadership style is the opposite of democratic leadership. In this leadership style, the leader is the sole decision maker and does not solicit input from any team member.
+- **Laissez-Faire Leadership**: This leadership style is also called “hands-off leadership”, and is considered the least “intrusive” type of leadership “Laissez-Faire” is the French word for “let them do”. In this style, leaders give almost all the authority to their team members and don’t interfere unless the situation calls for it.
+
