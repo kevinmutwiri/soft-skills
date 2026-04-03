@@ -6,6 +6,9 @@
 - [Communication: The 7 C's](#communication-the-7-cs)
 - [Proactive Communication](#proactive-communication)
 - [Communication: Listening](#communication-listening)
+- [Communication: Building Consensus](#communication-building-consensus)
+- [Communication: Giving Feedback](#communication-giving-feedback)
+
 
 ## What Makes a Teammate Truly Outstanding?
 
@@ -118,3 +121,55 @@ Here are a few tips you can practice that will help you become a better listener
 
 - What is one way you personally can restate someone’s message without it feeling forced or awkward?
 - Is there a way you might ask someone, “Did I get that right?” and have it sound authentically like you?
+
+
+## Communication: Building Consensus
+
+When you read the word “consensus”, what do you think of? Do you think of a group of people agreeing 100% with one another? That would be nice, but it’s not what consensus requires!
+
+Consensus is reaching an agreement.
+Creating consensus within a team means finding a proposed action acceptable enough so that all team members can support it, with no team member opposing it.
+
+Consensus happens when teammates do the following:
+
+- Share their opinions and ideas
+- Listen effectively to one another
+- Respectfully discuss the differences in their ideas and explore compromises
+- Are willing to not get everything they each want
+- Agree on an outcome that everyone can live with.
+
+Consensus is NOT:
+
+- Having a unanimous vote
+- Majority rule
+- One-person rule
+- Haggling or bargaining
+
+### 4 Steps to Build Consensus in Your Team
+
+Let’s look at the steps generally involved in creating consensus in a team
+
+#### Step 1: Understand Who Is Involved (AKA Your Stakeholders)
+
+You must understand the stakeholders involved in a decision-making process to find common ground. This will help ensure that all perspectives and points of view are considered. When you account for everybody’s concerns, requirements, and priorities, you encourage open communication and trust-building.
+
+#### Step 2: Agree on What is The Problem
+
+You must start with a clear purpose and focus on the issues at hand. Once you align everybody’s common purpose and vision, it is then easier to identify the main problem.
+
+#### Step 3: Brainstorm with Your Team!
+
+Brainstorming sessions encourage every team member to express ideas, as well as their concerns and perspectives. This helps build alignment and understanding amongst team members.
+
+#### Step 4: Create Space for Feedback
+
+Create a physical or online space that feels safe for every team member to provide honest feedback. This will enhance the consensus-building process.
+
+## Communication: Giving Feedback
+
+Being able to give effective, constructive feedback is another key skill that outstanding teammates have developed. Like any skill, we learn to get better at giving (and receiving) feedback over time. In [this 5-minute video](https://www.youtube.com/watch?v=wtl5UrrgU8c), LeeAnn Renniger shares her steps for giving great feedback, developed after years of studying people who are really good at doing it!
+
+As you watch the video, ask yourself:
+
+- What are the components of giving great feedback?
+- What are things you want to avoid?
