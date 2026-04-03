@@ -13,3 +13,8 @@ Let’s watch [this short video](https://www.youtube.com/watch?v=musmgKEPY2o) fr
 - What is the definition of human centered design?
 - What are your initial impressions of human centered design as an approach to solving problems?
 - What is one way that you might use human centered design being used in your everyday life?
+
+The details shared by IDEO, is only one perspective of how to define and implement Human Centered Design. But it’s not the only one! Let’s also watch [this video](https://www.youtube.com/watch?v=0bxtEqM2TQU) from DevEx to look at another way of applying this approach, and further hone our understanding of Human Centered Design. As you watch the video, ask yourself:
+
+- How is the DevEx explanation different from IDEO’s? What about it is the same?
+- Have you been applying some of these elements before? How can you start to do so in the future?
