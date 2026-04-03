@@ -200,3 +200,7 @@ As you watch, please make sure you can answer the following questions:
 - What is the magic but destructive word we shouldn’t use? **BUT**
 - When we say “tell me more” it opens up a space for ……others to give us feedback….
 - Feedback makes us ……grow….
+
+Remember, you should be gracious and grateful when receiving feedback. You should also listen so that you can learn. Even if you only agree with 10% of what the person said, you would have learned something helpful. Ultimately, you get to decide what you want to do with the feedback. But you will be able to come to the best conclusion if you have first listened with an open mind.
+
+In short, listen to learn, and then do what’s best!
