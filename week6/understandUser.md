@@ -4,6 +4,7 @@
 
 - [Human Centered Design](#human-centered-design)
 - [BUILD Framework](#build-framework)
+- [Design Thinking](#design-thinking)
 
 ## Human Centered Design
 
@@ -31,3 +32,22 @@ We have our own story of innovative Human Centered Design in the African Leaders
 - What do you appreciate (or not appreciate) about this model?
 
 <img width="1920" height="1217" alt="build" src="https://github.com/user-attachments/assets/afa21c37-0fac-48c4-a2a1-9a2547a7a41a" />
+
+
+## Design Thinking
+
+<img width="1920" height="1080" alt="dt" src="https://github.com/user-attachments/assets/b9045493-a6dc-4fc1-adac-f5bf7a5066ed" />
+
+Design Thinking provides a way to solve complex problems by understanding human needs, reframing the issue in a human-centric way, generating multiple ideas through brainstorming and creative thinking, and testing out ideas through prototyping and innovation.
+It is important to note that this process is non-linear and iterative, meaning that while there are 5 stages, they do not necessarily have to be done in order and each step can be revisited at any point in the process.
+
+The 5 stages are:
+
+1. Empathize
+2. Define
+3. Ideate
+4. Prototype
+5. Test
+
+Let’s read [this article](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process) from the Hasso Plattner Institute of Design at Stanford (the d.school) to learn about the five stages of design thinking.
+
