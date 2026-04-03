@@ -8,6 +8,7 @@
 - [Communication: Listening](#communication-listening)
 - [Communication: Building Consensus](#communication-building-consensus)
 - [Communication: Giving Feedback](#communication-giving-feedback)
+- [Communication: Receiving Feedback](#communication-listening)
 
 
 ## What Makes a Teammate Truly Outstanding?
@@ -182,3 +183,20 @@ As you watch the video, ask yourself:
 
 4. **End with a question**: For example: “How does this land for you?” or “What was your experience of the situation?”
 
+## Communication: Receiving Feedback
+
+Giving feedback to another person can often feel fairly easy. But what about receiving feedback? We often dread it because sometimes the message is something we don’t want to hear!
+
+So how do you positively receive feedback and make the most of it? Watch the following [5-minute video](https://www.youtube.com/watch?v=4BpPtjKpJZM), where communication expert John Izzo shares a great technique for how you can better hear and make good use of feedback.
+
+As you watch, please make sure you can answer the following questions:
+
+
+- When most of us get feedback, our immediate reaction is to ……defend….
+- If I defend, two things can happen:
+  1. I am not ……open… to the feedback because I am looking for a way to …protect…… my ego.
+  2. I am likely to ……shut… the other person.
+- What is the simple technique for receiving feedback called (5 words)? Thank you tell me more
+- What is the magic but destructive word we shouldn’t use? **BUT**
+- When we say “tell me more” it opens up a space for ……others to give us feedback….
+- Feedback makes us ……grow….
