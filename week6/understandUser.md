@@ -134,3 +134,4 @@ Let’s watch [this video](https://www.youtube.com/watch?v=TWrY5NkaUKY) on Empat
 - What type of questions do you need to answer?
 - What tools can you use to create an Empathy Map?
 
+Read this article on [mindonmap.com](https://www.mindonmap.com/blog/empathy-map-template-example/) and note the different examples of empathy maps that they provide.
