@@ -7,6 +7,8 @@
 - [Design Thinking](#design-thinking)
 - [Case Study: Apple and The Design of The iPhone](#case-study-apple-and-the-design-of-the-iphone)
 - [Getting to Know Your User](#getting-to-know-your-user)
+- [Case Study: The Rise of Slack](#case-study-the-rise-of-slack)
+- [Creating an Empathy Map](#creating-an-empathy-map)
 
 ## Human Centered Design
 
@@ -91,3 +93,44 @@ By conducting user research. A process of gathering information about users to i
 Taking time to research your user will equip you with the information you need to evaluate your ideas, solutions and designs and will guide you in your decision making.
 
 One key way to learn more about the User is through User Interviews
+
+## Case Study: The Rise of Slack
+
+Slack is a messaging and collaboration platform that allows teams to communicate and work together on projects
+
+What you might not know is the Slack origin story, which started as a gaming company called Glitch that failed to take off after the initial success of the game. The game was discontinued in 2012. The team created an internal messaging platform during the development of the game to help them develop the game more effectively. They realized that there was an opportunity for user research as the developers recognized the potential value of this messaging system to other teams.
+
+User research was conducted by observing how their messaging system was being used and gathering feedback from their own team members who continued to use the platform even after the game was discontinued. They found that there was a potential market for a similar tool. Based on this user and market research they decided to pivot from a gaming company to a communications company.
+
+They spent the next months refining and improving the messaging platform and in 2013, they launched Slack as a standalone platform. The platform quickly gained popularity among tech startups and small businesses.
+
+The platform quickly gained popularity for several reasons:
+
+- User experience: The interface is colourful and vibrant.
+- Fun and engaging: Use of emojis, and gifs among other fun features.
+- Customization: Gives users the ability to create new channels, add and remove members etc.
+- Collaboration: It has features like file sharing and video calling.
+
+In [this video](https://www.youtube.com/watch?v=wHL9xixdCBk), notice how:
+
+- There’s a focus on the user experience. They listen to their users and know that their primary customer base consists mostly of young people working in tech startups and small businesses, thus the focus on making the platform fun and engaging.
+- Focus on incorporating AI which we covered back in module 2 for future proofing themselves and giving more value to their users and customers.
+
+
+## Creating an Empathy Map
+
+So you’ve done your interviews… now what do you do with the information you’ve collected? Create an empathy map!
+
+An empathy map is a visual tool that shows a user’s responses during an interview. It helps designers understand the needs, thoughts, and feelings of their users. It is typically used during the user research and ideation stages of a design process to create a shared understanding of the user’s experience and to inform the design process.
+
+An empathy map typically consists of four quadrants that represent different aspects of the user’s experience: what the user says, what the user does, what the user thinks, and what the user feels. The quadrants are further divided into sub-sections that help to identify specific aspects of the user’s experience, such as their motivations, pain points, and goals.
+
+Using an empathy map gives designers a deeper understanding of their users’ needs, behaviours, and emotions. This information can then be used to inform design decisions and create solutions that meet the needs and expectations of the user.
+
+Let’s watch [this video](https://www.youtube.com/watch?v=TWrY5NkaUKY) on Empathy Maps. As you watch the video, think about the following questions:
+
+- What is an Empathy Map and how do you use it?
+- When do you need to use an Empathy Map
+- What type of questions do you need to answer?
+- What tools can you use to create an Empathy Map?
+
