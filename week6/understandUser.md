@@ -86,3 +86,8 @@ In relation to the “U” step of the B.U.I.L.D framework and the key principle
 
 Let’s take a look at [this short video](https://www.youtube.com/watch?v=vrUR8CgfXdw) that gives a great example of the value of understanding the user in order to provide a seamless user experience.
 
+**So how do you even begin to know the user?**
+By conducting user research. A process of gathering information about users to inform the design and development of a product or service.
+Taking time to research your user will equip you with the information you need to evaluate your ideas, solutions and designs and will guide you in your decision making.
+
+One key way to learn more about the User is through User Interviews
