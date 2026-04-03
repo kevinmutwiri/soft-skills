@@ -173,3 +173,12 @@ As you watch the video, ask yourself:
 
 - What are the components of giving great feedback?
 - What are things you want to avoid?
+
+1. **Ask a micro-yes question**: Ask a question to make sure the person is ready to receive feedback. For example: “I have some feedback about how that went. Would you like to hear it? Is it a good time?” Or “Do you have 5 minutes for me to share some thoughts about what happened in our last meeting?”
+
+2. **Give data points and be specific and objective**: Avoid ambiguous or vague statements like “You could be more proactive.” Instead try statements like, “You said you’d send out that email by 11am and I still don’t have it.”
+
+3. **Show impact**: Name exactly how the actions affected you. For example: “I have 3 clients that are threatening to go to our competitor because we haven’t delivered on time.” (You may also request a specific different action or behaviour.)
+
+4. **End with a question**: For example: “How does this land for you?” or “What was your experience of the situation?”
+
