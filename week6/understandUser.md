@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [Human Centered Design](#human-centered-design)
+- [BUILD Framework](#build-framework)
 
 ## Human Centered Design
 
@@ -18,3 +19,14 @@ The details shared by IDEO, is only one perspective of how to define and impleme
 
 - How is the DevEx explanation different from IDEO’s? What about it is the same?
 - Have you been applying some of these elements before? How can you start to do so in the future?
+
+## BUILD Framework
+
+We have our own story of innovative Human Centered Design in the African Leadership Group (ALG). This is through African Leadership Academy (ALA), which modified the Human Centered Design approach to come up with the BUILD Framework. You can think of the BUILD framework as one specific method for conducting Human Centered Design. Let’s dig deeper into this framework and understand what it’s all about.
+
+[video](https://www.youtube.com/watch?v=hhGO9maXDQA) that explains the BUILD Framework. As you review this content, ponder the following questions:
+
+- What does the acronym BUILD stand for?
+- What is the difference between the BUILD process and the Human Centered Design framework you just learned about?
+- What do you appreciate (or not appreciate) about this model?
+
