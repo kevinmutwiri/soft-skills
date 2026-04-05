@@ -29,5 +29,7 @@ As you watch, please make sure you can answer the following questions:
   <img width="514" height="230" alt="image" src="https://github.com/user-attachments/assets/ee058ca2-8545-4941-8b28-c58428ec0ce4" />
 
 - What is a deductive argument?
+  <img width="848" height="422" alt="image" src="https://github.com/user-attachments/assets/68528d45-ef04-42e4-ba1f-fd6d6ebf37df" />
+
 - The most important arguments are _______, where the truth of the premises gives good reason to believe the conclusion, but does not absolutely guarantee the truth of the conclusion.
 
