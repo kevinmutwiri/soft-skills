@@ -8,3 +8,4 @@
 - [Understanding the User](./understandUser.md)
 - [Understanding the Market](./undestandMarket.md)
 - [Intro to Wireframes and Prototypes](./wireframesPrototypes.md)
+- [Solution Generation](./solutionGeneration.md)
