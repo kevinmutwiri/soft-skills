@@ -7,6 +7,7 @@
 - [Divergent Thinking: Idea Generation Techniques](#divergent-thinking-idea-generation-techniques)
 - [The Scamper Technique](#the-scamper-technique)
 - [Divergent Thinking: The Bad Idea Brainstorm Session](#divergent-thinking-the-bad-idea-brainstorm-session)
+- [Convergent Thinking: Choosing an Idea](#convergent-thinking-choosing-an-idea)
 
 
 ## Creative Innovation
@@ -96,3 +97,13 @@ We are all creative beings, but we can easily feel blocked from our creativity b
 
 If you want to geek out even further on why the Bad Idea Brainstorm Session is a great idea, check out this highly recommended (optional) article and video [here](https://ixdf.org/literature/topics/worst-possible-idea).
 
+
+## Convergent Thinking: Choosing an Idea
+
+The following two articles provide you with techniques on how to decide on the right idea. As you read them, think to yourself:
+
+
+Which of these methods do I think would work the best and why?
+Are there any methods that I want to try in our upcoming team meeting?
+- [Article  1: How to select the best idea by the end of an ideation session](https://ixdf.org/literature/article/how-to-select-the-best-idea-by-the-end-of-an-ideation-session)
+- [Article 2: Too many ideas? Here’s how to select the right ones](https://www.linkedin.com/pulse/too-many-ideas-heres-how-select-right-ones-andreas-von-criegern/)
