@@ -4,6 +4,7 @@
 
 - [Creative Innovation](#creative-innovation)
 - [Divergent vs. Convergent Thinking](#divergent-vs-convergent-thinking)
+- [Divergent Thinking: Idea Generation Techniques](#divergent-thinking-idea-generation-techniques)
 
 
 ## Creative Innovation
@@ -43,4 +44,14 @@ In summary, divergent thinking is focused on generating multiple ideas and possi
 Both types of thinking of valuable and needed for different stages of coming up with solutions. The important thing is to be consciously aware and intentional about which type of thinking you are using. If you are trying to practice Divergent Thinking, then you need to make sure you are not bringing in criticism or analysis, because this shuts down the creative process
 
 [This short video](https://www.youtube.com/watch?v=xjE2RV6IQzo) is definitely worth the watch. It further emphasizes the difference between the 2 types of thinking, and why they should never be done at once.
+
+
+## Divergent Thinking: Idea Generation Techniques
+
+Have you ever experienced brain block? It’s that feeling you get when you can’t seem to come up with any good ideas. Well, worry no more – below are a few divergent thinking techniques that you can use to generate ideas in any situation!
+
+[This video](https://www.youtube.com/watch?v=xXsHI_VlhmY) is from the famous Silicon Valley company IDEO on how they brainstorm and other ideation techniques that can be used. As you watch, make note of:
+
+- The technique they share.
+- The importance of an empathy map.
 
