@@ -4,6 +4,7 @@
 
 - [Evidence-Based Reasoning](#evidence-based-reasoning)
 - [Introduction to Logic](#introduction-to-logic)
+- [Deductive and Inductive Logic](#deductive-and-inductive-logic)
 
 ## Evidence-Based Reasoning
 
@@ -31,5 +32,16 @@ As you watch, please make sure you can answer the following questions:
 - What is a deductive argument?
   <img width="848" height="422" alt="image" src="https://github.com/user-attachments/assets/68528d45-ef04-42e4-ba1f-fd6d6ebf37df" />
 
-- The most important arguments are _______, where the truth of the premises gives good reason to believe the conclusion, but does not absolutely guarantee the truth of the conclusion.
+- The most important arguments are ___inductive____, where the truth of the premises gives good reason to believe the conclusion, but does not absolutely guarantee the truth of the conclusion.
 
+<img width="886" height="534" alt="image" src="https://github.com/user-attachments/assets/87d595bb-341c-4992-b057-aeb428083050" />
+
+
+## Deductive and Inductive Logic
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29b488b3-8149-4c2b-b519-f5e8eb46c8dc" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32b6ab06-3ebb-42b3-9dd2-07460449a3ed" />
+
+So, What is the difference between deductive and inductive reasoning? [This 2-minute video](https://www.youtube.com/watch?v=GEId0GonOZM) provides a helpful example:
