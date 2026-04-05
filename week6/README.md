@@ -9,3 +9,4 @@
 - [Understanding the Market](./undestandMarket.md)
 - [Intro to Wireframes and Prototypes](./wireframesPrototypes.md)
 - [Solution Generation](./solutionGeneration.md)
+- [Making Decisions](./makingDecisions.md)
