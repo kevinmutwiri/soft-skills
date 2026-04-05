@@ -5,6 +5,7 @@
 - [Creative Innovation](#creative-innovation)
 - [Divergent vs. Convergent Thinking](#divergent-vs-convergent-thinking)
 - [Divergent Thinking: Idea Generation Techniques](#divergent-thinking-idea-generation-techniques)
+- [The Scamper Technique](#the-scamper-technique)
 
 
 ## Creative Innovation
@@ -55,3 +56,25 @@ Have you ever experienced brain block? It’s that feeling you get when you can�
 - The technique they share.
 - The importance of an empathy map.
 
+
+## The Scamper Technique
+
+Here is another method for ideation that you and your team might find useful. It’s called the “SCAMPER technique”. It will not work for every ideation process but is a good one to know and keep in your back pocket for future use.
+
+SCAMPER stands for the following:
+
+1. Substitute
+
+2. Combine
+
+3. Adapt
+
+4. Modify
+
+5. Put to other use
+
+6. Eliminate
+
+7. Reverse
+
+Watch [this video](https://www.youtube.com/watch?v=-OMJINQIZzA) to learn more about what each term in the acronym means!
