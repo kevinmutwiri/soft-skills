@@ -7,6 +7,7 @@
 
 - [Preparing for a User Interview](#preparing-for-a-user-interview)
 - [Choosing Interviewees](#choosing-interviewees)
+- [How to Conduct a User Interview](#how-to-conduct-a-user-interview)
 
 ## Preparing for a User Interview
 
@@ -40,3 +41,20 @@ This list of activities is not as simple as it looks particularly when conductin
 
 - Have I understood each of the 5 recruiting strategies and the best time to use them.
 - Have I understood each strategy’s benefits and limitations?
+
+<img width="901" height="590" alt="image" src="https://github.com/user-attachments/assets/b4b40204-4f52-4657-a0ba-cc54c603141c" />
+
+
+## How to Conduct a User Interview
+
+Big ideas are exciting, but here’s the real question: will your idea actually work for real people in the real world? That is where user interviews come in.
+
+In [this video](https://www.youtube.com/watch?v=K5QG9UeULRQ), Narjeet walks you through how to conduct user interviews that help you validate your business idea before you invest too much time, money, or energy. As you watch, focus on how to listen deeply, test assumptions, and learn from what people actually do—not just what they say they might do.
+
+Pay special attention to:
+
+- How to set the stage and gain empathy from your user.
+- The importance of mapping assumptions before you even start.
+- Defining a minimum success criteria for your research.
+- Why you should focus on past and present behavior rather than future feelings.
+- Tips for capturing “currency” at the end of an interview.
