@@ -8,6 +8,9 @@
 - [Preparing for a User Interview](#preparing-for-a-user-interview)
 - [Choosing Interviewees](#choosing-interviewees)
 - [How to Conduct a User Interview](#how-to-conduct-a-user-interview)
+- [Empathy for Problem Solving Recap](#empathy-for-problem-solving-recap)
+- [Review: Effective Questions](#review-effective-questions)
+
 
 ## Preparing for a User Interview
 
@@ -75,3 +78,38 @@ From what you have just learned, respond to the following questions:
 - After the interview is over, what should you do to ensure you don’t lose the insights you gained?
 
 We want you to win in everything so, in line with our style, we are sharing the quick checklist with everything that you need to do before, during and after the interview. [Here you go!](https://docs.google.com/spreadsheets/d/1wm8xuRbUWWw79lpR_ga3lWzM2r6Q1Ptuu5oLjwmwh_M/edit?usp=sharing)
+
+
+## Empathy for Problem Solving Recap
+
+
+<img width="1920" height="541" alt="image" src="https://github.com/user-attachments/assets/87acf5c2-5c26-4a99-80b2-183eaab83806" />
+
+<img width="1920" height="541" alt="image" src="https://github.com/user-attachments/assets/3f7ee26c-b28a-43d3-98eb-2a2abfac55d6" />
+
+
+## Review: Effective Questions
+
+Effective questions help us to:
+
+- Gain information: You can gather specific and detailed information that will help you improve your v1 solution.
+- Clarify understanding: You can uncover users’ assumptions or misunderstandings, and use these to improve your solution.
+- Foster critical thinking: Developing effective questions helps you build your critical thinking skills.
+- Build relationships: When you ask thoughtful questions and show interest and empathy when listening to the answers, you foster meaningful connections with others. This also makes you a more empathetic problem solver.
+- Solve problems: Asking the right questions can help you identify a problem’s root cause and lead to more creative solutions.
+ 
+
+Let’s review the 4 types of questions that you might ask your users:
+
+**Convergent questions** can help you narrow down to specific answers.
+
+**Divergent questions** open up unlimited avenues for responses.
+
+**Evaluative questions** to encourage deep analysis to answer.
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/35616c9c-5af6-46ad-9ec7-0480e4376ee0" />
+
+**Provocative questions** are designed to evoke an emotional response that may lead to deeper reflection.
+
+<img width="1081" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73af634-4d8f-4145-95f6-57f9665d5746" />
+
