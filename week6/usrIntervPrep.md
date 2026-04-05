@@ -58,3 +58,20 @@ Pay special attention to:
 - Defining a minimum success criteria for your research.
 - Why you should focus on past and present behavior rather than future feelings.
 - Tips for capturing “currency” at the end of an interview.
+
+Pro-Tip: Remember, you are not there to sell your idea—you are there to learn. The best interviews uncover the truth, even when that truth surprises you.
+
+From what you have just learned, respond to the following questions:
+
+- What are assumptions in the context of a business idea, and why is it vital to identify them first?
+- The speaker suggests defining a “minimum success criteria.” If you interview 20 people, what is an example of a successful outcome? (Find the answer at minute 2:12.)
+- Where are some physical or digital locations where you might find your specific user segment?
+- Why does the speaker recommend having two people present for the interview instead of just one?
+- During the interview, you should stick to …………… and …………… behavior. (3:08)
+- The video warns against “pitching” your idea. Why should you avoid asking, “Would you use this in the future?”
+- Rewrite this question to focus on actual behavior: “Do you think you would like a laundry delivery app?”
+- According to the video, what is the “currency” you should try to earn at the end of the interview? (4:00)
+- List the five steps of the interview process mentioned in the guide.
+- After the interview is over, what should you do to ensure you don’t lose the insights you gained?
+
+We want you to win in everything so, in line with our style, we are sharing the quick checklist with everything that you need to do before, during and after the interview. [Here you go!](https://docs.google.com/spreadsheets/d/1wm8xuRbUWWw79lpR_ga3lWzM2r6Q1Ptuu5oLjwmwh_M/edit?usp=sharing)
