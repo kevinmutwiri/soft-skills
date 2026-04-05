@@ -24,8 +24,10 @@ Logic is another tool for critical thinking that you can use when evaluating cho
 
 As you watch, please make sure you can answer the following questions:
 
-- What are the 2 parts that make up an argument?
+- What are the 2 parts that make up an argument? Premise and conclusion
 - What makes a valid argument?
+  <img width="514" height="230" alt="image" src="https://github.com/user-attachments/assets/ee058ca2-8545-4941-8b28-c58428ec0ce4" />
+
 - What is a deductive argument?
 - The most important arguments are _______, where the truth of the premises gives good reason to believe the conclusion, but does not absolutely guarantee the truth of the conclusion.
 
