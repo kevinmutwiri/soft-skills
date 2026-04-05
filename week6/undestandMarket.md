@@ -7,6 +7,8 @@
 - [Size of The Opportunity 2](#size-of-the-opportunity-2)
 - [Calculating Tam Using Google Sheets](#calculating-tam-using-google-sheets)
 - [Calculating Sam Using Google Sheets](#calculating-sam-using-google-sheets)
+- [Activity: Calculating TAM Using Google Sheets](#activity-calculating-tam-using-google-sheets)
+- [Trends in The Industry](#trends-in-the-industry)
 
 ## User/Customer Segmentation
 
@@ -147,3 +149,40 @@ Important Note:
 Sometimes, calculating TAM and SAM will also involve making assumptions around the average revenue per user (ARPU) that you might get, and then multiplying your raw people numbers with this. However, because we are focusing on GCGOs that might not have a typical ‘price per user’ model, we will stop at the potential population for now.
 
 Watch [this video](https://www.youtube.com/watch?v=3CMCNPCsXuA) to learn more about how to calculate your TAM and SAM!
+
+## Activity: Calculating TAM Using Google Sheets
+
+1. Create a new Google Sheet and name it “TAM & SAM Sizing for GCGO”.
+2. Think back to your chosen team problem and determine an idea/solution that you would like to evaluate in relation to this problem.
+3. Once you have your idea, create a market sizing question related to it (e.g. “What is the market size for sustainable Afro-fashion?” or “How many people use internet on their phones?”).
+4. Determine some high-level characteristics for your target market. Remember to keep this generic and broad for now – you are trying to determine how many people might be able to engage with your product/service.
+5. Based on this target market description, conduct research on the relevant numbers and place them in your Google sheet.
+6. Now, you have your TAM. To determine your SAM, determine some more detailed characteristics for your target market. This time, think about which people within your target market you can realistically reach (e.g. if your solution depends on the internet, then you need to scope your SAM to only include those who have access to the internet).
+7. Based on these details, conduct research to determine realistic assumptions to calculate your SAM. Place them in your Google sheet.
+8. Build the right formulas in order to calculate your SAM.
+9. Now, you have your SAM!
+
+To see a sample of what your Google sheet may look like, [click here](https://docs.google.com/spreadsheets/d/1smgKfbLuLDae5xdzNQORYW96QhhUW594pA2_HkFg91Y/edit?usp=sharing)!
+
+## Trends in The Industry
+
+Every brand wants to become the next big thing in its industry.
+
+But with so many trends nowadays, how do you identify which ones you should follow or completely disregard?
+
+[This next article by acceptmission.com](https://www.acceptmission.com/blog/how-to-identify-industry-trends-the-innovators-guide/) clearly defines:
+
+- What are the trends
+- What identifying them is important
+- The three types of trends
+- How to identify trends
+- Deciding on which trend to follow.
+
+Let’s read the article and ask yourself:
+
+Have I understood the 3 types of trends
+
+Have I grasped ways to identify an industry trend?
+
+How can an organization determine which trend to follow?
+
