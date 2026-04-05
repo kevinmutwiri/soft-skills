@@ -4,6 +4,7 @@
 
 - [User/Customer Segmentation](#usercustomer-segmentation)
 - [Size of The Opportunity 1](#size-of-the-opportunity-1)
+- [Size of The Opportunity 2](#size-of-the-opportunity-2)
 
 ## User/Customer Segmentation
 
@@ -63,3 +64,17 @@ The “Total Addressable Market” can be defined as:
 - The total number of people who could leverage/use your solution in their daily lives
 
 Watch [this video](https://www.youtube.com/watch?v=MxT7vNJuXUU) to learn more about TAM.
+
+
+## Size of The Opportunity 2
+
+**What is SAM?**
+While the “TAM” gives you the whole potential “pie” of people that you can reach with your business/solution, the “Serviceable Addressable Market” focuses on the more realistic set of people that you can potentially serve.
+
+There are a few ways that you can get from TAM to SAM:
+
+- Assume what % of the TAM you can realistically penetrate
+- Research how many customers businesses/solutions similar to yours are currently reaching
+- Define more strictly the characteristics of the population you are trying to serve
+
+Watch [this video](https://www.youtube.com/watch?v=rucOEh8hOOw) to learn more about SAM in relation to TAM and SOM. As you watch, make sure you are able to differentiate SAM, TAM and SOM.
