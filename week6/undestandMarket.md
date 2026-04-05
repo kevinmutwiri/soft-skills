@@ -9,6 +9,8 @@
 - [Calculating Sam Using Google Sheets](#calculating-sam-using-google-sheets)
 - [Activity: Calculating TAM Using Google Sheets](#activity-calculating-tam-using-google-sheets)
 - [Trends in The Industry](#trends-in-the-industry)
+- [Ecosystem Analysis](#ecosystem-analysis)
+- [Business Models](#business-models)
 
 ## User/Customer Segmentation
 
@@ -186,3 +188,43 @@ Have I grasped ways to identify an industry trend?
 
 How can an organization determine which trend to follow?
 
+
+## Ecosystem Analysis
+
+What Is a Business Ecosystem?
+A business ecosystem is the network of organizations—including suppliers, distributors, customers, competitors, government agencies, and so on - involved in the delivery of a specific product or service through both competition and cooperation. The idea is that each entity in the ecosystem affects and is affected by the others, creating a constantly evolving relationship in which each entity must be flexible and adaptable in order to survive as in a biological ecosystem.
+
+In the 1930s, British botanist Arthur Tansley introduced the term ecosystem to describe a community of organisms interacting with each other and their environments: air, water, earth, etc. To thrive, these organisms compete and collaborate with each other on available resources, co-evolve, and jointly adapt to external disruptions.
+
+Business strategist James Moore adopted this biological concept in his 1993 Harvard Business Review article “Predators and Prey: A New Ecology of Competition”, in which he paralleled companies operating in the increasingly interconnected world of commerce to a community of organisms adapting and evolving to survive. Moore suggested that a company be viewed not as a single firm in an industry, but as a member of a business ecosystem with participants spanning across multiple industries.
+
+Advances in technology and increasing globalization have changed ideas about the best ways to do business, and the idea of a business ecosystem is thought to help companies understand how to thrive in this rapidly changing environment. When an ecosystem thrives, it means that the participants have developed patterns of behaviour that streamline the flow of ideas, talent, and capital throughout the system.
+
+Ecosystems and Competition
+Ecosystems create strong barriers to entry for new competition, as potential entrants not only have to duplicate or better the core product, but they must also compete against the entire system of independent complementing businesses and suppliers that form the network.
+
+Being a part of a business ecosystem provides mechanisms to leverage technology, achieve excellence in research and business competence, and compete effectively against other companies. Some other goals of a business ecosystem include:
+
+Driving new collaborations to address rising social and environmental challenges
+Harnessing creativity and innovation to lower the cost of production or allow members to reach new customers
+Accelerating the learning process to effectively collaborate and share insights, skills, expertise, and knowledge
+Creating new ways to address fundamental human needs and desires
+It is for these reasons that in today’s rapidly changing business world, a company creates its own ecosystem or comes up with a way to join an existing ecosystem by providing an advantage that is currently lacking in that ecosystem.
+
+The above write-up is courtesy of [investopedia.com](https://www.investopedia.com/terms/b/business-ecosystem.asp). Let’s get another perspective from this article by [ey.com](https://www.ey.com/en_gl/alliances/what-business-ecosystem-means-and-why-it-matters)
+
+## Business Models
+
+A business model refers to how a company creates, delivers, and captures value. It includes various elements such as the target customer segment, value proposition, revenue streams, cost structure, and key resources and activities.
+
+
+On the other hand, a business ecosystem refers to the network of companies, organizations, and other entities that are involved in delivering a particular product or service to the market. It includes suppliers, distributors, competitors, customers, and other stakeholders.
+
+The relationship between a business model and a business ecosystem is that a business model is shaped by the dynamics of a business ecosystem. A company’s ecosystem can influence its value proposition, target customer segment, and revenue streams. For example, if a company operates in a highly competitive ecosystem, it may need to adopt a cost leadership strategy to stay profitable.
+
+Similarly, a company’s business model can also influence the dynamics of its ecosystem. For example, a company that relies heavily on a particular supplier may have a significant impact on that supplier’s business and the overall ecosystem. Therefore, it is essential for companies to understand the dynamics of their business ecosystem and how it relates to their business model.
+
+Read these next two articles to understand the importance of having a business model , how to select one that fits your needs or how to design one.
+
+- Article 1: [How to Design a Winning Business Model - Harvard Business Review](https://hbr.org/2011/01/how-to-design-a-winning-business-model)
+- Article 2: [A Checklist For Selecting The Right Business Model For Your Startup - Forbes Business](https://www.forbes.com/councils/forbesbusinesscouncil/2021/08/25/a-checklist-for-selecting-the-right-business-model-for-your-startup/?streamIndex=0)
