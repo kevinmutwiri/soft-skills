@@ -10,3 +10,4 @@
 - [Intro to Wireframes and Prototypes](./wireframesPrototypes.md)
 - [Solution Generation](./solutionGeneration.md)
 - [Making Decisions](./makingDecisions.md)
+- [Preparing for User Interviews](./usrIntervPrep.md)
