@@ -6,6 +6,7 @@
 - [Divergent vs. Convergent Thinking](#divergent-vs-convergent-thinking)
 - [Divergent Thinking: Idea Generation Techniques](#divergent-thinking-idea-generation-techniques)
 - [The Scamper Technique](#the-scamper-technique)
+- [Divergent Thinking: The Bad Idea Brainstorm Session](#divergent-thinking-the-bad-idea-brainstorm-session)
 
 
 ## Creative Innovation
@@ -78,3 +79,20 @@ SCAMPER stands for the following:
 7. Reverse
 
 Watch [this video](https://www.youtube.com/watch?v=-OMJINQIZzA) to learn more about what each term in the acronym means!
+
+
+## Divergent Thinking: The Bad Idea Brainstorm Session
+
+A Bad Idea Brainstorm Session is where participants are encouraged to come up with as many bad ideas as possible. The intention of a Bad Idea Brainstorm Session is to relax participants, boost their confidence, and stimulate their creativity.
+We are all creative beings, but we can easily feel blocked from our creativity because we worry that our ideas won’t be good enough (and perhaps that people will see this as a reflection of how smart we are). In order to help get rid of this worry, the Bad Idea Brainstorm Session asks you to intentionally come up with bad ideas. Think of it as a way to “turn on the tap” of idea generation, while also having a lot of fun! You have permission to come up with really dumb stuff! For example:
+
+- Solutions that are impossible to create or manufacture
+- Products that are confusing, unusable, or impractical
+- Experiences that are a nightmare for the user
+- Ideas that are bound to end in disaster or physical harm
+- Illegal or unethical designs
+
+[Here](https://www.youtube.com/watch?v=YXZamW4-Ysk) is a video on how to run these brainstorming sessions. Please watch it so you’re prepared to have your own Bad Idea Brainstorm Session with your own team this week!
+
+If you want to geek out even further on why the Bad Idea Brainstorm Session is a great idea, check out this highly recommended (optional) article and video [here](https://ixdf.org/literature/topics/worst-possible-idea).
+
