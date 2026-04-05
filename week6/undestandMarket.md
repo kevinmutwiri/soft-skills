@@ -5,6 +5,8 @@
 - [User/Customer Segmentation](#usercustomer-segmentation)
 - [Size of The Opportunity 1](#size-of-the-opportunity-1)
 - [Size of The Opportunity 2](#size-of-the-opportunity-2)
+- [Calculating Tam Using Google Sheets](#calculating-tam-using-google-sheets)
+- [Calculating Sam Using Google Sheets](#calculating-sam-using-google-sheets)
 
 ## User/Customer Segmentation
 
@@ -78,3 +80,70 @@ There are a few ways that you can get from TAM to SAM:
 - Define more strictly the characteristics of the population you are trying to serve
 
 Watch [this video](https://www.youtube.com/watch?v=rucOEh8hOOw) to learn more about SAM in relation to TAM and SOM. As you watch, make sure you are able to differentiate SAM, TAM and SOM.
+
+
+## Calculating Tam Using Google Sheets
+
+Calculating TAM and SAM may sound like a difficult endeavour at first, but trust us – it’s much easier than you think! Here are a few quick steps to get familiar with the process. For this exercise, we will pretend that you have selected the GCGO related to Sustainability and have decided that you want to launch a sustainable Afro-fashion line in East Africa. Let’s see if we can work on calculating the TAM and SAM for this.
+
+### Step 1: Understand Your Target Market
+
+Before you calculate your TAM, you need to first understand who falls into your “target market”. Who is likely to engage with / buy your product or service? For example, for your sustainable Afro-fashion line, perhaps you decide on the following buyer characteristics:
+
+- Women
+- Aged 15 to 40
+- Living in the East African countries of Kenya, Tanzania, Uganda and Rwanda
+
+Do not worry about getting too specific yet in this step. Remember that calculating TAM is about understanding the total universe of customers/users that might want to engage with your product or service.
+
+### Step 2: Gather Relevant Data
+
+Now that you have your target market characteristics, it’s as simple as collecting the data you need to determine how many people fit this description. For example, you might structure your Google sheet similarly to below to indicate what data points you’re looking for.
+
+<img width="730" height="396" alt="image" src="https://github.com/user-attachments/assets/d0e401c9-8ec1-48e8-9e89-12404adb156c" />
+
+Now, we go onto Google and search for the correct number of women aged 18 to 40 in each country. Remember to use reliable/valid sources, (using the CRAAP method!). After finding this data, your Google Sheet might look like the below:
+
+<img width="757" height="396" alt="image" src="https://github.com/user-attachments/assets/512e2d90-336c-4809-9b7c-8cd5507b15bb" />
+
+Through this simple data gathering and calculation, you have arrived at your TAM!
+
+## Calculating Sam Using Google Sheets
+
+### Step 3: Scope Your SAM
+
+Now that you have your TAM, how do we get to our “SAM”, or our “Serviceable Addressable Market”? To get SAM, we need to drill further into not only who might engage with our products/services, but who actually has the ability to do so. We also have to think about who we can realistically reach and how to scope our TAM appropriately. For example, for our sustainable Afro-business, we might think about the following:
+
+- We will probably only be able to reach women who live in urban centres as that is where we plan to place our shops
+- We will probably only be able to reach women who can afford to pay for sustainable fashion (i.e. those in middle and higher-income socioeconomic bands)
+
+### Step 4: Determine realistic assumptions
+
+To scope our SAM according to the above, we will need to do further research alongside creating some assumptions. For example:
+
+
+We find out from research, that the urban populations for the countries we have narrowed in on are as below:
+- Kenya: 29% (source: Knoema)
+- Tanzania: 37% (source: Knoema)
+- Rwanda: 18% (source: Knoema)
+- Uganda: 26% (source: Trading Economics)
+
+We find out from research that the middle and higher income population in East Africa is around 34% of the overall population (source: The East African)
+Using these assumptions, we can modify our TAM calculations on our Google Sheet:
+
+<img width="864" height="735" alt="image" src="https://github.com/user-attachments/assets/96185bc1-a930-44f9-9041-293d15d120d0" />
+
+Take note of the following shown above:
+
+- We used the same TAM numbers (#of women aged 18 to 40)
+- We then applied the assumptions to these numbers (e.g. we multiplied the # of women by the % residing in urban centres and the % who would fall into the middle and higher income bands)
+- This allowed us to arrive at an adjusted # of women we can realistically reach
+- We added these adjusted figures to come up with the total SAM
+
+Notice that the SAM is only 10% of the original TAM (this makes sense, as SAM should always be smaller than TAM)
+Now, you have calculated your SAM!
+
+Important Note:
+Sometimes, calculating TAM and SAM will also involve making assumptions around the average revenue per user (ARPU) that you might get, and then multiplying your raw people numbers with this. However, because we are focusing on GCGOs that might not have a typical ‘price per user’ model, we will stop at the potential population for now.
+
+Watch [this video](https://www.youtube.com/watch?v=3CMCNPCsXuA) to learn more about how to calculate your TAM and SAM!
