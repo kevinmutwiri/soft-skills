@@ -3,6 +3,7 @@
 > [home](./README.md)
 
 - [User/Customer Segmentation](#usercustomer-segmentation)
+- [Size of The Opportunity 1](#size-of-the-opportunity-1)
 
 ## User/Customer Segmentation
 
@@ -34,3 +35,31 @@ In [this video](https://www.youtube.com/watch?v=zPJtDohab-g), see how we can int
 
 - There may be _____ in your data who do not represent or belong to a particular segment.
 - The goal of the segmentation process should be set at the _____ which streamlines the segmentation process (in terms of the types of data which should be considered; demographic vs transactional).
+
+
+## Size of The Opportunity 1
+
+We have spent a good amount of time understanding our users and determining how a chosen problem affects them. But the best changemakers are able to view a problem or opportunity from both a micro lens (the effect on an individual person) and a macro lens (the effect on society as a whole).
+
+Up until now, you have been looking at your chosen problem mostly on its own. But we need to remember that these problems do not exist in a vacuum. We need to balance the impact on individuals with scale for any business/solution we create.
+
+### Why is determining the size of the opportunity important?
+
+There are a few reasons why it is important to understand the size of the opportunity you are addressing:
+
+- To convince investors that there is a lucrative business behind your idea
+- To demonstrate the potential impact of the solution/business you are creating
+- To determine the best approach or model to use
+- To get the buy-in of team members or colleagues
+- To determine the potential size of the GCGO you are tackling, you can calculate the TAM , or the “Total Addressable Market” and the SAM, or the “Serviceable Addressable Market”.
+
+
+What is TAM?
+The “Total Addressable Market” can be defined as:
+
+
+- The total number of people impacted by the problem you have identified
+- The total number of people who could benefit from your solution
+- The total number of people who could leverage/use your solution in their daily lives
+
+Watch [this video](https://www.youtube.com/watch?v=MxT7vNJuXUU) to learn more about TAM.
