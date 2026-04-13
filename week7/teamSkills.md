@@ -5,6 +5,8 @@
 - [Conflict Management: Approaches](#conflict-management-approaches)
 - [Scenario: Conflict Management](#scenario-conflict-management)
 - [Conflict Management Tips](#conflict-management-tips)
+- [Negotiation: Batna X Rapport](#negotiation-batna-x-rapport)
+- 
 
 ## Conflict Management: Approaches
 
@@ -107,3 +109,35 @@ In [this 2-minute video](https://www.youtube.com/watch?v=QLbGHQo4qnA), several t
 - What should you focus on during a conflict? a solution / wn win outcome
 - Which company encouraged conflict as a way to foster greater creativity? honda
 
+## Negotiation: Batna X Rapport
+
+Sometimes, you may have to negotiate with your teammates to reach common ground.
+
+If you find yourself in this situation, or other situations where negotiation is needed, here are FOUR well-tested tips to prepare yourself for a negotiation session.
+
+### 1. Identify your BATNA - your Best Alternative to a Negotiated Agreement.
+
+Your greatest power in a negotiation is having a strong back-up plan called BATNA (Best Alternative To a Negotiated Agreement). You should always enter any negotiation situation knowing what your BATNA is– that is, what you will do if the negotiation fails. BATNA is your next best option if you can’t reach an agreement.
+
+For instance, imagine you want to buy a memory chip from a friend for $10, and their asking price is $15. If you plan to negotiate with this friend, you should find out where else you might buy the memory chip. You may do a little research and find the same memory chip being sold online for $12. Buying the chip online for $12 becomes your strong BATNA. Knowing your BATNA gives you leverage and confidence to negotiate for the best deal possible!
+
+### 2. Build Rapport
+
+Before you start negotiating, make sure you kindly greet the other person and engage in small talk at the beginning! Research has shown that you and your counterpart may be more collaborative and likely to reach an agreement if you spend just a few minutes trying to get to know each other!
+
+### 3. Practice Active Listening
+
+Once you both start discussing the details of what you both want, try not to plan what you’re going to say next while your teammate is talking. Instead, really listen carefully to their statements, then paraphrase what you heard them say to check your understanding. This will help the other person feel that they are understood, help you more deeply understand what they want and need, and it may even help them listen closely to you too.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40e10b0d-8768-4548-b5f6-a8d375da605b" />
+
+
+### 4. Search for Smart Tradeoffs
+
+Here’s a cool strategy you can try: find out what your counterpart cares a lot about but you don’t value quite as much, then make a generous gesture by offering to make a concession on one of those things that they care deeply about. It’s like saying, “Hey, I can give you this because I know it means a lot to you.”
+
+In return for your concession, ask for a concession from them on an issue that you really care about. It’s like making a playful trade - you give a little on their important stuff, and they give a little on your important stuff.
+
+This approach creates a win-win situation where both of you feel heard and satisfied. It’s all about finding common ground and making compromises that make everyone happy.
+
+As an example, if two people were negotiating on features of their prototype, one person might concede that it can be painted green, because they don’t care quite as much about the color as the other person. In return, the other person could concede that they will use masking tape instead of glue, even though that’s not their first choice.
