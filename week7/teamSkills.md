@@ -3,6 +3,8 @@
 > [home](./README.md)
 
 - [Conflict Management: Approaches](#conflict-management-approaches)
+- [Scenario: Conflict Management](#scenario-conflict-management)
+- [Conflict Management Tips](#conflict-management-tips)
 
 ## Conflict Management: Approaches
 
@@ -71,4 +73,37 @@ Hiding in the shadows! This is when teammates try to avoid conflicts and disagre
 Meet halfway!? This is when you and your teammates use your negotiation skills to find a solution that gives everyone a little bit of what they want. It’s like when a friend prefers action movies, while you prefer romcoms. Instead of competing or avoiding the decision, you both decide to compromise by selecting a movie that combines elements of both genres. It’s a fair way to find a middle path and keep everyone satisfied.
 
 As you can see, there is not one right way. There is a time and place to apply each method. We hope that knowing when and where to apply each one will usher in effective teamwork this week. You will all have different opinions and knowing when to Avoid, Compete, Accommodate, Collaborate, and Compromise will come in handy.
+
+
+## Scenario: Conflict Management
+
+Let’s imagine this scenario:
+
+A large video game development firm has just required that 2 different teams of programmers (Team A and Team B) join forces.
+
+Each team was under different managers with very different leadership styles. Conflict in this scenario is highly likely! To mitigate this, HR has requested that the teams must decide on an effective way of working that will empower the merged team to collaborate and work together.
+
+Teams A and B have very strong and different opinions about the best approach.
+
+The leads of Teams A (Aya) and B (Beza) found themselves in an argument, each of them nearly shouting about why their way of working was the best until they remembered the Thomas Kilmann Conflict Management Model they learned at ALX.
+
+They remembered that high assertiveness and low cooperativeness (as they were both demonstrating right now) will lead to competition (as they were both demonstrating right now). As a new team, the leads realize that it would be better if the members could collaborate instead of compete.
+
+Collaboration requires high assertiveness and high cooperativeness.
+
+Beza realized that one critical way for both teams to cooperate would be for him to step down as team lead and let Aya take charge. After all, one team lead is sufficient for a team.
+
+As a result, the team was much more able to collaborate as ONE. In general, the team agreed that Aya might have a better team strategy than Beza for the team’s 6-month operations. However, her strategy came with many caveats and questions on feasibility.
+
+To collaborate, the team brainstormed for alternative solutions to improve the strategy. All team members were involved and the new strategy was submitted to HR.
+
+## Conflict Management Tips
+
+In [this 2-minute video](https://www.youtube.com/watch?v=QLbGHQo4qnA), several tips for managing conflict are given. As you watch, make sure you can answer these questions:
+
+- What is the “classic reason” for conflict? interpersonal conflicts
+- When conflict occurs, you can take a step back and ask yourself WHAT? challenging questions
+- What did author Steven Covey say? seek first to understand then to be understood
+- What should you focus on during a conflict? a solution / wn win outcome
+- Which company encouraged conflict as a way to foster greater creativity? honda
 
