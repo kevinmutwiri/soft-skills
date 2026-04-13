@@ -6,7 +6,7 @@
 - [Scenario: Conflict Management](#scenario-conflict-management)
 - [Conflict Management Tips](#conflict-management-tips)
 - [Negotiation: Batna X Rapport](#negotiation-batna-x-rapport)
-- 
+- [Quiz](#quiz)
 
 ## Conflict Management: Approaches
 
@@ -141,3 +141,20 @@ In return for your concession, ask for a concession from them on an issue that y
 This approach creates a win-win situation where both of you feel heard and satisfied. It’s all about finding common ground and making compromises that make everyone happy.
 
 As an example, if two people were negotiating on features of their prototype, one person might concede that it can be painted green, because they don’t care quite as much about the color as the other person. In return, the other person could concede that they will use masking tape instead of glue, even though that’s not their first choice.
+
+## Quiz
+
+The University of Colorado Boulder has an entertaining quiz that describes the 5 Conflict management methods in natural characters. You can take [this quiz](https://www.colorado.edu/today/2021/09/21/quiz-find-out-your-conflict-style). It is not prescriptive but can serve as a very light-hearted gauge of what you tend to resort to when resolving conflict, and how you can balance out the methods to get the most out of your team experience.
+
+In the quiz, the different conflict methods are represented by natural characters as follows:
+
+Collaborator - Owl
+
+Avoider - Turtle
+
+Compromiser - Bee
+
+Accommodator - Mouse
+
+Competitor - Lion
+
