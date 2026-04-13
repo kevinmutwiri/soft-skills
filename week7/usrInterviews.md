@@ -95,3 +95,24 @@ Is there anything else you would like to share about your experience?
 
 
 Note: This is by no means an exhaustive list, and if you come up with questions that help you better understand what the users need or want from the product, feel free to use them. In fact, you might come up with questions during the interview as you figure out how best to ask for more clarity.
+
+## Revising Your Solutions
+
+1. Form
+What does the aesthetics of your product look like right now?
+
+If you have a 3D prototype, your prototype may be too heavy, or too light. The colour might not look as good as you initially thought.
+
+If you have a wireframe, your “user flow” or screen’s “user experience” may not be as smooth as you thought.
+
+What revisions might you want to make to improve what you have?
+
+2. Fit
+Your solution may have a lot of different parts/features to it and may take a few different rounds of prototyping to make them all fit.
+
+How are your wireframes or 3D prototype features fitting with one another right now? Do you need to make any revisions in this aspect?
+
+3. Function
+Does your 3D prototype or wireframe function the way you expect it to?
+
+Consider all of these elements, and consider whether you’d like to review your 3D prototype or wireframes now or early next week.
