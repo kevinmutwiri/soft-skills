@@ -54,3 +54,24 @@ Below is one example of what a User Journey Map looks like. You will likely enco
 In addition to the below example, you can also take a quick glance at [this website](https://www.uxtweak.com/user-journey-map/examples/) with more examples. There is no need to memorize any information on the website as it will not be tested.
 
 <img width="1400" height="787" alt="image" src="https://github.com/user-attachments/assets/4be91480-69b2-4d43-96de-ac99e5c76a37" />
+
+
+## Individual Activity: Needs and Pain Points
+
+<img width="745" height="466" alt="image" src="https://github.com/user-attachments/assets/cae58736-c347-4d0b-913e-6e5db77d217a" />
+
+Some good and bad examples of pain points:
+
+A good example of a pain-point statement: “My user needs a way to stop their knees from bleeding”
+
+A bad example of a pain-point statement: “My user needs a bandaid.”
+
+A good example of a pain-point statement: “My user is frustrated with the lack of public transportation information for their area and needs a reliable solution that provides adequate up to information on matatus, boda bodas and minivan.”
+
+A bad example of a pain point statement: “My user needs transport.”
+
+Other good examples:
+
+User Need Statement: “My user needs a convenient and user-friendly mobile banking app that allows them to easily manage their finances on the go, check account balances, transfer funds, and pay bills.”
+
+User Pain Point Statement: “My user is frustrated with the manual and time-consuming expense tracking process, often leading to errors and difficulty in managing their personal finances efficiently.”
