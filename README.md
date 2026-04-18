@@ -9,5 +9,6 @@
 - [Week 5](./week5/README.md)
 - [Week 6](./week6/README.md)
 - [Week 7](./week7/README.md)
+- [Week 8](./week8/README.md)
 - [Google Workspace](./googleWorkspace/README.md)
 - [10 Ways to Google Like a Pro](./googleLikeAPro.md)
