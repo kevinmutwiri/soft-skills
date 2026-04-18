@@ -60,3 +60,30 @@ What are your assumptions about your product and your target product users?
 - How is a constraint different from a criterion?
 - What are some examples of constraints?
 
+#### Constraints
+
+- Name at least 1 potential ethical concern for your solution. (That is, in what way might your solution cause harm?)
+- What is 1 strategy you could use to mitigate this ethical concern?
+- What is one constraint or dependency (a condition or situation that your solution will rely on) that your solution has?
+- What strategy could you use to make this less of a concern?
+- Name 1 assumption that you’ve made about your solution or target users.
+
+## KPIs
+
+Once your solution becomes further developed, you’ll want to be able to measure how successful it is. But how can you gauge the performance and impact of your product? This is where Key Performance Indicators (KPIs) come in.
+
+<img width="1921" height="1628" alt="image" src="https://github.com/user-attachments/assets/d39d8954-e6b8-4bfc-849d-2a2a154c4d4f" />
+
+Let’s look at the basic steps of how they are created:
+
+1. Understand Your Product’s Objectives: To start, it’s essential to have a clear understanding of your product’s objectives. Ask yourself: What do you want to achieve with your product? Some example objectives include: engagement, driving revenue growth, or improving customer satisfaction.
+
+2. Identify Meaningful Metrics: Once you’ve defined your product goals, it’s time to identify the key metrics that align with those objectives. These metrics should be quantifiable and provide meaningful insights into your product’s performance. For instance, if your goal is to boost user engagement, metrics like daily active users, time spent per session, or user retention rate are indicators to consider.
+
+3. Make them SMART: Your KPIs should be specific and measurable, allowing you to track progress and make informed decisions. The more precise and targeted your KPIs, the better you can understand your product’s impact.
+
+4. Set Targets: To effectively measure success, set targets for each KPI. You could decide on these targets based on historical data, industry benchmarks, or just make ambitious yet achievable goals. Setting clear targets provides a benchmark against which you can evaluate your product’s performance and progress.
+
+Here is an example of a set of KPIs, in this case for a Tutoring App aiming to connect global, high-quality tutors to Zimbabwean students.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6dc6c60-443b-4fa0-9ed6-4dc4ce4e3638" />
