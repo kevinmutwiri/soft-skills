@@ -7,3 +7,4 @@
 - [Design Handover Process](./designHandoverProcess.md)
 - [Preparing to Pitch](./prepPitch.md)
 - [Powerful Presentations](./powerfulPresentations.md)
+- [Video Production and Editing](./vidProdEditing.md)
