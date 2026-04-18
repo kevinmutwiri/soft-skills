@@ -6,3 +6,4 @@
 - [Product Requirement Document](./prd.md)
 - [Design Handover Process](./designHandoverProcess.md)
 - [Preparing to Pitch](./prepPitch.md)
+- [Powerful Presentations](./powerfulPresentations.md)
