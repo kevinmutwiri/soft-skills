@@ -20,4 +20,4 @@
 
 ## Phase 3
 
-- [Week 9](./week9/README/.md)
+- [Week 9](./week9/README.md)
