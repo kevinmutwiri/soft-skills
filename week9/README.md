@@ -2,3 +2,4 @@
 
 > [home](../README.md)
 
+- [Identifying Opportunities](./idOpportunities.md)
